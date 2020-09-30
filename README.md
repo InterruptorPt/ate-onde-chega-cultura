@@ -2,7 +2,7 @@
 
 ## O projeto
 
-Queremos criar um mapa interativo dos equipamentos culturais em Portugal. 
+Queremos criar um mapa interativo dos equipamentos culturais em Portugal - bibliotecas, cinemas, teatros, salas de espectáculo, galerias de arte, etc.
 Este projeto comunitário do Interruptor é inspirado na série "Até onde chega a cultura?".
 
 ## Contribuir
