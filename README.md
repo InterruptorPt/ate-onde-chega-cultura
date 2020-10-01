@@ -10,7 +10,7 @@ Este projeto comunitário do Interruptor é inspirado na série "Até onde chega
 - [x] [bibliotecas](https://interruptorpt.github.io/ate-onde-chega-cultura/bibliotecas)
 - [ ] teatros
 - [ ] cinemas
-- [ ] museus
+- [x] [museus](https://interruptorpt.github.io/ate-onde-chega-cultura/museus)
 - [ ] recintos de espectáculo
 - [ ] galerias de arte
 
