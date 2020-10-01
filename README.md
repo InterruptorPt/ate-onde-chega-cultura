@@ -7,7 +7,7 @@ Este projeto comunitário do Interruptor é inspirado na série "Até onde chega
 
 ### O que queremos mapear?
 
-- [x] [bibliotecas](bibliotecas.html)
+- [x] [bibliotecas](https://interruptorpt.github.io/ate-onde-chega-cultura/bibliotecas)
 - [ ] teatros
 - [ ] cinemas
 - [ ] museus
