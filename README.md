@@ -11,7 +11,7 @@ Este projeto comunitário do Interruptor é inspirado na série "Até onde chega
 - [x] [teatros](https://interruptorpt.github.io/ate-onde-chega-cultura/teatros)
 - [x] [cinemas](https://interruptorpt.github.io/ate-onde-chega-cultura/cinemas)
 - [x] [museus](https://interruptorpt.github.io/ate-onde-chega-cultura/museus)
-- [ ] recintos de espectáculo
+- [x] [recintos de espectáculo](](https://interruptorpt.github.io/ate-onde-chega-cultura/galerias.html)
 - [ ] galerias de arte
 
 
