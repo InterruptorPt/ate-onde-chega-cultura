@@ -8,7 +8,7 @@ Este projeto comunitário do Interruptor é inspirado na série "Até onde chega
 ### O que queremos mapear?
 
 - [x] [bibliotecas](https://interruptorpt.github.io/ate-onde-chega-cultura/bibliotecas)
-- [ ] teatros
+- [x] [teatros](https://interruptorpt.github.io/ate-onde-chega-cultura/teatros)
 - [x] [cinemas](https://interruptorpt.github.io/ate-onde-chega-cultura/cinemas)
 - [x] [museus](https://interruptorpt.github.io/ate-onde-chega-cultura/museus)
 - [ ] recintos de espectáculo
