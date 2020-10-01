@@ -5,6 +5,16 @@
 Queremos criar um mapa interativo dos equipamentos culturais em Portugal - bibliotecas, cinemas, teatros, salas de espectáculo, galerias de arte, etc.
 Este projeto comunitário do Interruptor é inspirado na série "Até onde chega a cultura?".
 
+### O que queremos mapear?
+
+- [x] [bibliotecas](bibliotecas.html)
+- [ ] teatros
+- [ ] cinemas
+- [ ] museus
+- [ ] recintos de espectáculo
+- [ ] galerias de arte
+
+
 ## Contribuir
 
 Qualquer pessoa pode contribuir para este repositório. Contribuições para o projeto pressupõem a aceitação da **[licença](LICENSE)** associada e do nosso **[Código de Conduta](code_of_conduct.md)**.
