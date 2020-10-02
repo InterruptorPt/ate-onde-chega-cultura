@@ -1,4 +1,25 @@
-Lista e mapa dos teatros em Portugal:
-<p>
+<!DOCTYPE html>
 
-<iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3FitemLabel%20%3Fgeo%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ24354%3B%0A%20%20%20%20%20%20%20%20wdt%3AP625%20%3Fgeo%20.%0A%20%20%3Fitem%20wdt%3AP17%20wd%3AQ45%20.%0A%20%20%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22pt%2Cen%22%20%7D%20.%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+<body>
+  Lista e mapa dos teatros em Portugal:
+  <p>
+    <iframe id="wikidataframe" style="width: 80vw; height: 50vh; border: none;" referrerpolicy="origin"
+      sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+
+    <script>
+      var wikidataQuery = `
+# List of theaters in Portugal
+SELECT ?itemLabel ?geo WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q24354;
+        wdt:P625 ?geo .
+  ?item wdt:P17 wd:Q45 .
+  	SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" } .
+}
+`
+      var urlPrefix = "https://query.wikidata.org/embed.html#"
+      var frame = document.getElementById("wikidataframe")
+      frame.src = urlPrefix + encodeURI(wikidataQuery)
+
+    </script>
+  </p>
+</body>
