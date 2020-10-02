@@ -9,11 +9,11 @@
     <script>
       var wikidataQuery = `
 # List of art galleries in Portugal
-https://query.wikidata.org/sparql?query=SELECT ?itemLabel ?geo WHERE {
-  ?item wdt:P31/wdt:P279* wd:Q235065;
+SELECT ?itemLabel ?geo WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q1007870;
         wdt:P625 ?geo .
   ?item wdt:P17 wd:Q45 .
-  	SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" } .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" } .
 }
 `
       var urlPrefix = "https://query.wikidata.org/embed.html#"
