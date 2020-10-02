@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<body>
+  Lista e mapa de Recintos de Espetáculo em Portugal:
+  <p>
+    <iframe id="wikidataframe" style="width: 80vw; height: 50vh; border: none;" referrerpolicy="origin"
+      sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+
+    <script>
+      var wikidataQuery = `
+# List of show venues in Portugal
+SELECT ?itemLabel ?geo WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q18674739;
+        wdt:P625 ?geo .
+  ?item wdt:P17 wd:Q45 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" } .
+}
+`
+      var urlPrefix = "https://query.wikidata.org/embed.html#"
+      var frame = document.getElementById("wikidataframe")
+      frame.src = urlPrefix + encodeURI(wikidataQuery)
+
+    </script>
+  </p>
+</body>
