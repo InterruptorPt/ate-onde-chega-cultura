@@ -30,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  SelectedType _selectedType = SelectedType.CINEMA;
+  SelectedType _selectedType = SelectedType.CINEMAS;
   List<Marker> _markers = [];
 
   @override
