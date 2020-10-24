@@ -74,6 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         layers: [
           TileLayerOptions(
+              tileProvider: NetworkTileProvider(), // Needed for the map to render in Linux
               urlTemplate: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
               subdomains: ['a', 'b', 'c']),
           MarkerLayerOptions(
