@@ -2,7 +2,9 @@
 
 ## O projeto
 
-Queremos criar um mapa dos equipamentos culturais em Portugal.
+Estamos a criar um mapa dos equipamentos culturais em Portugal.
+
+![mapa-exemplo](./assets/screenshots/screenshot-1.png)
 
 Este é um projeto comunitário do [Interruptor](https://interruptor.pt/) inspirado na série *[Até onde chega a cultura?](https://interruptor.pt/podcasts/interruptor)*, que explora a distribuição geográfica de diversos equipamentos no nosso território para tentar perceber o alcance da cultura. Foi iniciado durante o [Hacktoberfest 2020](https://interruptor.pt/artigos/interruptor-x-hacktoberfest).
 
