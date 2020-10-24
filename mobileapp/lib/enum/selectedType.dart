@@ -9,6 +9,7 @@ enum SelectedType {
   MUSEUS,
   RECINTOS,
   TEATROS,
+  MONUMENTOS,
 }
 
 extension SelectedTypeExtension on SelectedType {
@@ -26,6 +27,8 @@ extension SelectedTypeExtension on SelectedType {
         return 'Q18674739';
       case SelectedType.TEATROS:
         return 'Q24354';
+      case SelectedType.MONUMENTOS:
+        return 'Q4989906';
     }
   }
 
@@ -43,6 +46,8 @@ extension SelectedTypeExtension on SelectedType {
         return Icons.workspaces_filled;
       case SelectedType.TEATROS:
         return Icons.theater_comedy;
+      case SelectedType.MONUMENTOS:
+        return Icons.account_balance;
     }
   }
 
