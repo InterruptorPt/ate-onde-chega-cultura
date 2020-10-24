@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <link rel="stylesheet"
+          href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+          crossorigin=""/>
+     <script
+          src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+          integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+          crossorigin=""></script>
+  </head>
+  <body>
+    <style>
+      #mapid { height: 90vh; }
+    </style>
+     <div id="mapid"></div>
+
+    <script>
+      var bibliotecas = `https://query.wikidata.org/bigdata/namespace/wdq/sparql?format=json&query=${encodeURIComponent(`
+        #Map of libraries in Portugal
+        SELECT ?itemLabel ?geo WHERE {
+          ?item wdt:P31/wdt:P279* wd:Q7075;
+          wdt:P625 ?geo .
+          ?item wdt:P17 wd:Q45 .
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" } .
+        }
+      `)}`;
+
+      var mymap = L.map('mapid').setView([41.14961, -8.61099], 13);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            subdomains: ['a', 'b', 'c'],
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+      }).addTo(mymap);
+
+      async function loadPoints(url) {
+        const points = await fetch(url).then(r => r.json());
+
+        console.log(points);
+        points.results.bindings.forEach(point => {
+          const geo = point.geo.value;
+          const label = point.itemLabel.value;
+          const coords = /Point\((.*) (.*)\)/.exec(geo).slice(1, 3).map(a => parseFloat(a)).reverse();
+
+          L.marker(coords).addTo(mymap).bindPopup(label);
+        });
+      }
+
+      loadPoints(bibliotecas);
+    </script>
+  </body>
+</html>
