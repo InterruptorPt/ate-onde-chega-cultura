@@ -49,7 +49,7 @@
         const points = await fetch(url).then(r => r.json());
 
         var icon = L.icon({
-          iconUrl: `/images/${category.icon}24px.svg`,
+          iconUrl: `images/${category.icon}24px.svg`,
           iconSize: [24, 24],
           iconAnchor: [12, 12],
           popupAnchor: [0, -12],
@@ -71,7 +71,7 @@
       }
 
       Promise.all(categories.map(loadCategoryLayer)).then(cats => {
-        const config = Object.fromEntries(cats.map(c => [`<img src="/images/${c.icon}24px.svg"> ${c.name}`, c.layer]));
+        const config = Object.fromEntries(cats.map(c => [`<img src="images/${c.icon}24px.svg"> ${c.name}`, c.layer]));
 
         L.control.layers({}, config).addTo(mymap);
       });
