@@ -10,6 +10,7 @@ Este é um projeto comunitário do [Interruptor](https://interruptor.pt/) inspir
 
 Os contribuidores iniciais incluem membros de várias comunidades locais ligadas aos movimentos de cultura e software livres, nomeadamente: [Flutter](https://github.com/FlutterPortugal), [Python](https://python.pt/), [Ubuntu](https://ubuntu-pt.org/) e [Wikimedia](https://pt.wikimedia.org/wiki/Wikimedia_Portugal).
 
+É possível ter acesso ao mapa por meio deste [link](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa)
 
 ### O que queremos mapear?
 
