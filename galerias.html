@@ -24,7 +24,8 @@
 
           <script>
             var wikidataQuery = `
-              # List of art galleries in Portugal
+              # Map of art galleries in Portugal
+              #defaultView:Map
               SELECT ?itemLabel ?geo WHERE {
                 ?item  wdt:P31/wdt:P279*  wd:Q1007870.  # Item is an instance or subclass of Art gallery (Q1007870)
                 ?item  wdt:P625           ?geo.         # Store item's geographic coordinates in the ?geo variable

@@ -24,7 +24,8 @@
 
           <script>
             var wikidataQuery = `
-              # List of libraries in Portugal
+              # Map of libraries in Portugal
+              #defaultView:Map
               SELECT ?itemLabel ?geo WHERE {
                 ?item  wdt:P31/wdt:P279*  wd:Q7075.  # Item is an instance or subclass of Library (Q7075)
                 ?item  wdt:P625           ?geo.      # Store item's geographic coordinates in the ?geo variable

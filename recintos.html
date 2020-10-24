@@ -24,7 +24,8 @@
 
           <script>
             var wikidataQuery = `
-              # List of show venues in Portugal
+              # Map of show venues in Portugal
+              #defaultView:Map
               SELECT ?itemLabel ?geo WHERE {
                 ?item  wdt:P31/wdt:P279*  wd:Q18674739.  # Item is an instance or subclass of Show venue (Q18674739)
                 ?item  wdt:P625           ?geo.          # Store item's geographic coordinates in the ?geo variable
