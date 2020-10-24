@@ -16,15 +16,14 @@
      <div id="mapid"></div>
 
     <script>
-      var bibliotecas = `https://query.wikidata.org/bigdata/namespace/wdq/sparql?format=json&query=${encodeURIComponent(`
-        #Map of libraries in Portugal
-        SELECT ?itemLabel ?geo WHERE {
-          ?item wdt:P31/wdt:P279* wd:Q7075;
-          wdt:P625 ?geo .
-          ?item wdt:P17 wd:Q45 .
-          SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" } .
-        }
-      `)}`;
+      var categories = [
+        { name: "Bibliotecas", icon: "local_library",     subclass: "Q7075" },
+        { name: "Cinemas",     icon: "movie",             subclass: "Q41253" },
+        { name: "Galerias",    icon: "filter_frames",     subclass: "Q1007870" },
+        { name: "Museus",      icon: "museum",            subclass: "Q33506" },
+        { name: "Recintos",    icon: "workspaces_filled", subclass: "Q18674739" },
+        { name: "Teatros",     icon: "theater_comedy",    subclass: "Q24354" },
+      ];
 
       var mymap = L.map('mapid').setView([41.14961, -8.61099], 13);
 
@@ -33,20 +32,46 @@
             attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
       }).addTo(mymap);
 
-      async function loadPoints(url) {
+      async function loadCategoryLayer(category) {
+        const url = `https://query.wikidata.org/bigdata/namespace/wdq/sparql?format=json&query=${encodeURIComponent(`
+          SELECT ?itemLabel ?geo WHERE {
+            ?item wdt:P31/wdt:P279* wd:${category.subclass}.  # Item is an instance or subclass of the given category
+            ?item wdt:P625 ?geo.                              # Store item's geographic coordinates in the ?geo variable
+            ?item wdt:P17 wd:Q45.                             # Item's country is Portugal
+
+            SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" }.
+          }
+        `)}`;
+
         const points = await fetch(url).then(r => r.json());
 
-        console.log(points);
+        var icon = L.icon({
+          iconUrl: `/images/${category.icon}24px.svg`,
+          iconSize: [24, 24],
+          iconAnchor: [12, 12],
+          popupAnchor: [0, -12],
+        });
+
+        const layer = L.layerGroup([]);
+
         points.results.bindings.forEach(point => {
           const geo = point.geo.value;
           const label = point.itemLabel.value;
           const coords = /Point\((.*) (.*)\)/.exec(geo).slice(1, 3).map(a => parseFloat(a)).reverse();
 
-          L.marker(coords).addTo(mymap).bindPopup(label);
+          layer.addLayer(L.marker(coords, { icon }).bindPopup(label));
         });
+
+        layer.addTo(mymap);
+
+        return { ...category, layer };
       }
 
-      loadPoints(bibliotecas);
+      Promise.all(categories.map(loadCategoryLayer)).then(cats => {
+        const config = Object.fromEntries(cats.map(c => [`<img src="/images/${c.icon}24px.svg"> ${c.name}`, c.layer]));
+
+        L.control.layers({}, config).addTo(mymap);
+      });
     </script>
   </body>
 </html>
