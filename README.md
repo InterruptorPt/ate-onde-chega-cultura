@@ -14,14 +14,13 @@ Os contribuidores iniciais incluem membros de várias comunidades locais ligadas
 
 ### O que queremos mapear?
 
-- [x] monumentos
 - [x] [bibliotecas](https://interruptorpt.github.io/ate-onde-chega-cultura/bibliotecas)
 - [x] [teatros](https://interruptorpt.github.io/ate-onde-chega-cultura/teatros)
 - [x] [cinemas](https://interruptorpt.github.io/ate-onde-chega-cultura/cinemas)
 - [x] [museus](https://interruptorpt.github.io/ate-onde-chega-cultura/museus)
 - [x] [recintos de espectáculo](https://interruptorpt.github.io/ate-onde-chega-cultura/recintos)
 - [x] [galerias de arte](https://interruptorpt.github.io/ate-onde-chega-cultura/galerias)
-
+- [x] [monumentos](https://interruptorpt.github.io/ate-onde-chega-cultura/monumentos)
 
 ## Contribuir
 
