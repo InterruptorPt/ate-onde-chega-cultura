@@ -2,11 +2,16 @@
 
 ## O projeto
 
-Queremos criar um mapa interativo dos equipamentos culturais em Portugal - bibliotecas, cinemas, teatros, salas de espectáculo, galerias de arte, etc.
-Este projeto comunitário do Interruptor é inspirado na série "Até onde chega a cultura?".
+Queremos criar um mapa dos equipamentos culturais em Portugal.
+
+Este é um projeto comunitário do [Interruptor](https://interruptor.pt/) inspirado na série *[Até onde chega a cultura?](https://interruptor.pt/podcasts/interruptor)*, que explora a distribuição geográfica de diversos equipamentos no nosso território para tentar perceber o alcance da cultura. Foi iniciado durante o [Hacktoberfest 2020](https://interruptor.pt/artigos/interruptor-x-hacktoberfest).
+
+Os contribuidores iniciais incluem membros de várias comunidades locais ligadas aos movimentos de cultura e software livres, nomeadamente: [Flutter](https://github.com/FlutterPortugal), [Python](https://python.pt/), [Ubuntu](https://ubuntu-pt.org/) e [Wikimedia](https://pt.wikimedia.org/wiki/Wikimedia_Portugal).
+
 
 ### O que queremos mapear?
 
+- [x] monumentos
 - [x] [bibliotecas](https://interruptorpt.github.io/ate-onde-chega-cultura/bibliotecas)
 - [x] [teatros](https://interruptorpt.github.io/ate-onde-chega-cultura/teatros)
 - [x] [cinemas](https://interruptorpt.github.io/ate-onde-chega-cultura/cinemas)
