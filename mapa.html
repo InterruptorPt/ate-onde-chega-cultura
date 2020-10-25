@@ -17,13 +17,13 @@
 
     <script>
       var categories = [
-        { name: "Bibliotecas", icon: "local_library",     subclass: "Q7075" },
-        { name: "Cinemas",     icon: "movie",             subclass: "Q41253" },
-        { name: "Galerias",    icon: "filter_frames",     subclass: "Q1007870" },
-        { name: "Monumentos",  icon: "account_balance",   subclass: "Q4989906" },
-        { name: "Museus",      icon: "museum",            subclass: "Q33506" },
-        { name: "Recintos",    icon: "workspaces_filled", subclass: "Q18674739" },
-        { name: "Teatros",     icon: "theater_comedy",    subclass: "Q24354" },
+        { name: "Bibliotecas", icon: "local_library",     url: "static-data/bibliotecas.json"  },
+        { name: "Cinemas",     icon: "movie",             url: "static-data/cinemas.json"  },
+        { name: "Galerias",    icon: "filter_frames",     url: "static-data/galerias.json"  },
+        { name: "Monumentos",  icon: "account_balance",   url: "static-data/monumentos.json"  },
+        { name: "Museus",      icon: "museum",            url: "static-data/museus.json"  },
+        { name: "Recintos",    icon: "workspaces_filled", url: "static-data/recintos.json"  },
+        { name: "Teatros",     icon: "theater_comedy",    url: "static-data/teatros.json"  },
       ];
 
       var mymap = L.map('mapid').setView([41.14961, -8.61099], 13);
@@ -34,11 +34,12 @@
       }).addTo(mymap);
 
       async function loadCategoryLayer(category) {
-        var url = 'static-data/bibliotecas.json';
+
+        var url = category.url;
 
         // Make it work on file://
         if ( window.location.href.startsWith('file://') ) {
-          url = 'https://interruptorpt.github.io/ate-onde-chega-cultura/'+url
+          url = 'https://interruptorpt.github.io/ate-onde-chega-cultura/'+category.url;
         }
 
         const points = await fetch(url).then(r => r.json());
