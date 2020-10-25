@@ -7,3 +7,4 @@ SELECT ?item ?itemLabel ?geo WHERE {
 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" }.
 }
+ORDER BY ?itemLabel
