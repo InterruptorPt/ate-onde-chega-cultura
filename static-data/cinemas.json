@@ -76,15 +76,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1389722 38.7127535)"
+                    "value": "Point(-8.60551111 41.1469)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q548009"
+                    "value": "http://www.wikidata.org/entity/Q2982699"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Animat\u00f3grafo do Rossio",
+                    "value": "Coliseu do Porto",
                     "xml:lang": "pt"
                 }
             },
@@ -124,15 +124,47 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.60551111 41.1469)"
+                    "value": "Point(-9.1389722 38.7127535)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q2982699"
+                    "value": "http://www.wikidata.org/entity/Q548009"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Coliseu do Porto",
+                    "value": "Animat\u00f3grafo do Rossio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.60964722 41.14775556)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3826131"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Rivoli",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.60694444 41.14556111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5120699"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Batalha",
                     "xml:lang": "pt"
                 }
             },
@@ -181,38 +213,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro do Campo Alegre",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.60964722 41.14775556)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3826131"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Rivoli",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.60694444 41.14556111)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5120699"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro Batalha",
                     "xml:lang": "pt"
                 }
             },
@@ -892,70 +892,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.423555555 41.549666666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q89602211"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cinema S\u00e3o Geraldo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.135644 38.715366)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q90334708"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio do Antigo Sal\u00e3o Lisboa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.490919444 39.824325)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q92096465"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro Avenida de Castelo Branco",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.157642 38.682853)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q97097702"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio do Cinema da Sociedade Filarm\u00f3nica Incr\u00edvel Almadense (SFIA)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.420834 38.699985)"
                 },
                 "item": {
@@ -1253,6 +1189,70 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa de Artes e Cultura do Tejo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.423555555 41.549666666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q89602211"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema S\u00e3o Geraldo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.135644 38.715366)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q90334708"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do Antigo Sal\u00e3o Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.490919444 39.824325)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92096465"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Avenida de Castelo Branco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.157642 38.682853)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q97097702"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do Cinema da Sociedade Filarm\u00f3nica Incr\u00edvel Almadense (SFIA)",
                     "xml:lang": "pt"
                 }
             }
