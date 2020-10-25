@@ -12,15 +12,91 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.681163 39.233882)"
+                    "value": "Point(-9.145715 38.723544)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q23890843"
+                    "value": "http://www.wikidata.org/entity/Q85726963"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Braamcamp Freire",
+                    "value": "Q85726963"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.145715 38.723544)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q85726963"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q85726963"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14291 38.717755)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q85726964"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q85726964"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14291 38.717755)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q85726964"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q85726964"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.17152 38.82741)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100871052"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Muncipal Jos\u00e9 Saramago",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.9354088 32.6663268)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q43988832"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Arquivo Regional e Biblioteca P\u00fablica da Madeira",
                     "xml:lang": "pt"
                 }
             },
@@ -28,15 +104,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.292816666 41.444275)"
+                    "value": "Point(-16.909955 32.651047)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q54865007"
+                    "value": "http://www.wikidata.org/entity/Q66816016"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Raul Brand\u00e3o",
+                    "value": "Ateneu Comercial do Funchal",
                     "xml:lang": "pt"
                 }
             },
@@ -44,431 +120,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.260497 42.108298)"
+                    "value": "Point(-8.567519 38.176837)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q62575008"
+                    "value": "http://www.wikidata.org/entity/Q72988394"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Melga\u00e7o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.631048 39.915386)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q62575070"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Pombal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.13021 40.396273)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815556"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa dos Arcos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.111481 40.723374)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815669"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Vouzela (antigos Pa\u00e7os do Concelho de Vouzela)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.493183333 39.825316666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70104241"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Jaime Lopes Dias",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.334472 41.207955)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71606077"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca-Museu Municipal de Paredes",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.74762 41.355514)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71608133"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Jos\u00e9 R\u00e9gio",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.503735 40.138707)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71680915"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Eug\u00e9nio de Andrade",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.490008 39.822632)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71681466"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Castelo Branco",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.491776 40.900879)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71713367"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de S. Jo\u00e3o da Madeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.652836 40.642098)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71714022"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Aveiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.479363 40.693069)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71715068"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Albergaria-a-Velha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.436059 41.649398)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71715928"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Professor Machado Vilela",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.620106 41.530557)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71734400"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Barcelos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.736445 40.74112)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71738333"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de S\u00e1t\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.66707 41.6878)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71740539"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Boticas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.737983 41.29285)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71742362"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Dr. J\u00falio Teixeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.744294 41.93993)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71743039"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Vila Nova de Cerveira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.417329 41.847459)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71744331"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Tomaz de Figueiredo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.838223 41.877434)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71795749"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Caminha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.418443 41.807372)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71801895"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Ponte da Barca",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.431991 39.290225)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71805741"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Portalegre",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.420714 38.701284)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71807210"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Quinta da Horta",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.311577 39.241618)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71808862"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal da Lourinh\u00e3",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.112968 38.763757)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71848091"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal dos Olivais",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.169052 38.759853)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71848741"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Orlando Ribeiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.273731 39.900399)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71890449"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Figueir\u00f3 dos Vinhos",
+                    "value": "Bibilioteca Municipal de Gr\u00e2ndola",
                     "xml:lang": "pt"
                 }
             },
@@ -492,15 +152,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.231571 37.095531)"
+                    "value": "Point(-9.155692 38.710734)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72022918"
+                    "value": "http://www.wikidata.org/entity/Q71851380"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal L\u00eddia Jorge",
+                    "value": "Biblioteca Francisco Pereira de Moura",
                     "xml:lang": "pt"
                 }
             },
@@ -508,15 +168,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.887786 37.150785)"
+                    "value": "Point(-8.518711 41.405995)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72056189"
+                    "value": "http://www.wikidata.org/entity/Q18500427"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Manuel Francisco do Estanco Louro",
+                    "value": "Biblioteca Funda\u00e7\u00e3o Cupertino de Miranda",
                     "xml:lang": "pt"
                 }
             },
@@ -524,15 +184,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.625811 40.05778)"
+                    "value": "Point(-8.425111111 40.207527777)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72078893"
+                    "value": "http://www.wikidata.org/entity/Q7895277"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Soure",
+                    "value": "Biblioteca Geral da Universidade de Coimbra",
                     "xml:lang": "pt"
                 }
             },
@@ -540,15 +200,223 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.860993 40.152587)"
+                    "value": "Point(-8.3968 41.5599)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72081229"
+                    "value": "http://www.wikidata.org/entity/Q100859326"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca P\u00fablica Municipal Pedro Fernandes Tom\u00e1s",
+                    "value": "Biblioteca Geral da Universidade do Minho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.4265 40.2071)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1773229"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Joanina",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.4265 40.2071)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1773229"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Joanina",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.427775 41.547995)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18500432"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca L\u00facio Craveiro da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.427775 41.547995)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18500432"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca L\u00facio Craveiro da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.601037 37.940714)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73790876"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Abade Correia da Serra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.49402 40.900236)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73787605"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Abade Vasco Moreira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.686681 40.171848)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73289372"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Afonso Duarte",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.809989 39.743885)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73038321"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Afonso Lopes Vieira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.07949 41.269492)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72315004"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Albano Sardoeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.337231 39.477033)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72744989"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Alexandre O'Neill",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.215718 38.645779)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73284128"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Almeida Faria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.62681389 41.14806667)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q856375"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Almeida Garrett",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.387419 40.026759)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73532849"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Ant\u00f3nio Arnaut",
                     "xml:lang": "pt"
                 }
             },
@@ -572,6 +440,694 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.405667 39.603461)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73938002"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Ant\u00f3nio Cartaxo da Fonseca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.274657 41.492514)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73152913"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Ant\u00f3nio Maria Mourinho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.805603 41.092033)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72949160"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Ant\u00f3nio Monteiro Cardoso",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.611606 40.981081)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92254761"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Aquilino Ribeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.155119 41.308676)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74233715"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Belmiro de Matos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.990803 38.652824)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73180310"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Bento de Jesus Cara\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.681163 39.233882)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q23890843"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Braamcamp Freire",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.681163 39.233882)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q23890843"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Braamcamp Freire",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.51604 41.410862)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74276153"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Camilo Castelo Branco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.245789 40.111384)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73073924"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Comendador Montenegro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.182029724 38.792297363)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73356961"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal D. Dinis",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.909038 40.651757)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74506447"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal D. Miguel da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.752055 40.600411)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73110144"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Alexandre Alves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.289977 39.694497)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72924752"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Ant\u00f3nio Bai\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.675108 38.949766)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73892947"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Ant\u00f3nio Gar\u00e7\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.668579 39.457254)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72160646"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Carlos Nunes Ferreira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.544901 38.64926)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73617621"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Hern\u00e2ni Cidade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.493183333 39.825316666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q70104241"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Jaime Lopes Dias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.737983 41.29285)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71742362"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. J\u00falio Teixeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.887786 37.150785)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72056189"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Dr. Manuel Francisco do Estanco Louro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.271308 40.534586)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72994936"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Eduardo Louren\u00e7o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.494495 40.117581)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72733528"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Eng\u00ba Jorge Bento",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.503735 40.138707)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71680915"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Eug\u00e9nio de Andrade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.233226 38.752569)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72304657"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Fernando Piteira Santos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.483405 40.835943)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73423283"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Ferreira de Castro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.682264 41.183367)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73134665"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Florbela Espanca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.3518 41.631412)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72318168"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Francisco de S\u00e1 de Miranda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.539744 39.480951)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74010893"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Gustavo Pinto Lopes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.077622 38.98398)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72400235"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Irene Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.67433 39.655272)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74408663"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Baptista Martins",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.144638 39.673215)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74207283"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Cardoso Pires",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.837707 37.031177)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73391310"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Mariano Gago",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.638249 41.007789)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72851098"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Marmelo e Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.74762 41.355514)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71608133"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 R\u00e9gio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.164785 38.652442)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72405116"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Saramago",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.861228 38.011441)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72425856"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Saramago",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.64336 37.59726)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100872961"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Saramago",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.028322 40.358368)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73895007"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jo\u00e3o Brand\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.071898 39.012828)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72620783"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jo\u00e3o Dubraz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.453824 39.41371)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72679071"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Laranjo Coelho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.934058 39.338735)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73621485"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Laureano Santos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.992598 38.255676)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72267134"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Lu\u00eds de Cam\u00f5es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.231571 37.095531)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72022918"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal L\u00eddia Jorge",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.444138 40.573007)"
                 },
                 "item": {
@@ -581,6 +1137,518 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal Manuel Alegre",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.77969 41.531108)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72859910"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Manuel Boaventura",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.976682 38.707181)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73298977"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Manuel Giraldes da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.538825 37.133457)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73550675"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Manuel Teixeira Gomes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.08968 37.702754)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72720209"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Manuel da Fonseca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.692581 38.019063)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73643383"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Manuel da Fonseca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.907214 40.724636)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72216460"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Maria Nat\u00e9rcia Ruivo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.540137 40.618965)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72946357"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Maria Teresa Maia Gonzalez",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.62156 39.207322)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72217521"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Marquesa de Cadaval",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.053683 40.220208)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q16498198"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Miguel Torga",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.527675 41.584014)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74413220"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Norberto Lopes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.169052 38.759853)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71848741"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Orlando Ribeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.137961 41.635495)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74201118"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Padre Alves Vieira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.099378 39.804359)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73792701"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Padre Manuel Antunes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.574102 41.337825)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74169484"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Prof. Doutor Ant\u00f3nio Cruz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.002397 41.391481)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72724765"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Prof. Marcelo Rebelo de Sousa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.376851 41.278103)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73480148"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Prof. Vieira Dinis",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.436059 41.649398)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71715928"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Professor Machado Vilela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.292816666 41.444275)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q54865007"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Raul Brand\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.759972222 41.385166666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7353769"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Rocha Peixoto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.178443 41.485361)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73173928"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Sarmento Pimentel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.018169 37.138966)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73039016"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Sophia de Mello Breyner Andresen",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.417329 41.847459)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71744331"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Tomaz de Figueiredo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.090686 40.519212)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73940148"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Tom\u00e1s Ribeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.711535 41.341971)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73175603"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Trindade Coelho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.449926 38.143695)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73303519"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Urbano Tavares Rodrigues",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.592868 40.494352)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72975226"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Verg\u00edlio Ferreira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.42022 37.191086)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74364727"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Vicente Campinas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.481607 39.357211)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72728633"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal da Chamusca - Ruy Gomes da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.498508 40.275131)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72747055"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal da Covilh\u00e3",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.311577 39.241618)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71808862"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal da Lourinh\u00e3",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.933892 39.74963)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73123649"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal da Marinha Grande",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.142032 39.402386)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72576648"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal das Caldas da Rainha",
                     "xml:lang": "pt"
                 }
             },
@@ -604,31 +1672,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.51148 38.371129)"
+                    "value": "Point(-8.479363 40.693069)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72155107"
+                    "value": "http://www.wikidata.org/entity/Q71715068"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Alc\u00e1cer do Sal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.668579 39.457254)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72160646"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Carlos Nunes Ferreira",
+                    "value": "Biblioteca Municipal de Albergaria-a-Velha",
                     "xml:lang": "pt"
                 }
             },
@@ -661,6 +1713,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Alcochete",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.51148 38.371129)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72155107"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Alc\u00e1cer do Sal",
                     "xml:lang": "pt"
                 }
             },
@@ -732,31 +1800,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-6.907214 40.724636)"
+                    "value": "Point(-9.157784 38.678484)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72216460"
+                    "value": "http://www.wikidata.org/entity/Q9656741"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Maria Nat\u00e9rcia Ruivo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.62156 39.207322)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72217521"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Marquesa de Cadaval",
+                    "value": "Biblioteca Municipal de Almada",
                     "xml:lang": "pt"
                 }
             },
@@ -812,70 +1864,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.992598 38.255676)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72267134"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Lu\u00eds de Cam\u00f5es",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.233226 38.752569)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72304657"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Fernando Piteira Santos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.07949 41.269492)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72315004"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Albano Sardoeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.3518 41.631412)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72318168"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Francisco de S\u00e1 de Miranda",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.439787 40.435063)"
                 },
                 "item": {
@@ -924,31 +1912,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.077622 38.98398)"
+                    "value": "Point(-8.652836 40.642098)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72400235"
+                    "value": "http://www.wikidata.org/entity/Q71714022"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Irene Lisboa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.164785 38.652442)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72405116"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Jos\u00e9 Saramago",
+                    "value": "Biblioteca Municipal de Aveiro",
                     "xml:lang": "pt"
                 }
             },
@@ -972,15 +1944,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.078609 38.659471)"
+                    "value": "Point(-8.620106 41.530557)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72421137"
+                    "value": "http://www.wikidata.org/entity/Q71734400"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal do Barreiro",
+                    "value": "Biblioteca Municipal de Barcelos",
                     "xml:lang": "pt"
                 }
             },
@@ -988,15 +1960,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.861228 38.011441)"
+                    "value": "Point(-7.66707 41.6878)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72425856"
+                    "value": "http://www.wikidata.org/entity/Q71740539"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Beja - Jos\u00e9 Saramago",
+                    "value": "Biblioteca Municipal de Boticas",
                     "xml:lang": "pt"
                 }
             },
@@ -1036,47 +2008,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.099794 39.242527)"
+                    "value": "Point(-8.838223 41.877434)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72532266"
+                    "value": "http://www.wikidata.org/entity/Q71795749"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal do Cadaval",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.142032 39.402386)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72576648"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal das Caldas da Rainha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.071898 39.012828)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72620783"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Jo\u00e3o Dubraz",
+                    "value": "Biblioteca Municipal de Caminha",
                     "xml:lang": "pt"
                 }
             },
@@ -1132,6 +2072,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.490008 39.822632)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71681466"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Castelo Branco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.274357 41.040322)"
                 },
                 "item": {
@@ -1141,22 +2097,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Castelo de Paiva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.453824 39.41371)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72679071"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Laranjo Coelho",
                     "xml:lang": "pt"
                 }
             },
@@ -1196,22 +2136,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.08968 37.702754)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72720209"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Manuel da Fonseca",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.39638 40.632566)"
                 },
                 "item": {
@@ -1228,31 +2152,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.002397 41.391481)"
+                    "value": "Point(-7.469281 41.741296)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72724765"
+                    "value": "http://www.wikidata.org/entity/Q9656596"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Prof. Marcelo Rebelo de Sousa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.481607 39.357211)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72728633"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal da Chamusca - Ruy Gomes da Silva",
+                    "value": "Biblioteca Municipal de Chaves",
                     "xml:lang": "pt"
                 }
             },
@@ -1276,70 +2184,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.494495 40.117581)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72733528"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Eng\u00ba Jorge Bento",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.337231 39.477033)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72744989"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Alexandre O'Neill",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.498508 40.275131)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72747055"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal da Covilh\u00e3",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.645438 39.286825)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72801720"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal do Crato",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.892651 38.165332)"
                 },
                 "item": {
@@ -1356,31 +2200,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.638249 41.007789)"
+                    "value": "Point(-7.162215 38.879268)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72851098"
+                    "value": "http://www.wikidata.org/entity/Q92251572"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Jos\u00e9 Marmelo e Silva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.77969 41.531108)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72859910"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Manuel Boaventura",
+                    "value": "Biblioteca Municipal de Elvas Dra. Elsa Grilo",
                     "xml:lang": "pt"
                 }
             },
@@ -1436,22 +2264,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.201164 41.367354)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72872300"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca e Arquivo Municipal de Felgueiras",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.115978 38.057992)"
                 },
                 "item": {
@@ -1468,47 +2280,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.289977 39.694497)"
+                    "value": "Point(-8.273731 39.900399)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72924752"
+                    "value": "http://www.wikidata.org/entity/Q71890449"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Ant\u00f3nio Bai\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.540137 40.618965)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72946357"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Maria Teresa Maia Gonzalez",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.805603 41.092033)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72949160"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Ant\u00f3nio Monteiro Cardoso",
+                    "value": "Biblioteca Municipal de Figueir\u00f3 dos Vinhos",
                     "xml:lang": "pt"
                 }
             },
@@ -1580,54 +2360,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.592868 40.494352)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72975226"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Verg\u00edlio Ferreira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.567519 38.176837)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72988394"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Bibilioteca Municipal de Gr\u00e2ndola",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.271308 40.534586)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q72994936"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Eduardo Louren\u00e7o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.242829 39.92435)"
                 },
                 "item": {
@@ -1637,22 +2369,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Idanha-a-Nova",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.67136 40.605598)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73013581"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de \u00cdlhavo",
                     "xml:lang": "pt"
                 }
             },
@@ -1692,54 +2408,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.809989 39.743885)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73038321"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Afonso Lopes Vieira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.018169 37.138966)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73039016"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Sophia de Mello Breyner Andresen",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.245789 40.111384)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73073924"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Comendador Montenegro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.283029 41.275741)"
                 },
                 "item": {
@@ -1772,54 +2440,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.752055 40.600411)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73110144"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Alexandre Alves",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.933892 39.74963)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73123649"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal da Marinha Grande",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.682264 41.183367)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73134665"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Florbela Espanca",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.451705 40.377684)"
                 },
                 "item": {
@@ -1836,31 +2456,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.258011 40.965851)"
+                    "value": "Point(-8.260497 42.108298)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73137761"
+                    "value": "http://www.wikidata.org/entity/Q62575008"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de M\u00eada",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.662972 37.638662)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73146700"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de M\u00e9rtola",
+                    "value": "Biblioteca Municipal de Melga\u00e7o",
                     "xml:lang": "pt"
                 }
             },
@@ -1877,86 +2481,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Mira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.274657 41.492514)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73152913"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Ant\u00f3nio Maria Mourinho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.178443 41.485361)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73173928"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Sarmento Pimentel",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.711535 41.341971)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73175603"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Trindade Coelho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.990803 38.652824)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73180310"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Bento de Jesus Cara\u00e7a",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.48397 42.077844)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73262804"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Mon\u00e7\u00e3o",
                     "xml:lang": "pt"
                 }
             },
@@ -2012,47 +2536,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.215718 38.645779)"
+                    "value": "Point(-8.48397 42.077844)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73284128"
+                    "value": "http://www.wikidata.org/entity/Q73262804"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Almeida Faria",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.686681 40.171848)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73289372"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Afonso Duarte",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.976682 38.707181)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73298977"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Manuel Giraldes da Silva",
+                    "value": "Biblioteca Municipal de Mon\u00e7\u00e3o",
                     "xml:lang": "pt"
                 }
             },
@@ -2076,15 +2568,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.449926 38.143695)"
+                    "value": "Point(-7.662972 37.638662)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73303519"
+                    "value": "http://www.wikidata.org/entity/Q73146700"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Urbano Tavares Rodrigues",
+                    "value": "Biblioteca Municipal de M\u00e9rtola",
                     "xml:lang": "pt"
                 }
             },
@@ -2092,15 +2584,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.182029724 38.792297363)"
+                    "value": "Point(-7.258011 40.965851)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73356961"
+                    "value": "http://www.wikidata.org/entity/Q73137761"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal D. Dinis",
+                    "value": "Biblioteca Municipal de M\u00eada",
                     "xml:lang": "pt"
                 }
             },
@@ -2117,38 +2609,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Oeiras",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.837707 37.031177)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73391310"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Jos\u00e9 Mariano Gago",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.483405 40.835943)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73423283"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Ferreira de Castro",
                     "xml:lang": "pt"
                 }
             },
@@ -2229,22 +2689,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Ovar",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.376851 41.278103)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73480148"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Prof. Vieira Dinis",
                     "xml:lang": "pt"
                 }
             },
@@ -2348,22 +2792,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.387419 40.026759)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73532849"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Ant\u00f3nio Arnaut",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.791333 41.162981)"
                 },
                 "item": {
@@ -2373,6 +2801,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Peso da R\u00e9gua",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.631048 39.915386)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q62575070"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Pombal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.418443 41.807372)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71801895"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Ponte da Barca",
                     "xml:lang": "pt"
                 }
             },
@@ -2396,15 +2856,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.538825 37.133457)"
+                    "value": "Point(-7.431991 39.290225)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73550675"
+                    "value": "http://www.wikidata.org/entity/Q71805741"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Manuel Teixeira Gomes",
+                    "value": "Biblioteca Municipal de Portalegre",
                     "xml:lang": "pt"
                 }
             },
@@ -2444,22 +2904,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.544901 38.64926)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73617621"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Hern\u00e2ni Cidade",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.793139 41.525122)"
                 },
                 "item": {
@@ -2476,15 +2920,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.934058 39.338735)"
+                    "value": "Point(-8.491776 40.900879)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73621485"
+                    "value": "http://www.wikidata.org/entity/Q71713367"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Laureano Santos",
+                    "value": "Biblioteca Municipal de S. Jo\u00e3o da Madeira",
                     "xml:lang": "pt"
                 }
             },
@@ -2508,15 +2952,31 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.692581 38.019063)"
+                    "value": "Point(-8.542833333 40.928138888)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73643383"
+                    "value": "http://www.wikidata.org/entity/Q18500442"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Manuel da Fonseca",
+                    "value": "Biblioteca Municipal de Santa Maria da Feira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.542833333 40.928138888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18500442"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Santa Maria da Feira",
                     "xml:lang": "pt"
                 }
             },
@@ -2540,38 +3000,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.407353 41.147882)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73679896"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de S\u00e3o Jo\u00e3o da Pesqueira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.161286 39.534869)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73745382"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal do Sardoal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.701428 40.419338)"
                 },
                 "item": {
@@ -2588,70 +3016,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.102554 38.638709)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73785795"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal do Seixal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.49402 40.900236)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73787605"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Abade Vasco Moreira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.601037 37.940714)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73790876"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Abade Correia da Serra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.099378 39.804359)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73792701"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Padre Manuel Antunes",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.100367 38.445133)"
                 },
                 "item": {
@@ -2661,22 +3025,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Sesimbra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.889673 38.523381)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73804170"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca P\u00fablica Municipal de Set\u00fabal",
                     "xml:lang": "pt"
                 }
             },
@@ -2764,15 +3112,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.675108 38.949766)"
+                    "value": "Point(-8.625811 40.05778)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73892947"
+                    "value": "http://www.wikidata.org/entity/Q72078893"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Dr. Ant\u00f3nio Gar\u00e7\u00e3o",
+                    "value": "Biblioteca Municipal de Soure",
                     "xml:lang": "pt"
                 }
             },
@@ -2780,15 +3128,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.028322 40.358368)"
+                    "value": "Point(-7.736445 40.74112)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73895007"
+                    "value": "http://www.wikidata.org/entity/Q71738333"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Jo\u00e3o Brand\u00e3o",
+                    "value": "Biblioteca Municipal de S\u00e1t\u00e3o",
                     "xml:lang": "pt"
                 }
             },
@@ -2796,47 +3144,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.647694 37.122361)"
+                    "value": "Point(-7.407353 41.147882)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73935991"
+                    "value": "http://www.wikidata.org/entity/Q73679896"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal \u00c1lvaro de Campos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.405667 39.603461)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73938002"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Ant\u00f3nio Cartaxo da Fonseca",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.090686 40.519212)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73940148"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Tom\u00e1s Ribeiro",
+                    "value": "Biblioteca Municipal de S\u00e3o Jo\u00e3o da Pesqueira",
                     "xml:lang": "pt"
                 }
             },
@@ -2860,15 +3176,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.539744 39.480951)"
+                    "value": "Point(-9.2608 39.091963)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74010893"
+                    "value": "http://www.wikidata.org/entity/Q76853090"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Gustavo Pinto Lopes",
+                    "value": "Biblioteca Municipal de Torres Vedras",
                     "xml:lang": "pt"
                 }
             },
@@ -2885,22 +3201,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Trancoso",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.574102 41.337825)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74169484"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Prof. Doutor Ant\u00f3nio Cruz",
                     "xml:lang": "pt"
                 }
             },
@@ -2988,79 +3288,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.137961 41.635495)"
+                    "value": "Point(-8.744294 41.93993)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74201118"
+                    "value": "http://www.wikidata.org/entity/Q71743039"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Padre Alves Vieira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.144638 39.673215)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74207283"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Jos\u00e9 Cardoso Pires",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.155119 41.308676)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74233715"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Belmiro de Matos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.51604 41.410862)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74276153"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Camilo Castelo Branco",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.603669 41.122898)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74284715"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca P\u00fablica Municipal de Vila Nova de Gaia",
+                    "value": "Biblioteca Municipal de Vila Nova de Cerveira",
                     "xml:lang": "pt"
                 }
             },
@@ -3100,15 +3336,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.42022 37.191086)"
+                    "value": "Point(-8.111481 40.723374)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74364727"
+                    "value": "http://www.wikidata.org/entity/Q66815669"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Vicente Campinas",
+                    "value": "Biblioteca Municipal de Vouzela (antigos Pa\u00e7os do Concelho de Vouzela)",
                     "xml:lang": "pt"
                 }
             },
@@ -3116,15 +3352,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-27.215984 38.65524)"
+                    "value": "Point(-8.67136 40.605598)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9656788"
+                    "value": "http://www.wikidata.org/entity/Q73013581"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca P\u00fablica e Arquivo de Angra do Hero\u00edsmo",
+                    "value": "Biblioteca Municipal de \u00cdlhavo",
                     "xml:lang": "pt"
                 }
             },
@@ -3132,15 +3368,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.90705556 38.57241667)"
+                    "value": "Point(-9.078609 38.659471)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q13974012"
+                    "value": "http://www.wikidata.org/entity/Q72421137"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca P\u00fablica de \u00c9vora",
+                    "value": "Biblioteca Municipal do Barreiro",
                     "xml:lang": "pt"
                 }
             },
@@ -3148,15 +3384,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1663313 38.7170931)"
+                    "value": "Point(-9.099794 39.242527)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q16143011"
+                    "value": "http://www.wikidata.org/entity/Q72532266"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Cinema Europa",
+                    "value": "Biblioteca Municipal do Cadaval",
                     "xml:lang": "pt"
                 }
             },
@@ -3164,15 +3400,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.427061 41.551067)"
+                    "value": "Point(-7.645438 39.286825)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q16498215"
+                    "value": "http://www.wikidata.org/entity/Q72801720"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca P\u00fablica de Braga",
+                    "value": "Biblioteca Municipal do Crato",
                     "xml:lang": "pt"
                 }
             },
@@ -3180,15 +3416,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.143686 38.741441)"
+                    "value": "Point(-8.161286 39.534869)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5519418"
+                    "value": "http://www.wikidata.org/entity/Q73745382"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Pal\u00e1cio Galveias",
+                    "value": "Biblioteca Municipal do Sardoal",
                     "xml:lang": "pt"
                 }
             },
@@ -3196,15 +3432,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.518711 41.405995)"
+                    "value": "Point(-9.102554 38.638709)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18500427"
+                    "value": "http://www.wikidata.org/entity/Q73785795"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Funda\u00e7\u00e3o Cupertino de Miranda",
+                    "value": "Biblioteca Municipal do Seixal",
                     "xml:lang": "pt"
                 }
             },
@@ -3212,15 +3448,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.15417 38.73667)"
+                    "value": "Point(-9.112968 38.763757)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18600297"
+                    "value": "http://www.wikidata.org/entity/Q71848091"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca de Arte da Funda\u00e7\u00e3o Calouste Gulbenkian",
+                    "value": "Biblioteca Municipal dos Olivais",
                     "xml:lang": "pt"
                 }
             },
@@ -3228,15 +3464,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.4265 40.2071)"
+                    "value": "Point(-9.112968 38.763757)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1773229"
+                    "value": "http://www.wikidata.org/entity/Q71848091"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Joanina",
+                    "value": "Biblioteca Municipal dos Olivais",
                     "xml:lang": "pt"
                 }
             },
@@ -3244,63 +3480,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.425111111 40.207527777)"
+                    "value": "Point(-7.647694 37.122361)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7895277"
+                    "value": "http://www.wikidata.org/entity/Q73935991"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Geral da Universidade de Coimbra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.32528 38.67856)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q59621112"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Teresa e Alexandre Soares dos Santos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.3968 41.5599)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100859326"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Geral da Universidade do Minho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.9354088 32.6663268)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q43988832"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Arquivo Regional e Biblioteca P\u00fablica da Madeira",
+                    "value": "Biblioteca Municipal \u00c1lvaro de Campos",
                     "xml:lang": "pt"
                 }
             },
@@ -3324,15 +3512,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.155692 38.710734)"
+                    "value": "Point(-9.152573 38.75108)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71851380"
+                    "value": "http://www.wikidata.org/entity/Q245966"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Francisco Pereira de Moura",
+                    "value": "Biblioteca Nacional de Portugal",
                     "xml:lang": "pt"
                 }
             },
@@ -3340,127 +3528,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-17.18053 32.72354)"
+                    "value": "Point(-9.152573 38.75108)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q56072118"
+                    "value": "http://www.wikidata.org/entity/Q245966"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Casa das Mudas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.32528 38.67856)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q59621112"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Teresa e Alexandre Soares dos Santos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.656479 39.201365)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814515"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa do \u00c1lamo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.909955 32.651047)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66816016"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Ateneu Comercial do Funchal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.659485 41.159119)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71606833"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca de Serralves",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.615448 41.141249)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71671982"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca do Pal\u00e1cio da Bolsa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.296449 41.442775)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71733343"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca da Sociedade Martins Sarmento",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.32585 38.937049)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71821981"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca do Pal\u00e1cio Nacional de Mafra",
+                    "value": "Biblioteca Nacional de Portugal",
                     "xml:lang": "pt"
                 }
             },
@@ -3484,30 +3560,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.145715 38.723544)"
+                    "value": "Point(-8.860993 40.152587)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q85726963"
+                    "value": "http://www.wikidata.org/entity/Q72081229"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Q85726963"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.427051 41.550942)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q89601392"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio da Biblioteca P\u00fablica de Braga",
+                    "value": "Biblioteca P\u00fablica Municipal Pedro Fernandes Tom\u00e1s",
                     "xml:lang": "pt"
                 }
             },
@@ -3515,15 +3576,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.152573 38.75108)"
+                    "value": "Point(-8.889673 38.523381)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q245966"
+                    "value": "http://www.wikidata.org/entity/Q73804170"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Nacional de Portugal",
+                    "value": "Biblioteca P\u00fablica Municipal de Set\u00fabal",
                     "xml:lang": "pt"
                 }
             },
@@ -3531,15 +3592,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.152573 38.75108)"
+                    "value": "Point(-8.603669 41.122898)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q245966"
+                    "value": "http://www.wikidata.org/entity/Q74284715"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Nacional de Portugal",
+                    "value": "Biblioteca P\u00fablica Municipal de Vila Nova de Gaia",
                     "xml:lang": "pt"
                 }
             },
@@ -3563,15 +3624,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.4265 40.2071)"
+                    "value": "Point(-8.601528 41.146044)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1773229"
+                    "value": "http://www.wikidata.org/entity/Q630086"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Joanina",
+                    "value": "Biblioteca P\u00fablica Municipal do Porto",
                     "xml:lang": "pt"
                 }
             },
@@ -3579,15 +3640,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.115915298 38.057983398)"
+                    "value": "Point(-8.427061 41.551067)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q98855014"
+                    "value": "http://www.wikidata.org/entity/Q16498215"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Palacete Oitocentista (ex-Tribunal da Comarca)",
+                    "value": "Biblioteca P\u00fablica de Braga",
                     "xml:lang": "pt"
                 }
             },
@@ -3595,15 +3656,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.427775 41.547995)"
+                    "value": "Point(-7.90705556 38.57241667)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18500432"
+                    "value": "http://www.wikidata.org/entity/Q13974012"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca L\u00facio Craveiro da Silva",
+                    "value": "Biblioteca P\u00fablica de \u00c9vora",
                     "xml:lang": "pt"
                 }
             },
@@ -3611,15 +3672,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.542833333 40.928138888)"
+                    "value": "Point(-27.215984 38.65524)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18500442"
+                    "value": "http://www.wikidata.org/entity/Q9656788"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Santa Maria da Feira",
+                    "value": "Biblioteca P\u00fablica e Arquivo de Angra do Hero\u00edsmo",
                     "xml:lang": "pt"
                 }
             },
@@ -3627,15 +3688,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1725 38.755)"
+                    "value": "Point(-9.32528 38.67856)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18462527"
+                    "value": "http://www.wikidata.org/entity/Q59621112"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Hemeroteca Municipal de Lisboa",
+                    "value": "Biblioteca Teresa e Alexandre Soares dos Santos",
                     "xml:lang": "pt"
                 }
             },
@@ -3643,15 +3704,16 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.14291 38.717755)"
+                    "value": "Point(-9.32528 38.67856)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q85726964"
+                    "value": "http://www.wikidata.org/entity/Q59621112"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Q85726964"
+                    "value": "Biblioteca Teresa e Alexandre Soares dos Santos",
+                    "xml:lang": "pt"
                 }
             },
             {
@@ -3690,15 +3752,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.601528 41.146044)"
+                    "value": "Point(-8.296449 41.442775)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q630086"
+                    "value": "http://www.wikidata.org/entity/Q71733343"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca P\u00fablica Municipal do Porto",
+                    "value": "Biblioteca da Sociedade Martins Sarmento",
                     "xml:lang": "pt"
                 }
             },
@@ -3706,191 +3768,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.62681389 41.14806667)"
+                    "value": "Point(-9.15417 38.73667)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q856375"
+                    "value": "http://www.wikidata.org/entity/Q18600297"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Almeida Garrett",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.143686 38.741441)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5519418"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio Galveias",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.759972222 41.385166666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7353769"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Rocha Peixoto",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.469281 41.741296)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9656596"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Chaves",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.157784 38.678484)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9656741"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Almada",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.053683 40.220208)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q16498198"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Miguel Torga",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.427775 41.547995)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18500432"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca L\u00facio Craveiro da Silva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.542833333 40.928138888)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18500442"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Santa Maria da Feira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.67433 39.655272)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74408663"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Jos\u00e9 Baptista Martins",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.527675 41.584014)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74413220"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Norberto Lopes",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.909038 40.651757)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74506447"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal D. Miguel da Silva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.2608 39.091963)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q76853090"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Torres Vedras",
+                    "value": "Biblioteca de Arte da Funda\u00e7\u00e3o Calouste Gulbenkian",
                     "xml:lang": "pt"
                 }
             },
@@ -3914,15 +3800,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.162215 38.879268)"
+                    "value": "Point(-8.659485 41.159119)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q92251572"
+                    "value": "http://www.wikidata.org/entity/Q71606833"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Elvas Dra. Elsa Grilo",
+                    "value": "Biblioteca de Serralves",
                     "xml:lang": "pt"
                 }
             },
@@ -3930,15 +3816,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.611606 40.981081)"
+                    "value": "Point(-9.32585 38.937049)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q92254761"
+                    "value": "http://www.wikidata.org/entity/Q71821981"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Aquilino Ribeiro",
+                    "value": "Biblioteca do Pal\u00e1cio Nacional de Mafra",
                     "xml:lang": "pt"
                 }
             },
@@ -3946,45 +3832,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.145715 38.723544)"
+                    "value": "Point(-8.615448 41.141249)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q85726963"
+                    "value": "http://www.wikidata.org/entity/Q71671982"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Q85726963"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.14291 38.717755)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q85726964"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Q85726964"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.112968 38.763757)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q71848091"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal dos Olivais",
+                    "value": "Biblioteca do Pal\u00e1cio da Bolsa",
                     "xml:lang": "pt"
                 }
             },
@@ -3992,15 +3848,191 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.681163 39.233882)"
+                    "value": "Point(-8.201164 41.367354)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q23890843"
+                    "value": "http://www.wikidata.org/entity/Q72872300"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal Braamcamp Freire",
+                    "value": "Biblioteca e Arquivo Municipal de Felgueiras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.334472 41.207955)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71606077"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca-Museu Municipal de Paredes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-17.18053 32.72354)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56072118"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa das Mudas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.656479 39.201365)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814515"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do \u00c1lamo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.13021 40.396273)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815556"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa dos Arcos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1663313 38.7170931)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q16143011"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Europa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.427051 41.550942)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q89601392"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio da Biblioteca P\u00fablica de Braga",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1725 38.755)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18462527"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Hemeroteca Municipal de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.115915298 38.057983398)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98855014"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Palacete Oitocentista (ex-Tribunal da Comarca)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.143686 38.741441)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5519418"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pal\u00e1cio Galveias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.143686 38.741441)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5519418"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pal\u00e1cio Galveias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.420714 38.701284)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71807210"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta da Horta",
                     "xml:lang": "pt"
                 }
             }
