@@ -1,0 +1,45 @@
+{
+    "head": {
+        "vars": [
+            "item",
+            "itemLabel",
+            "geo"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.147787 38.706746)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99845706"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "A Pequena Galeria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.90333 32.64816)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q76955108"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Capela de Nossa Senhora da Oliveira",
+                    "xml:lang": "pt"
+                }
+            }
+        ]
+    }
+}
