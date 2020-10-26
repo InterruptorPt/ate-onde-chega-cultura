@@ -7,4 +7,5 @@ SELECT ?item ?itemLabel ?geo WHERE {
 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" }.
 }
-ORDER BY ?itemLabel
+# Sort by name, and break ties by item number (parsed into an integer)
+ORDER BY ?itemLabel xsd:integer(STRAFTER(STR(?item), 'Q'))
