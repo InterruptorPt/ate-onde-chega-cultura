@@ -172,54 +172,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.677777777 37.116666666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q51341624"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Municipal de Lagos",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.10788889 41.24994444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q47527952"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Parque Aqu\u00e1tico de Amarante",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.4189 37.1886)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q2990540"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Sports Complex of Vila Real de Santo Ant\u00f3nio",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.094015 38.768554)"
                 },
                 "item": {
@@ -620,6 +572,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.4189 37.1886)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2990540"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Complexo Desportivo de Vila Real de Santo Ant\u00f3nio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.33944444 41.27638889)"
                 },
                 "item": {
@@ -676,7 +644,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Drag\u00e3o Caixa",
+                    "value": "Drag\u00e3o Arena",
                     "xml:lang": "pt"
                 }
             },
@@ -864,7 +832,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402007"
+                    "value": "http://www.wikidata.org/entity/Q1057274"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -880,7 +848,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1057274"
+                    "value": "http://www.wikidata.org/entity/Q5402007"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -1093,6 +1061,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio Municipal Doutor Alves Vieira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.677777777 37.116666666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q51341624"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio Municipal Fernando Cabrita",
                     "xml:lang": "pt"
                 }
             },
@@ -1788,6 +1772,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.772575 41.38783611)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5402247"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio do Varzim Sport Club",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.740186 41.362756)"
                 },
                 "item": {
@@ -1957,6 +1957,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pal\u00e1cio das Artes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.10788889 41.24994444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q47527952"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Parque Aqu\u00e1tico de Amarante",
                     "xml:lang": "pt"
                 }
             },
@@ -2565,22 +2581,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Micaelense",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.772575 41.38783611)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402247"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Varzim Est\u00e1dio",
                     "xml:lang": "pt"
                 }
             },

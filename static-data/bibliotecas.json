@@ -72,22 +72,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.17152 38.82741)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100871052"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Muncipal Jos\u00e9 Saramago",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-16.9354088 32.6663268)"
                 },
                 "item": {
@@ -1016,11 +1000,43 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.17152 38.82741)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100871052"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Saramago",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.64336 37.59726)"
                 },
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q100872961"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Jos\u00e9 Saramago",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.88926 39.05395)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100873284"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -1345,6 +1361,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal Padre Manuel Antunes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.143686 38.741441)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100892140"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Pal\u00e1cio Galveias",
                     "xml:lang": "pt"
                 }
             },
@@ -3985,38 +4017,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Palacete Oitocentista (ex-Tribunal da Comarca)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.143686 38.741441)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5519418"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio Galveias",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.143686 38.741441)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5519418"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio Galveias",
                     "xml:lang": "pt"
                 }
             },
