@@ -57,7 +57,7 @@ class CulturaUpdater:
 
     def save_content_to_file(self, content, path):
         with open(path, "w") as f:
-            f.write(content)
+            f.write(content + '\n')
 
 
 if __name__ == "__main__":
