@@ -51,6 +51,25 @@ extension SelectedTypeExtension on SelectedType {
     }
   }
 
+  String get name {
+    switch (this) {
+      case SelectedType.CINEMAS:
+        return "Cinemas";
+      case SelectedType.MUSEUS:
+        return "Museus";
+      case SelectedType.BIBLIOTECAS:
+        return "Bibliotecas";
+      case SelectedType.GALERIAS:
+        return "Galerias";
+      case SelectedType.RECINTOS:
+        return "Recintos";
+      case SelectedType.TEATROS:
+        return "Teatros";
+      case SelectedType.MONUMENTOS:
+        return "Monumentos";
+    }
+  }
+
   Future<List<Binding>> get getBindings async {
     BindingManager bindingManager = BindingManager();
     return bindingManager.getBindings(this);
