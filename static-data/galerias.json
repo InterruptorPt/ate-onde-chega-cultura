@@ -12,6 +12,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.149822 38.7089731)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101063104"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Verso Branco",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.147787 38.706746)"
                 },
                 "item": {
@@ -37,6 +53,54 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Capela de Nossa Senhora da Oliveira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.6192968 41.1487306)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101059976"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Espiga",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1001967 38.7462279)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101063231"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeria Underdogs",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.58759 41.14861)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101054633"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galerias MIRA",
                     "xml:lang": "pt"
                 }
             }

@@ -540,6 +540,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.14527778 38.7425)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q784174"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pra\u00e7a de Touros do Campo Pequeno",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.132408 38.710469)"
                 },
                 "item": {
