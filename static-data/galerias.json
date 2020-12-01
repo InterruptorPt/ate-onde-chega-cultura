@@ -284,6 +284,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1801889 38.7025212)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101072345"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeria do Museu Carris",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.2079502 40.1559581)"
                 },
                 "item": {
@@ -341,6 +357,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Mira - Artes Performativas",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.8884466 39.056372)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101072501"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Officina Mundi",
                     "xml:lang": "en"
                 }
             },
@@ -469,6 +501,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Espiga",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.153634346 38.718855334)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101103814"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeria S\u00e3o Mamede",
                     "xml:lang": "pt"
                 }
             },
