@@ -3080,6 +3080,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.441397 41.553325)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104192965"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Busto de Antonio Pedro d'Anuncia\u00e7\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.415788 41.55759)"
                 },
                 "item": {
@@ -3336,6 +3352,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.42033 41.554853)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104193112"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Busto de Jaime Carvalho de Lemos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.425632 41.551607)"
                 },
                 "item": {
@@ -3393,6 +3425,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Busto de Jo\u00e3o Penha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.425749638 41.548498171)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104193191"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Busto de Luciano Afonso dos Santos",
                     "xml:lang": "pt"
                 }
             },
