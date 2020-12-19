@@ -1932,6 +1932,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.415615 41.546284)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104244430"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal do Carand\u00e1",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.68825 39.228805555)"
                 },
                 "item": {
