@@ -188,22 +188,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.599 41.169)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402024"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Engenheiro Vidal Pinheiro",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.08282 40.512)"
                 },
                 "item": {
@@ -341,22 +325,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Audit\u00f3rio Municipal Beatriz Costa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.900361111 32.649333333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1031484"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Campo Adelino Rodrigues",
                     "xml:lang": "pt"
                 }
             },
@@ -1548,38 +1516,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.611 41.534)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5401945"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Adelino Ribeiro Novo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.05128062 38.65892738)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370636"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Alfredo da Silva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.974722 37.088333)"
                 },
                 "item": {
@@ -1596,22 +1532,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.406 38.716)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370647"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Ant\u00f3nio Coimbra da Mota",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.4703 40.8419)"
                 },
                 "item": {
@@ -1621,22 +1541,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio Carlos Os\u00f3rio",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.611111111 41.533888888)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1167583"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Cidade de Barcelos",
                     "xml:lang": "pt"
                 }
             },
@@ -1676,22 +1580,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.354761 41.378089)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q256588"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Comendador Joaquim de Almeida Freitas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.499072 40.898239)"
                 },
                 "item": {
@@ -1724,38 +1612,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.301111 41.445833)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402007"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio D. Afonso Henriques",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.544874 41.066863)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q15110461"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Dr. Jorge Sampaio",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.813055555 39.748611111)"
                 },
                 "item": {
@@ -1765,70 +1621,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio Dr. Magalh\u00e3es Pessoa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.160783333 38.761194444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q287359"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Jos\u00e9 Alvalade",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.1586173 38.7628177)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3059094"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Jos\u00e9 Alvalade (1956)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.848483 37.029128)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370681"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Jos\u00e9 Arcanjo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.227967 38.752036)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3059095"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Jos\u00e9 Gomes",
                     "xml:lang": "pt"
                 }
             },
@@ -1868,22 +1660,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.545814 40.926689)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370693"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Marcolino de Castro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.626183 40.698219)"
                 },
                 "item": {
@@ -1893,22 +1669,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio Marques da Silva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.52242222 41.40127778)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1293399"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal 22 de Junho",
                     "xml:lang": "pt"
                 }
             },
@@ -1948,70 +1708,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.677777777 37.116666666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q51341624"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal Fernando Cabrita",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.859369 40.162675)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370708"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal Jos\u00e9 Bento Pessoa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.30878333 39.23984722)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370699"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal da Lourinh\u00e3",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.931459 39.736977)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1343518"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal da Marinha Grande",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.24023 37.09863)"
                 },
                 "item": {
@@ -2021,22 +1717,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio Municipal de Albufeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.24861111 40.92833333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370706"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal de Arouca",
                     "xml:lang": "pt"
                 }
             },
@@ -2124,22 +1804,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.539833 37.135694)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1308776"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal de Portim\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.9352 39.3446)"
                 },
                 "item": {
@@ -2172,22 +1836,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.5947 40.4858)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q602279"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal do Farv\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.653333 40.633889)"
                 },
                 "item": {
@@ -2197,22 +1845,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio M\u00e1rio Duarte",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.260833 38.708806)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1327324"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Nacional do Jamor",
                     "xml:lang": "pt"
                 }
             },
@@ -2284,22 +1916,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.161882 38.75193)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q2645332"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Universit\u00e1rio de Lisboa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.182639 38.753611)"
                 },
                 "item": {
@@ -2316,54 +1932,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.184680555 38.752677777)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7875112"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio da Luz",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.883525 32.670625)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370765"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio da Madeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.385581 41.271353)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370763"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio da Mata Real",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.24333333 37.12444444)"
                 },
                 "item": {
@@ -2373,54 +1941,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio da Nora",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.18087778 38.70965278)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370770"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio da Tapadinha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.16328 38.724124)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402203"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio das Amoreiras",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.586972222 41.164916666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q387691"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio das Antas",
                     "xml:lang": "pt"
                 }
             },
@@ -2476,54 +1996,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.89111111 38.53138889)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370781"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Bonfim",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.159573 38.759158)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402218"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Campo Grande",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.35476 41.378077)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q968244"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Clube Desportivo das Aves",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.583933 41.161758)"
                 },
                 "item": {
@@ -2533,22 +2005,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio do Drag\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.90083333 40.65944444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1369675"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Fontelo",
                     "xml:lang": "pt"
                 }
             },
@@ -2588,70 +2044,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.6887 41.20338889)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370783"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Le\u00e7a",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.159 38.765)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402223"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Lumiar",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.66694444 41.18388889)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370792"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Mar",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.207778 38.702778)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1370811"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio do Restelo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.772575 41.38783611)"
                 },
                 "item": {
@@ -2661,38 +2053,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio do Varzim Sport Club",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.740186 41.362756)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q550041"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio dos Arcos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.928331 32.645561)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1272724"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio dos Barreiros",
                     "xml:lang": "pt"
                 }
             },
@@ -3524,7 +2884,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Ru\u00ednas do teatro romano de Lisboa",
+                    "value": "Ru\u00ednas do Teatro Romano",
                     "xml:lang": "pt"
                 }
             },
@@ -3612,7 +2972,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055326 40.218408)"
+                    "value": "Point(-8.055095 40.217375)"
                 },
                 "item": {
                     "type": "uri",
@@ -3628,7 +2988,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055095 40.217375)"
+                    "value": "Point(-8.055326 40.218408)"
                 },
                 "item": {
                     "type": "uri",
@@ -3797,22 +3157,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Garcia de Resende",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.7655 41.3799)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7691914"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Garrett",
                     "xml:lang": "pt"
                 }
             },

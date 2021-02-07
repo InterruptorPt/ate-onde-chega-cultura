@@ -27,7 +27,9 @@
                 ?item  wdt:P625           ?geo.      # Store item's geographic coordinates in the ?geo variable
                 ?item  wdt:P17            wd:Q45.    # Item's country is Portugal
 
-                SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" }.
+                MINUS { ?item wdt:P3999 ?closure_date. } # Exclude items that have been closed
+
+                SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en". }
               }
               `
             var urlPrefix = "https://query.wikidata.org/embed.html#"

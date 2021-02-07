@@ -779,6 +779,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.322842 38.792044)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q77460993"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu Leal da C\u00e2mara",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.62537778 41.15943611)"
                 },
                 "item": {
@@ -820,22 +836,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa-Museu Teixeira Lopes",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.322842 38.792044)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q77460993"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa-Museu de Leal da C\u00e2mara",
                     "xml:lang": "pt"
                 }
             },
@@ -2187,22 +2187,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.161295 38.819856)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1479836"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu Municipal de Loures",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.575945854 39.656806945)"
                 },
                 "item": {
@@ -2212,6 +2196,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Municipal de Our\u00e9m",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1574 39.3618)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q59779523"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de \u00d3bidos",
                     "xml:lang": "pt"
                 }
             },
@@ -3371,7 +3371,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.642594 41.153555)"
+                    "value": "Point(-8.615649 41.146823)"
                 },
                 "item": {
                     "type": "uri",
@@ -3387,7 +3387,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.615649 41.146823)"
+                    "value": "Point(-8.642594 41.153555)"
                 },
                 "item": {
                     "type": "uri",
@@ -3460,22 +3460,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu de Leiria",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.156664 38.758452)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7194630"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu de Lisboa",
                     "xml:lang": "pt"
                 }
             },
@@ -3739,7 +3723,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1824 38.70082)"
+                    "value": "Point(-9.1825 38.700833333)"
                 },
                 "item": {
                     "type": "uri",
@@ -3771,7 +3755,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.26 42.114444444)"
+                    "value": "Point(-8.26 42.11458333)"
                 },
                 "item": {
                     "type": "uri",
@@ -3787,7 +3771,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.26 42.11458333)"
+                    "value": "Point(-8.26 42.114444444)"
                 },
                 "item": {
                     "type": "uri",
