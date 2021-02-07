@@ -2408,6 +2408,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.266636 38.772968)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q47092980"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Senhor da Serra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.20318 38.784552)"
                 },
                 "item": {
@@ -4872,6 +4888,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.20508 38.69574)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105094829"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cavalos Marinhos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.20655 38.69537)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105094829"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cavalos Marinhos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.263948 39.085602)"
                 },
                 "item": {
@@ -5073,6 +5121,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Chafariz da Colher",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.173546 38.743037)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105104502"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz da Convalescen\u00e7a",
                     "xml:lang": "pt"
                 }
             },
@@ -7496,6 +7560,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.386256 41.549861)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105086082"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Nogueir\u00f3",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.650157 40.639698)"
                 },
                 "item": {
@@ -8536,6 +8616,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.495123 40.900713)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104525867"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Senhor dos Aflitos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.61327 41.26627)"
                 },
                 "item": {
@@ -8792,6 +8888,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.93406 37.01314)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105085997"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D. Afonso III",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.420589 38.6968308)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105085805"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D. Pedro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.559487819 38.185199737)"
                 },
                 "item": {
@@ -8856,6 +8984,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.53275833 40.66887222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1620345"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D\u00f3lmen da Matan\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.93805556 40.61055556)"
                 },
                 "item": {
@@ -8897,22 +9041,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "D\u00f3lmen de Carapito I, tamb\u00e9m conhecido por \u00abCasa da Moura\u00bb",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.53275833 40.66887222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1620345"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "D\u00f3lmen de Matan\u00e7a",
                     "xml:lang": "pt"
                 }
             },
@@ -9176,6 +9304,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.152400016 38.686035156)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815042"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Esta\u00e7\u00e3o Arqueol\u00f3gica da Quinta do Almaraz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.395385 41.514528)"
                 },
                 "item": {
@@ -9217,22 +9361,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Esta\u00e7\u00e3o arqueol\u00f3gica da Pedra de Ouro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.152400016 38.686035156)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815042"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Esta\u00e7\u00e3o arqueol\u00f3gica da Quinta do Almaraz",
                     "xml:lang": "pt"
                 }
             },
@@ -9601,6 +9729,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua de Gomes da Costa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.741731811 41.352551169)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105086197"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de Jos\u00e9 R\u00e9gio",
                     "xml:lang": "pt"
                 }
             },
@@ -12200,6 +12344,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.927512 38.708967)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815061"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja de Nossa Senhora da Atalaia e tr\u00eas cruzeiros",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.90364 39.41848)"
                 },
                 "item": {
@@ -12248,15 +12408,15 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-6.896417 40.992467)"
+                    "value": "Point(-16.90866 32.65039)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q427907"
+                    "value": "http://www.wikidata.org/entity/Q105086222"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Linha Internacional de Barca d\u2019Alva a La Fregeneda e a Salamanca",
+                    "value": "Justi\u00e7a",
                     "xml:lang": "pt"
                 }
             },
@@ -14520,7 +14680,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.39215 40.97306)"
+                    "value": "Point(-7.393556 40.972598)"
                 },
                 "item": {
                     "type": "uri",
@@ -15528,6 +15688,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1611 38.81986)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104730345"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Loures",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.673344 39.63192)"
                 },
                 "item": {
@@ -16280,6 +16456,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.14398 38.75308)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105085595"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Santo Ant\u00f3nio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.171388888 38.678611111)"
                 },
                 "item": {
@@ -16296,7 +16488,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.096111111 40.721944444)"
+                    "value": "Point(-8.094286111 40.719736944)"
                 },
                 "item": {
                     "type": "uri",
@@ -16312,7 +16504,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.094286111 40.719736944)"
+                    "value": "Point(-8.096111111 40.721944444)"
                 },
                 "item": {
                     "type": "uri",
@@ -16568,6 +16760,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.97917 39.54838)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10386015"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "T\u00famulos de D. Pedro I e de In\u00eas de Castro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.144864 40.217636)"
                 },
                 "item": {
@@ -16657,6 +16865,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Via romana de Braga a Tui - 14 marcos mili\u00e1rios (s\u00e9rie capela)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14834 38.72549)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105095054"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "est\u00e1tua de Camilo Castelo Branco",
                     "xml:lang": "pt"
                 }
             }

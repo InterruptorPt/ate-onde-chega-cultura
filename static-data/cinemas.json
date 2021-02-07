@@ -12,22 +12,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.91475 40.65741)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q60384312"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine Rossio",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.648819444 37.124911111)"
                 },
                 "item": {
@@ -421,22 +405,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro Neiva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.420834 38.699985)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q98020158"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro S\u00e3o Jos\u00e9",
                     "xml:lang": "pt"
                 }
             },
@@ -1036,7 +1004,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055326 40.218408)"
+                    "value": "Point(-8.055095 40.217375)"
                 },
                 "item": {
                     "type": "uri",
@@ -1052,7 +1020,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055095 40.217375)"
+                    "value": "Point(-8.055326 40.218408)"
                 },
                 "item": {
                     "type": "uri",

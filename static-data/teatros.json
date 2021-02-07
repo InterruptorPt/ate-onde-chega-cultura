@@ -564,7 +564,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Ru\u00ednas do teatro romano de Lisboa",
+                    "value": "Ru\u00ednas do Teatro Romano",
                     "xml:lang": "pt"
                 }
             },
@@ -620,7 +620,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055326 40.218408)"
+                    "value": "Point(-8.055095 40.217375)"
                 },
                 "item": {
                     "type": "uri",
@@ -636,7 +636,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055095 40.217375)"
+                    "value": "Point(-8.055326 40.218408)"
                 },
                 "item": {
                     "type": "uri",
@@ -805,22 +805,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Garcia de Resende",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.7655 41.3799)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7691914"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Garrett",
                     "xml:lang": "pt"
                 }
             },
