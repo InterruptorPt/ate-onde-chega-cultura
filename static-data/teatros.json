@@ -1036,38 +1036,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.607465 41.144626)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1109226"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Nacional S\u00e3o Jo\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.141666666 38.709444444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1146936"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Nacional de S\u00e3o Carlos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.141666666 38.709444444)"
                 },
                 "item": {

@@ -1,6 +1,6 @@
 # Map of theaters in Portugal
 #defaultView:Map
-SELECT ?item ?itemLabel ?geo WHERE {
+SELECT DISTINCT ?item ?itemLabel ?geo WHERE {
   ?item  wdt:P31/wdt:P279*  wd:Q24354.  # Item is an instance or subclass of Theater (Q24354)
   ?item  wdt:P625           ?geo.       # Store item's geographic coordinates in the ?geo variable
   ?item  wdt:P17            wd:Q45.     # Item's country is Portugal
