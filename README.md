@@ -37,6 +37,53 @@ Se ainda estás a dar os primeiros passos no Github, eis alguma documentação �
 - [Como fazer fork de um repositório](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 - [Como fazer um pull request](https://docs.github.com/pt/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
+### Como adicionar novas localizações ao mapa?
+
+A informação apresentada no mapa é recolhida a partir de entradas existentes no [Wikidata](https://www.wikidata.org).
+
+#### Adicionar uma nova entrada
+
+1. É provável que algumas localizações já existam no Wikidata, mas apenas não estejam associadas às categorias acima indicadas, pelo que convém procurar se as mesmas existem e [editar](#Editar-uma-entrada-existente)
+   * *NOTA: Mesmo que seja criada uma entrada duplicada não haverá problema, pois as mesmas podem ser fundidas posteriormente*
+2. No menu lateral, escolher "Criar um objecto novo" e acrecentar a informação nos campos obrigatórios *NOTA: A língua tem de ser pt ou en*
+3. Depois de criar o objecto, temos de adicionar propriedades que correspondam aos filtros usados para popular o mapa. Escolher **adicionar declaração** e depois procurar as propriedades relevantes. Listamos as mandatórias:
+   1. **país** - Portugal
+   2. **coordenadas geográficas** - introduzir as coordenadas do local
+   3. **instância de** - define a categoria do local. Escolher para as categorias do mapa:
+      1. **Bibliotecas** - biblioteca OU biblioteca municipal
+      2. **Cinemas** - sala de cinema
+      3. **Galerias** - galeria de arte
+      4. **Monumentos** - monumento
+      5. **Museus** - museu
+      6. **Recintos** - casa de shows
+      7. **Teatros** - teatro
+   4. Quando escolher o valor para cada propriedade, clicar em **publicar**
+   5. Podem enriquecer os dados do local adicionado com outras categorias que achem relevantes
+
+
+#### Editar uma entrada existente
+
+1. Procurar a entrada que se quer editar disponível [nesta pasta](./tree/master/static-data)
+2. Aceder ao Wikidata com o link correspondente e fazer as edições necessárias
+![exemplo-de-menu-edit](./assets/screenshots/edit-entry-on-wikidata.png)
+
+#### Ver no mapa
+
+Os dados do mapa são actualizados manualmente através do *script* que os extrai a partir do Wikidata, executando o seguinte comando num terminal com `python3` instalado:
+
+```bash
+$ ./scripts/update_static_data.py
+
+saved output to ./ate-onde-chega-cultura/static-data/teatros.json
+saved output to ./ate-onde-chega-cultura/static-data/cinemas.json
+saved output to ./ate-onde-chega-cultura/static-data/monumentos.json
+saved output to ./ate-onde-chega-cultura/static-data/recintos.json
+saved output to ./ate-onde-chega-cultura/static-data/galerias.json
+saved output to ./ate-onde-chega-cultura/static-data/museus.json
+saved output to ./ate-onde-chega-cultura/static-data/bibliotecas.json
+```
+O resultado desta acção é a actualização dos dados que têm de ser posteriomente adicionados ao repositório através de um novo PR.
+
 ## Licença
 
 O código desenvolvido e partilhado neste repositório é disponibilizado sob uma **[licença GNU-GPL3.0](LICENSE)**. Esta é uma licença de **software livre** que garante quatro liberdades fundamentais ao utilizador:
