@@ -1308,6 +1308,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1362771 38.7195525)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105486087"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Desterro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.58188 41.1628)"
                 },
                 "item": {
@@ -2997,6 +3013,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Clube de Alpedrinha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.780919 41.530726)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105533641"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Clube de Esposende",
                     "xml:lang": "pt"
                 }
             },

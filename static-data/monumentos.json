@@ -16248,6 +16248,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.197323 39.300058)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105521752"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "T\u00famulo de Francis Lake no Campo de Batalha da Roli\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.97917 39.54838)"
                 },
                 "item": {
