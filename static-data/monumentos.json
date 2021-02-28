@@ -888,6 +888,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.6013 38.7692)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98004034"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta da Figueira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.570997 39.412103)"
                 },
                 "item": {
@@ -929,6 +945,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Anta da Herdade da Candieira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.6064 38.7577)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98004037"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta da Herdade da Corticeira",
                     "xml:lang": "pt"
                 }
             },
@@ -1640,6 +1672,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.4515 39.1164)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74316977"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta de B\u00f3sios 1",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.702856 40.819294)"
                 },
                 "item": {
@@ -1944,6 +1992,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.4518 39.0267)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74316981"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta de Vale de Romeiras 1",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.188623 38.841184)"
                 },
                 "item": {
@@ -2145,6 +2209,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Anta do Monte dos Frades",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.4447 38.9628)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814614"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Montinho das Pretas",
                     "xml:lang": "pt"
                 }
             },
@@ -4912,7 +4992,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Chafariz Novo",
+                    "value": "Chafariz Novo em Castelo Mendo",
                     "xml:lang": "pt"
                 }
             },
@@ -12360,22 +12440,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.995027 39.209757)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814211"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Marco de cruzamento em S\u00e3o Salvador",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.961254 39.041116)"
                 },
                 "item": {
@@ -14856,22 +14920,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.649972222 37.125972222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10332165"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Monumento aos Combatentes da Grande Guerra (Tavira)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.145305555 38.7195)"
                 },
                 "item": {
@@ -14881,6 +14929,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento aos Combatentes da Grande Guerra em Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.64999 37.125947)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10332165"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Combatentes da Grande Guerra em Tavira",
                     "xml:lang": "pt"
                 }
             },
@@ -16305,6 +16369,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Um marco de L\u00e9gua na EN 12-1 (actual EN 10), ao km. 29,270",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.995027 39.209757)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814211"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Um marco de cruzamento no s\u00edtio de S\u00e3o Salvador",
                     "xml:lang": "pt"
                 }
             },

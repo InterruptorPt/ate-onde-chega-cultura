@@ -555,6 +555,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.575945854 39.656806945)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333570"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Administrador",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.62675 41.14498)"
                 },
                 "item": {
@@ -612,22 +628,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa dos Nichos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.589908599 39.250301361)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q17390050"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa dos Patudos",
                     "xml:lang": "pt"
                 }
             },
@@ -772,6 +772,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa-Museu Teixeira Lopes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.589908599 39.250301361)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q17390050"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu dos Patudos",
                     "xml:lang": "pt"
                 }
             },
@@ -2075,22 +2091,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.575945854 39.656806945)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10333570"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu Municipal de Our\u00e9m",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.1574 39.3618)"
                 },
                 "item": {
@@ -2763,7 +2763,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.86138889 38.62166667)"
+                    "value": "Point(-8.8613 38.6215)"
                 },
                 "item": {
                     "type": "uri",
