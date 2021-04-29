@@ -12,6 +12,54 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.695 37.088)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28974258"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Balsa amphitheatre",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.893 40.361)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28974259"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bobadela amphitheatre",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.431 41.548)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28974261"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bracara Augusta amphitheatre",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.648819444 37.124911111)"
                 },
                 "item": {
@@ -37,6 +85,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro Para\u00edso",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.495 40.1)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28974262"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Con\u00edmbriga amphitheatre",
                     "xml:lang": "en"
                 }
             },
