@@ -567,6 +567,22 @@
                     "value": "Galerias MIRA",
                     "xml:lang": "pt"
                 }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.671661111 37.099991666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q86733117"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja do Compromisso Mar\u00edtimo de Lagos",
+                    "xml:lang": "pt"
+                }
             }
         ]
     }
