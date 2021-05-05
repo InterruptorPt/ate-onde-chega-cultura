@@ -12808,6 +12808,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.395432 40.646891)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q67606718"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ponte da Lavandeira e cruzeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-25.66846111 37.73950278)"
                 },
                 "item": {
