@@ -9224,7 +9224,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.38068 38.45254)"
+                    "value": "Point(-7.380678 38.452544)"
                 },
                 "item": {
                     "type": "uri",
@@ -9232,7 +9232,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Fonte e chafariz do Telheiro",
+                    "value": "Fonte e Chafariz do Telheiro",
                     "xml:lang": "pt"
                 }
             },
