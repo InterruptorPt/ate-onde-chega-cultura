@@ -1432,6 +1432,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.939899921 37.75194931)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5049795"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo Velho de Cobres",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.033113 38.538066)"
                 },
                 "item": {
@@ -12753,6 +12769,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pelourinho de Bemposta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.011694444 37.7775)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106779229"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pelourinho de Entradas",
                     "xml:lang": "pt"
                 }
             },
