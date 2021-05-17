@@ -492,6 +492,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.618103981 41.144172668)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q16501366"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cooperativa \u00c1rvore",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6192968 41.1487306)"
                 },
                 "item": {

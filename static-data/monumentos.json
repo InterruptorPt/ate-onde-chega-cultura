@@ -392,6 +392,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1983 38.7189)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q20517091"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Statue of Calouste Gulbenkian",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.848611111 41.693777777)"
                 },
                 "item": {
@@ -2280,7 +2296,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.84036944 39.21976667)"
+                    "value": "Point(-8.840310096 39.219772338)"
                 },
                 "item": {
                     "type": "uri",
@@ -12472,6 +12488,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.438888888 39.913316666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10343507"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Padr\u00e3o Seiscentista",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.011809 39.051329)"
                 },
                 "item": {
@@ -12680,22 +12712,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.438889 39.913317)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10343507"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Padr\u00e3o seiscentista de Ansi\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.53973 39.479207)"
                 },
                 "item": {
@@ -12769,22 +12785,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pelourinho de Bemposta",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.011694444 37.7775)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106779229"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pelourinho de Entradas",
                     "xml:lang": "pt"
                 }
             },
