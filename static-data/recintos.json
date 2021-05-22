@@ -4268,6 +4268,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.6757583 37.1008694)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106548157"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Trem de Cavalaria de Lagos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.475974 40.479509)"
                 },
                 "item": {

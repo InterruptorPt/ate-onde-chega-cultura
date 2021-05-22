@@ -1704,6 +1704,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.655790328 41.383277893)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q17390158"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castro de Bagunte",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.109448 40.738145)"
                 },
                 "item": {
@@ -2552,7 +2568,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.28560278 39.07453056)"
+                    "value": "Point(-9.285777091 39.074428558)"
                 },
                 "item": {
                     "type": "uri",
@@ -2945,6 +2961,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Chafariz da Estrada da Foz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.256544817 39.087147215)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106917847"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz da Fonte Nova",
                     "xml:lang": "pt"
                 }
             },
@@ -3928,6 +3960,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.259646254 39.09306474)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106915021"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz dos Pa\u00e7os do Concelho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.807844 41.092728)"
                 },
                 "item": {
@@ -4161,22 +4209,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cit\u00e2nia do Monte da Assun\u00e7\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.662182 41.371088)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q17390158"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cividade de Bagunte",
                     "xml:lang": "pt"
                 }
             },
@@ -7169,6 +7201,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua de Santos da Cunha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.260227491 39.098240335)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106913419"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de S\u00e3o Gon\u00e7alo de Lagos",
                     "xml:lang": "pt"
                 }
             },

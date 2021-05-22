@@ -1003,6 +1003,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.259679589 39.10080096)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106908789"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Artes e Criatividade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.263948 39.085602)"
                 },
                 "item": {
@@ -3428,6 +3444,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu de Olaria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.534330555 37.13025)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333862"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Portim\u00e3o",
                     "xml:lang": "pt"
                 }
             },
