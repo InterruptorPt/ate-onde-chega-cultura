@@ -5576,6 +5576,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.258412 41.971849)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107050128"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de S\u00e3o Bento do Cando",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.433525 39.291466)"
                 },
                 "item": {
@@ -6200,7 +6216,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.807844 41.092728)"
+                    "value": "Point(-7.806273055 41.09743)"
                 },
                 "item": {
                     "type": "uri",
@@ -11776,7 +11792,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Menires de Lavajo I",
+                    "value": "Menires de Lavajo",
                     "xml:lang": "pt"
                 }
             },
@@ -13025,6 +13041,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Povoado fortificado de S\u00e3o Miguel-o-Anjo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.443149089 38.64338684)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10375914"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Povoado fortificado e Santu\u00e1rio de Endov\u00e9lico",
                     "xml:lang": "pt"
                 }
             },

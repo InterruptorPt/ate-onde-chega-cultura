@@ -412,22 +412,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.428391 39.292437)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70366655"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro de Portalegre",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.144969 38.720491)"
                 },
                 "item": {
@@ -565,6 +549,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Edif\u00edcio do Clube da Sert\u00e3 e do Cine Teatro Tasso",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.428174 39.29256)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q70366655"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do Crisfal",
                     "xml:lang": "pt"
                 }
             },

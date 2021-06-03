@@ -524,22 +524,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.428391 39.292437)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70366655"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro de Portalegre",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.246377 40.112388)"
                 },
                 "item": {
@@ -917,6 +901,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Edif\u00edcio do Cinema da Sociedade Filarm\u00f3nica Incr\u00edvel Almadense (SFIA)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.428174 39.29256)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q70366655"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do Crisfal",
                     "xml:lang": "pt"
                 }
             },

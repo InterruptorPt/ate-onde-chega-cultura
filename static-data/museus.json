@@ -139,6 +139,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.432884 39.292611)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107037130"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antigo Pal\u00e1cio Castelo-Branco, atual Museu das Tape\u00e7arias Guy Fimo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6105 41.143)"
                 },
                 "item": {
