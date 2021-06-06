@@ -2120,6 +2120,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.01398 39.457328)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814140"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castro de Santa Catarina",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.4645 41.429027777)"
                 },
                 "item": {
@@ -6216,22 +6232,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.806273055 41.09743)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815463"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cruzeiro do Senhor do Bom Despacho (g\u00f3tico)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.62478611 41.16554444)"
                 },
                 "item": {
@@ -6465,6 +6465,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro fronteiro ao adro da Igreja de S\u00e3o Francisco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.805906 41.097545)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815463"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro g\u00f3tico",
                     "xml:lang": "pt"
                 }
             },
@@ -8152,7 +8168,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.550564 39.64879)"
+                    "value": "Point(-7.653349876 39.514472961)"
                 },
                 "item": {
                     "type": "uri",
@@ -8552,15 +8568,47 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.488795 40.026728)"
+                    "value": "Point(-6.89889 40.619713)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813592"
+                    "value": "http://www.wikidata.org/entity/Q107103853"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Fonte de Mergulho do Goducho",
+                    "value": "Fonte de Mergulho em Castelo Bom",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.462744 40.540126)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107103749"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte de Mergulho em Linhares",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.215232 40.328986)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107103808"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte de Mergulho em Sortelha",
                     "xml:lang": "pt"
                 }
             },
@@ -8840,6 +8888,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.16454 38.880346)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107095343"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte de S\u00e3o Vicente",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.316763 40.578747)"
                 },
                 "item": {
@@ -8977,6 +9041,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fonte do Est\u00e1dio 1.\u00ba de Maio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.488795 40.026728)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813592"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte do Goducho ou Fonte do Mergulho",
                     "xml:lang": "pt"
                 }
             },
@@ -9457,6 +9537,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fontes em Leomil",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.945185 41.49378)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96213719"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fraga dos Corvos",
                     "xml:lang": "pt"
                 }
             },
@@ -11848,6 +11944,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.967686 41.794359)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813543"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monte de Santa Comba",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.470122 41.652515)"
                 },
                 "item": {
@@ -13073,6 +13185,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Povoado fortificado em Nossa Senhora da Gra\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.041998 41.519048)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96213714"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Povoado romanizado do Cramanch\u00e3o",
                     "xml:lang": "pt"
                 }
             },
