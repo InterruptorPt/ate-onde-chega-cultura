@@ -12488,22 +12488,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.588075 37.199181)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1747799"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Monumentos Megal\u00edticos de Alcalar",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.549665 40.243844)"
                 },
                 "item": {
