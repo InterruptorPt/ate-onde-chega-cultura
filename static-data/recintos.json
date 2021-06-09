@@ -2604,7 +2604,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.9723 38.7461)"
+                    "value": "Point(-8.972235679 38.74615097)"
                 },
                 "item": {
                     "type": "uri",
@@ -4069,6 +4069,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Sousa Bastos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.68396 39.234175)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107157361"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro S\u00e1 da Bandeira",
                     "xml:lang": "pt"
                 }
             },

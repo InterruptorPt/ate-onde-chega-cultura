@@ -2424,6 +2424,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.929788 41.415093)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56355042"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castro do Crastoeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.619606 41.688858)"
                 },
                 "item": {
@@ -3485,6 +3501,22 @@
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q5394084"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz de El-Rei",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.68119 39.23388)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107156755"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -11592,6 +11624,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.789793 41.444878)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96213567"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir da Pedra d' Anta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.86448574 37.071784973)"
                 },
                 "item": {
@@ -13037,6 +13085,22 @@
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q66813167"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Povoado Fortificado de Carmona",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.647842 41.647312)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815237"
                 },
                 "itemLabel": {
                     "type": "literal",
