@@ -2412,6 +2412,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-17.0504012 32.6911234)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10277537"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio do Centro Desportivo da Madeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.35476 41.378077)"
                 },
                 "item": {

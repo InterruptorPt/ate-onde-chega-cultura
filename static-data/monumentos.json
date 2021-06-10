@@ -12072,6 +12072,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.239481257 38.758381834)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107182795"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Alfredo Roque Gameiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.143472222 38.710583333)"
                 },
                 "item": {
