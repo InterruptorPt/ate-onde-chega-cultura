@@ -440,22 +440,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.825444444 39.659166666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q7818661"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Tomb of the Unknown Soldier",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.137307 38.743197)"
                 },
                 "item": {
@@ -465,6 +449,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "A Fam\u00edlia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.166204278 38.775174806)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107202530"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "A Janela de Soror Mariana",
                     "xml:lang": "pt"
                 }
             },
@@ -1480,7 +1480,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.271034 41.796526)"
+                    "value": "Point(-7.233142852 41.817058563)"
                 },
                 "item": {
                     "type": "uri",
@@ -1488,7 +1488,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Castelo do Mau Vizinho (Vila Real)",
+                    "value": "Castelo do Mau Vizinho ou dos Mouros",
                     "xml:lang": "pt"
                 }
             },
@@ -3688,22 +3688,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.430197 41.549941)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5474803"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Chafariz do Campo das Hortas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.14087 38.711932)"
                 },
                 "item": {
@@ -4161,6 +4145,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Chafariz no Largo Dr. Ol\u00edmpio Barreto Murta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.900378 41.203389)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107183580"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cidadonha",
                     "xml:lang": "pt"
                 }
             },
@@ -7752,6 +7752,86 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.932080195 32.664776022)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107311541"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio n.\u00ba 127",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.93941 32.6699)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107315673"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio n.\u00ba 136",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.934441534 32.647048758)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107311190"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio n.\u00ba 143 (Funchal)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.93792053 32.671564497)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107310691"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio n.\u00ba 165",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.909892462 32.653426535)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107311308"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio n.\u00ba 63 (Funchal)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.128058 38.734335)"
                 },
                 "item": {
@@ -9009,6 +9089,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fonte do Campo da Feira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.430197 41.549941)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5474803"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte do Campo das Hortas",
                     "xml:lang": "pt"
                 }
             },
@@ -13713,6 +13809,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "T\u00famulo de Francis Lake no Campo de Batalha da Roli\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.825444444 39.659166666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7818661"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "T\u00famulo do Soldado Desconhecido (Portugal)",
                     "xml:lang": "pt"
                 }
             },

@@ -684,22 +684,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.26566 40.53846)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q60377754"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.490919444 39.824325)"
                 },
                 "item": {
@@ -828,6 +812,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.26566 40.53846)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q60377754"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro da Guarda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.480585 39.358853)"
                 },
                 "item": {
@@ -885,6 +885,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro de Fafe",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.05296 41.172447)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107183584"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro de Moncorvo",
                     "xml:lang": "pt"
                 }
             },
