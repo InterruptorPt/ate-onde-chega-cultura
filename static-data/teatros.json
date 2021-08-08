@@ -428,6 +428,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.87786 40.16466)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66943349"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro em Buarcos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.155249 38.707171)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q37813278"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Cinearte",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.144969 38.720491)"
                 },
                 "item": {
@@ -741,6 +773,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Angrense",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1356222 38.7169496)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378803"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Apolo",
                     "xml:lang": "pt"
                 }
             },

@@ -540,6 +540,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.87786 40.16466)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66943349"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro em Buarcos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.246377 40.112388)"
                 },
                 "item": {
@@ -588,15 +604,31 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.155243 38.707187)"
+                    "value": "Point(-9.155249 38.707171)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814322"
+                    "value": "http://www.wikidata.org/entity/Q37813278"
                 },
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cinema Cinearte",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.141739 38.716717)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1092410"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Condes",
                     "xml:lang": "pt"
                 }
             },
@@ -876,38 +908,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1418212 38.7164705)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q37813233"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Condes Cinema",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.135644 38.715366)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q90334708"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio do Antigo Sal\u00e3o Lisboa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.157642 38.682853)"
                 },
                 "item": {
@@ -1061,22 +1061,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Bernardim Ribeiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.1551017 38.7071838)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q37813278"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Cinearte",
                     "xml:lang": "pt"
                 }
             },
