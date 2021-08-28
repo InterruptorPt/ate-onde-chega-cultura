@@ -1739,6 +1739,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.8036986 37.3184025)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333391"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Antoniano (Aljezur)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.14 38.71222222)"
                 },
                 "item": {
@@ -4052,6 +4068,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu do Rel\u00f3gio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.8857874 37.1527418)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333941"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Traje do Algarve",
                     "xml:lang": "pt"
                 }
             },

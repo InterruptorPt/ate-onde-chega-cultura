@@ -4124,7 +4124,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.991111111 38.949722222)"
+                    "value": "Point(-8.991105 38.949803)"
                 },
                 "item": {
                     "type": "uri",
@@ -4629,6 +4629,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Clube de Penamacor",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.694645 41.184524)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q108280310"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Constantino Nery",
                     "xml:lang": "pt"
                 }
             },
