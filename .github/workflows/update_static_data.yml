@@ -1,4 +1,4 @@
-name: Atualização da static-data
+name: Actualização da static-data
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
 
-      - name: Run validation scripts
+      - name: Run update script(s)
         run: |
           python "${GITHUB_WORKSPACE}/scripts/update_static_data.py"
 
