@@ -108,6 +108,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.396486402 41.39023659)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q108909559"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Narciso Ferreira",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.679080555 39.235688888)"
                 },
                 "item": {
@@ -277,6 +293,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro Messias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.93313 39.749323)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q108528250"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Stephens",
                     "xml:lang": "pt"
                 }
             },
@@ -709,6 +741,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro 1\u00b0 de Maio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.15848 38.7362)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7691890"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Aberto",
                     "xml:lang": "pt"
                 }
             },
