@@ -1,0 +1,30 @@
+name: Atualização da static-data
+
+on:
+  schedule:
+    # Every day at 1:00 (AM) UTC
+    - cron: '*/10 * * * *'
+
+jobs:
+  run-validation-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Run validation scripts
+        run: |
+          python "${GITHUB_WORKSPACE}/scripts/update_static_data.py"
+
+      - name: Commit file(s)
+        run: |
+          git config --local user.email "<>"
+          git config --local user.name "GitHub Actions"
+          git add static-data/
+          git commit -m "Update de $(date +"%Y-%m-%d")"
+
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
