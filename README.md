@@ -69,7 +69,7 @@ A informação apresentada no mapa é recolhida a partir de entradas existentes 
 
 #### Ver no mapa
 
-Os dados do mapa são actualizados automaticamente todos os dias, através do *script* de Python [`update_static_data.py`](scripts/update_static_data.py), que extrai a informção a partir do Wikidata, e atualiza o repositório (se necessário) com os dados atualizados. Este processo automático é executado por meio de uma [Gihttps://github.com/features/actionsb Action](url) que está configurada em [`update_static_data.yml`](.github/workflows/update_static_data.yml).
+Os dados do mapa são actualizados automaticamente todos os dias, através do *script* de Python [`update_static_data.py`](scripts/update_static_data.py), que extrai a informção a partir do Wikidata, e atualiza o repositório (se necessário) com os dados novos. Este processo automático é executado por meio de uma [GitHub Action](https://github.com/features/actions) que está configurada em [`update_static_data.yml`](.github/workflows/update_static_data.yml).
 
 ## Licença
 
