@@ -2,7 +2,7 @@
 
 ## O projeto
 
-Estamos a criar um mapa dos equipamentos culturais em Portugal.
+Estamos a criar um mapa dos equipamentos culturais em Portugal:
 
 [![mapa-exemplo](./assets/screenshots/screenshot-1.png)](https://interruptorpt.github.io/ate-onde-chega-cultura/mapa)
 
@@ -43,10 +43,11 @@ A informação apresentada no mapa é recolhida a partir de entradas existentes 
 
 #### Adicionar uma nova entrada
 
-1. É provável que algumas localizações já existam no Wikidata, mas apenas não estejam associadas às categorias acima indicadas, pelo que convém procurar se as mesmas existem e [editar](#Editar-uma-entrada-existente)
-   * *NOTA: Mesmo que seja criada uma entrada duplicada não haverá problema, pois as mesmas podem ser fundidas posteriormente*
-2. No menu lateral, escolher "Criar um objecto novo" e acrecentar a informação nos campos obrigatórios *NOTA: A língua tem de ser pt ou en*
-3. Depois de criar o objecto, temos de adicionar propriedades que correspondam aos filtros usados para popular o mapa. Escolher **adicionar declaração** e depois procurar as propriedades relevantes. Listamos as mandatórias:
+1. É provável que algumas localizações já existam no Wikidata, mas apenas não estejam associadas às categorias acima indicadas, pelo que convém procurar se as mesmas existem e [editá-las](#Editar-uma-entrada-existente).
+   - *NOTA: Mesmo que seja criada uma entrada duplicada não haverá problema, pois as mesmas podem ser fundidas posteriormente.*
+2. No menu lateral do Wikidata, escolher "Criar um objecto novo" e acrecentar a informação nos campos obrigatórios.
+   - *NOTA: A língua tem de ser pt ou en.*
+3. Depois de criar o objecto, é preciso adicionar propriedades que correspondam aos filtros usados para popular o mapa. Escolher **adicionar declaração** e depois procurar as propriedades relevantes. As seguintes são as mandatórias:
    1. **país** - Portugal
    2. **coordenadas geográficas** - introduzir as coordenadas do local
    3. **instância de** - define a categoria do local. Escolher para as categorias do mapa:
@@ -57,32 +58,18 @@ A informação apresentada no mapa é recolhida a partir de entradas existentes 
       5. **Museus** - museu
       6. **Recintos** - casa de shows
       7. **Teatros** - teatro
-   4. Quando escolher o valor para cada propriedade, clicar em **publicar**
-   5. Podem enriquecer os dados do local adicionado com outras categorias que achem relevantes
-
+   4. Quando escolher o valor para cada propriedade, clicar em **publicar**.
+   5. Pode-se enriquecer os dados do local adicionado com outras categorias que sejam relevantes.
 
 #### Editar uma entrada existente
 
-1. Procurar a entrada que se quer editar disponível [nesta pasta](./tree/master/static-data)
-2. Aceder ao Wikidata com o link correspondente e fazer as edições necessárias
-![exemplo-de-menu-edit](./assets/screenshots/edit-entry-on-wikidata.png)
+1. Procurar a entrada que se quer editar, no ficheiro correspondente da pasta [static-data/](./tree/master/static-data);
+2. Aceder ao Wikidata com o link associado, e fazer as edições necessárias como indicado no screenshot abaixo:
+   ![exemplo-de-menu-edit](./assets/screenshots/edit-entry-on-wikidata.png)
 
 #### Ver no mapa
 
-Os dados do mapa são actualizados manualmente através do *script* que os extrai a partir do Wikidata, executando o seguinte comando num terminal com `python3` instalado:
-
-```bash
-$ ./scripts/update_static_data.py
-
-saved output to ./ate-onde-chega-cultura/static-data/teatros.json
-saved output to ./ate-onde-chega-cultura/static-data/cinemas.json
-saved output to ./ate-onde-chega-cultura/static-data/monumentos.json
-saved output to ./ate-onde-chega-cultura/static-data/recintos.json
-saved output to ./ate-onde-chega-cultura/static-data/galerias.json
-saved output to ./ate-onde-chega-cultura/static-data/museus.json
-saved output to ./ate-onde-chega-cultura/static-data/bibliotecas.json
-```
-O resultado desta acção é a actualização dos dados que têm de ser posteriomente adicionados ao repositório através de um novo PR.
+Os dados do mapa são actualizados automaticamente todos os dias, através do *script* de Python [`update_static_data.py`](scripts/update_static_data.py), que extrai a informção a partir do Wikidata, e atualiza o repositório (se necessário) com os dados novos. Este processo automático é executado por meio de uma [GitHub Action](https://github.com/features/actions) que está configurada em [`update_static_data.yml`](.github/workflows/update_static_data.yml).
 
 ## Licença
 
