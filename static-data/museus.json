@@ -2219,6 +2219,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.13128006 39.39905135)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109224413"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Leopoldo de Almeida",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.666087 40.604333)"
                 },
                 "item": {
