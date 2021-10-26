@@ -10455,6 +10455,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.133974722 39.401152003)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109251438"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de Jos\u00e9 Malhoa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.741731811 41.352551169)"
                 },
                 "item": {
@@ -11367,7 +11383,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.68862 41.16667)"
+                    "value": "Point(-8.688618659 41.166671752)"
                 },
                 "item": {
                     "type": "uri",
@@ -11888,6 +11904,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fonte das Pissarras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.657382011 41.154407501)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109250036"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte das Ratas",
                     "xml:lang": "pt"
                 }
             },
@@ -12711,6 +12743,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.648706 41.148296)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109250112"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte do Ouro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.42 41.540472222)"
                 },
                 "item": {
@@ -12951,7 +12999,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.615427 41.147052)"
+                    "value": "Point(-8.615591 41.147138)"
                 },
                 "item": {
                     "type": "uri",
