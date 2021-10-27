@@ -13607,6 +13607,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.259857 40.859848)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109269722"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mamoa da Portela de Anta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.50995247 40.94661911)"
                 },
                 "item": {
