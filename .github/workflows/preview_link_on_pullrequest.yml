@@ -1,0 +1,44 @@
+name: Publish a preview link to Github Pages on Pull Requests
+
+on:
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get some variables
+        id: extract_vars
+        shell: bash
+        run: |
+          echo "##[set-output name=pr_number;]$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")"
+          echo "##[set-output name=baseurl;]$(echo -n "https://interruptorpt.github.io/ate-onde-chega-cultura" )"
+          echo "##[set-output name=previewpath;]$(echo -n "prev-link/pr" )"
+
+      - name: Replace absolute links
+        shell: bash
+        run: |
+          find * -type f | xargs sed -i 's@${{steps.extract_vars.outputs.baseurl}}/@./@g'
+
+      - name: Deploy a preview link
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          enable_jekyll: true
+          publish_dir: .
+          destination_dir: ./${{ steps.extract_vars.outputs.previewpath }}/${{ steps.extract_vars.outputs.pr_number }}
+          keep_files: true
+
+      - name: Comment on Pull Request
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "Olá 👋. Estamos muito agradecidos pela tua colaboração.\nEnquanto aguardas a aprovação deste Pull Request, podes ver o resultado das tuas alterações [neste link](${{ steps.extract_vars.outputs.baseurl }}/${{ steps.extract_vars.outputs.previewpath }}/${{ steps.extract_vars.outputs.pr_number }})"
+            })
