@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="dist/leaflet/leaflet.css?v=1.7.1"/>
+    <script src="dist/leaflet/leaflet.js?v=1.7.1"></script>
+
+    <script>
+      function getQueryVariable(variable) {
+          var query = window.location.search.substring(1);
+          var vars = query.split('&');
+          for (var i = 0; i < vars.length; i++) {
+              var pair = vars[i].split('=');
+              if (decodeURIComponent(pair[0]) == variable) {
+                  return decodeURIComponent(pair[1]);
+              }
+          }
+      }
+    </script>
+
+  </head>
+  <body>
+    <style>
+      #mapid { height: 90vh; }
+    </style>
+     <div id="mapid"></div>
+
+    <script>
+
+      var filterCategories = getQueryVariable("categories");
+      if (filterCategories != undefined){
+        filterCategories = filterCategories.split(',');
+      }
+
+      console.log(filterCategories);
+
+      var categories = [
+        { name: "Bibliotecas", icon: "local_library",     url: "static-data/bibliotecas.json"  },
+        { name: "Cinemas",     icon: "movie",             url: "static-data/cinemas.json"  },
+        { name: "Galerias",    icon: "filter_frames",     url: "static-data/galerias.json"  },
+        { name: "Monumentos",  icon: "account_balance",   url: "static-data/monumentos.json"  },
+        { name: "Museus",      icon: "museum",            url: "static-data/museus.json"  },
+        { name: "Recintos",    icon: "workspaces_filled", url: "static-data/recintos.json"  },
+        { name: "Teatros",     icon: "theater_comedy",    url: "static-data/teatros.json"  },
+      ];
+
+      var mymap = L.map('mapid').setView([41.14961, -8.61099], 13);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            subdomains: ['a', 'b', 'c'],
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+      }).addTo(mymap);
+
+      async function loadCategoryLayer(category) {
+
+        var url = category.url;
+
+        // Make it work on file://
+        if ( window.location.href.startsWith('file://') ) {
+          url = './'+category.url;
+        }
+
+        const points = await fetch(url).then(r => r.json());
+
+        var icon = L.icon({
+          iconUrl: `images/${category.icon}24px.svg`,
+          iconSize: [24, 24],
+          iconAnchor: [12, 12],
+          popupAnchor: [0, -12],
+        });
+
+        const layer = L.layerGroup([]);
+
+        points.results.bindings.forEach(point => {
+          const geo = point.geo.value;
+          const label = point.itemLabel.value;
+          const coords = /Point\((.*) (.*)\)/.exec(geo).slice(1, 3).map(a => parseFloat(a)).reverse();
+
+          layer.addLayer(L.marker(coords, { icon }).bindPopup(label));
+        });
+
+        if ( filterCategories == undefined || filterCategories.indexOf(category.name.toLowerCase()) >= 0 ){
+          layer.addTo(mymap);
+        } 
+
+        return { ...category, layer };
+      }
+
+      Promise.all(categories.map(loadCategoryLayer)).then(cats => {
+        const config = Object.fromEntries(cats.map(c => [`<img src="images/${c.icon}24px.svg"> ${c.name}`, c.layer]));
+
+        L.control.layers({}, config).addTo(mymap);
+      });
+    </script>
+  </body>
+</html>

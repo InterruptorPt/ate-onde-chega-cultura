@@ -1,0 +1,13 @@
+# Map of art galleries in Portugal
+#defaultView:Map
+SELECT DISTINCT ?item ?itemLabel ?geo WHERE {
+  ?item  wdt:P31/wdt:P279*  wd:Q1007870.  # Item is an instance or subclass of Art gallery (Q1007870)
+  ?item  wdt:P625           ?geo.         # Store item's geographic coordinates in the ?geo variable
+  ?item  wdt:P17            wd:Q45.       # Item's country is Portugal
+
+  MINUS { ?item wdt:P3999 ?closure_date }. # Exclude items that have been closed
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" }.
+}
+# Sort by name, and break ties by item number (parsed into an integer)
+ORDER BY ?itemLabel xsd:integer(STRAFTER(STR(?item), 'Q'))
