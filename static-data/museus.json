@@ -4795,6 +4795,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.913368398 32.651118309)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25420858"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Universo de Mem\u00f3rias Jo\u00e3o Carlos Abreu",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.620849 41.143447)"
                 },
                 "item": {
