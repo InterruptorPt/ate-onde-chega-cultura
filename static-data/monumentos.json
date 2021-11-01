@@ -103,6 +103,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.156340411 38.75861111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109336302"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "As Meninas (Ver\u00e3o e Outono)",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.91378 32.64417)"
                 },
                 "item": {
@@ -311,6 +327,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.150166666 38.750166666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109330288"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Juan Pablo Duarte e Diez",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.891925215 38.523739686)"
                 },
                 "item": {
@@ -448,6 +480,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Statue of Eus\u00e9bio",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.156663888 38.757116666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109335997"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Statue of Jos\u00e9 Pinto Peixoto",
                     "xml:lang": "en"
                 }
             },
@@ -5543,7 +5591,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.49573 40.07702)"
+                    "value": "Point(-7.49573 40.077024)"
                 },
                 "item": {
                     "type": "uri",
@@ -6144,6 +6192,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Chafariz de Borba",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.495822 40.077803)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109335349"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz de D. Jo\u00e3o V",
                     "xml:lang": "pt"
                 }
             },
@@ -7008,6 +7072,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cividade de Terroso",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.854977607 41.78697586)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96213732"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cividade de \u00c2ncora",
                     "xml:lang": "pt"
                 }
             },
@@ -8279,22 +8359,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.231926 40.914561)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73760099"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cruzeiro de Marialva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.40894 41.494328)"
                 },
                 "item": {
@@ -9511,6 +9575,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.231926 40.914561)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73760099"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em Marialva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.495622 41.495582)"
                 },
                 "item": {
@@ -10007,22 +10087,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.854977607 41.78697586)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q96213732"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Esta\u00e7\u00e3o Arqueol\u00f3gica da Cividade de \u00c2ncora",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.152400016 38.686035156)"
                 },
                 "item": {
@@ -10432,6 +10496,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua de Francisco Sanches",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.425722222 41.553972222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109335186"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de Frei Jo\u00e3o da Ascens\u00e3o",
                     "xml:lang": "pt"
                 }
             },
@@ -16384,6 +16464,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento a Dami\u00e3o de G\u00f3is",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.155048354 38.728523)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109329646"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Eduardo VII de Inglaterra",
                     "xml:lang": "pt"
                 }
             },
