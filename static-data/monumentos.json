@@ -519,6 +519,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.154548291 38.711562472)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109352714"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "A Fam\u00edlia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.166204278 38.775174806)"
                 },
                 "item": {
@@ -11303,6 +11319,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.908209683 32.655536591)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109351261"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio n.\u00ba 56",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.909892462 32.653426535)"
                 },
                 "item": {
@@ -11311,7 +11343,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Fontan\u00e1rio n.\u00ba 63 (Funchal)",
+                    "value": "Fontan\u00e1rio n.\u00ba 63",
                     "xml:lang": "pt"
                 }
             },
@@ -16656,6 +16688,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento ao Campino",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14103 38.737942)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109352839"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Dr. Ant\u00f3nio Jos\u00e9 de Almeida",
                     "xml:lang": "pt"
                 }
             },

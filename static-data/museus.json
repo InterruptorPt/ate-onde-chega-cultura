@@ -1835,6 +1835,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.90542984 32.649520874)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66816027"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mosteiro Novo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.65116888 40.63942841)"
                 },
                 "item": {
@@ -4276,6 +4292,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu do Rel\u00f3gio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.894578758 32.662186451)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109339994"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Semin\u00e1rio",
                     "xml:lang": "pt"
                 }
             },
