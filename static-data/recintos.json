@@ -3644,6 +3644,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.100305555 38.446916666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109408147"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pavilh\u00e3o Gimnodesportivo de Sesimbra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.158333333 38.763583333)"
                 },
                 "item": {
@@ -3797,6 +3813,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Piscina Municipal de Matosinhos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.100222222 38.44725)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109408396"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Piscina Municipal de Sesimbra",
                     "xml:lang": "pt"
                 }
             },
