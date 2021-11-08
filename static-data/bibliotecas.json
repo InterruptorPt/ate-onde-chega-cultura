@@ -5402,6 +5402,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.81023 39.743674)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109449368"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Fam\u00edlia Charters",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-17.18053 32.72354)"
                 },
                 "item": {
