@@ -3,7 +3,7 @@ name: Actualização da static-data
 on:
   schedule:
     # Every day at 1:00 (AM) UTC
-    - cron: '0 1 * * *'
+    - cron: "0 1 * * *"
 
 jobs:
   run-validation-scripts:
@@ -13,10 +13,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run update script(s)
+        id: updatestaticdata
         run: |
           python "${GITHUB_WORKSPACE}/scripts/update_static_data.py"
+          echo "::set-output name=updated_files::$(git status --porcelain=v1 2>/dev/null | wc -l)"
 
       - name: Commit file(s)
+        if: steps.updatestaticdata.outputs.updated_files != 0
         run: |
           git config --local user.email "<>"
           git config --local user.name "GitHub Actions"
@@ -24,6 +27,7 @@ jobs:
           git commit -m "Update de $(date +"%Y-%m-%d")"
 
       - name: Push changes # push the output folder to your repo
+        if: steps.updatestaticdata.outputs.updated_files != 0
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
