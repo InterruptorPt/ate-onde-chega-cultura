@@ -13335,6 +13335,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.91016 32.64685)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109634801"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontes de Jo\u00e3o Dinis",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-6.963571 40.63544)"
                 },
                 "item": {
@@ -18384,22 +18400,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Tanque de Santo Ant\u00f3nio",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.898833333 32.68425)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1318531"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Terreiro da Luta",
                     "xml:lang": "pt"
                 }
             },
