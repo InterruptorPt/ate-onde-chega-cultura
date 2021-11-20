@@ -391,6 +391,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.89896 32.68451)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109647839"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Nossa Senhora da Paz",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.428277777 41.544722222)"
                 },
                 "item": {
