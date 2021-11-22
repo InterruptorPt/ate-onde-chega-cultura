@@ -7671,6 +7671,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.773477 39.697514)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109659437"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da Abadia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-6.870912 40.414864)"
                 },
                 "item": {
@@ -11463,6 +11479,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.841488 39.749733)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109661551"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte D. Lu\u00eds I",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.521374 40.136948)"
                 },
                 "item": {
@@ -11615,7 +11647,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Fonte Nova (Leiria)",
+                    "value": "Fonte Nova",
                     "xml:lang": "pt"
                 }
             },
@@ -12175,7 +12207,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Fonte das Tr\u00eas Bicas (Leiria)",
+                    "value": "Fonte das Tr\u00eas Bicas",
                     "xml:lang": "pt"
                 }
             },
@@ -16967,6 +16999,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.806726 39.745217)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109661259"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Her\u00f3is do Ultramar em Leiria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.49238 40.900011)"
                 },
                 "item": {
@@ -17056,6 +17104,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento aos Torrienses Mortos na Guerra do Ultramar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.809426 39.746024)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109661393"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento comemorativo a D. Afonso Henriques",
                     "xml:lang": "pt"
                 }
             },

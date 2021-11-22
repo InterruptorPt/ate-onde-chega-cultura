@@ -859,6 +859,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.784458 39.701196)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109658467"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu da Funda\u00e7\u00e3o M\u00e1rio Soares e o Centro Cultural Jo\u00e3o Soares",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.589908599 39.250301361)"
                 },
                 "item": {
@@ -1908,6 +1924,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Antoniano (Aljezur)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.15576 38.72223)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333400"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Arpad Szenes - Vieira da Silva",
                     "xml:lang": "pt"
                 }
             },
