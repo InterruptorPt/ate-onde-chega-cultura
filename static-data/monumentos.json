@@ -17303,6 +17303,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.136617 39.257002)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109675087"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "M\u00e3e de \u00c1gua no Sanguinhal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.45915 41.695811)"
                 },
                 "item": {
