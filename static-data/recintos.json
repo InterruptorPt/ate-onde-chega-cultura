@@ -1980,6 +1980,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.118055555 37.101944444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7930066"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Dom Pedro Victoria Golf Course and Country Club",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.58188 41.1628)"
                 },
                 "item": {
