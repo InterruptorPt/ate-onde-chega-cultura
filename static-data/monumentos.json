@@ -6967,6 +6967,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.934239 39.763386)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109854416"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz no Engenho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.656072 39.198323)"
                 },
                 "item": {
@@ -13840,6 +13856,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Lapa de Meruge",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.926962 39.75072)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109854836"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Lavadouro na Marinha Grande",
                     "xml:lang": "pt"
                 }
             },
