@@ -7255,6 +7255,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.91765213 37.063354492)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10328701"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto de menires de Milrei e do Padr\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.911554 37.081005)"
                 },
                 "item": {
@@ -16128,22 +16144,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Menir de Mac Abra\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.88845556 37.06269444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10328701"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Menir de Padr\u00e3o",
                     "xml:lang": "pt"
                 }
             },

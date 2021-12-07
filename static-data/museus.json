@@ -2443,7 +2443,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.25216 37.087084)"
+                    "value": "Point(-8.252111 37.087061)"
                 },
                 "item": {
                     "type": "uri",
@@ -3379,7 +3379,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Museu de Arte Popular (Portugal)",
+                    "value": "Museu de Arte Popular",
                     "xml:lang": "pt"
                 }
             },
