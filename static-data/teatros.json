@@ -1340,6 +1340,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.43031389 41.54671111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378913"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Romano de Bracara Augusta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.67908333 39.23569444)"
                 },
                 "item": {
