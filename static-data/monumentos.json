@@ -17367,6 +17367,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.4341 39.2905)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99521248"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mural do Parque de S\u00e3o Pedro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.136617 39.257002)"
                 },
                 "item": {
