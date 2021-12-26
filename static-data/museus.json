@@ -1003,6 +1003,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.009690373 37.081977156)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110263904"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Cultural S\u00e3o Louren\u00e7o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.297555555 41.442833333)"
                 },
                 "item": {
