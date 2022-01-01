@@ -4651,6 +4651,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.095607 38.762233)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10346955"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pavilh\u00e3o do Conhecimento",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.42193611 38.78244444)"
                 },
                 "item": {
