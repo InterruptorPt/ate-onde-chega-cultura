@@ -524,6 +524,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.235674 38.756643)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q72306435"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa Apr\u00edgio Gomes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.009690373 37.081977156)"
                 },
                 "item": {
