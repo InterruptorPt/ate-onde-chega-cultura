@@ -11127,22 +11127,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.803511619 37.318313598)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q108560565"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Fontan\u00e1rio P\u00fablico em Aljezur",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.431311607 41.55046463)"
                 },
                 "item": {
@@ -17296,6 +17280,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento megal\u00edtico do Pego Longo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.379205101 39.358093779)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110487460"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento \u00e0 Rendilheira",
                     "xml:lang": "pt"
                 }
             },
