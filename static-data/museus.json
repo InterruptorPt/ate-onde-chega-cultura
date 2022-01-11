@@ -635,6 +635,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.648383 41.495956)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q13582014"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Condado",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.88788 38.524722)"
                 },
                 "item": {
@@ -1707,7 +1723,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.866212 38.017702)"
+                    "value": "Point(-7.866098 38.017665)"
                 },
                 "item": {
                     "type": "uri",
@@ -1715,7 +1731,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Igreja de Santo Amaro (Santiago Maior)",
+                    "value": "Igreja de Santo Amaro",
                     "xml:lang": "pt"
                 }
             },
@@ -2880,22 +2896,6 @@
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q5994121"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu Rainha Dona Leonor",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.863016 38.013892)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q21532098"
                 },
                 "itemLabel": {
                     "type": "literal",
