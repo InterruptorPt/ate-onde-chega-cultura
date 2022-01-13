@@ -3564,6 +3564,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.129661 38.712746)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110539653"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mosteiro de S\u00e3o Salvador",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.066666666 39.6)"
                 },
                 "item": {
