@@ -5546,6 +5546,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.077606 38.98402)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110124402"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pal\u00e1cio Morgado",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.420714 38.701284)"
                 },
                 "item": {
