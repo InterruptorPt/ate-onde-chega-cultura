@@ -652,6 +652,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.967586796 38.713386133)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q48867502"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Campo da Liberdade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.13583 39.4072)"
                 },
                 "item": {
@@ -1701,6 +1717,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Coreto da Avenida Central",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.974636 38.705905)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110748394"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coreto da Pra\u00e7a da Rep\u00fablica",
                     "xml:lang": "pt"
                 }
             },
