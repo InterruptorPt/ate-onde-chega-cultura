@@ -1036,6 +1036,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.749454 39.844569)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110789038"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Cultural e Recreativo da Bidoeira de Cima",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.643380555 40.6388)"
                 },
                 "item": {
