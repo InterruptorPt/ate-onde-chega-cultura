@@ -2667,23 +2667,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.161464 38.704841)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q212459"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu Nacional de Arte Antiga",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.161813 38.704626)"
+                    "value": "Point(-9.16072 38.7053)"
                 },
                 "item": {
                     "type": "uri",
