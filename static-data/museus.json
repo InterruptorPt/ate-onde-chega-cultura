@@ -1643,6 +1643,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.215675456 38.645861981)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110829091"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeria Municipal de Montemor-o-Novo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.892196 38.522744)"
                 },
                 "item": {

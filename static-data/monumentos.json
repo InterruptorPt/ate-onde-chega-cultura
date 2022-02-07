@@ -5831,6 +5831,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.913847 38.575457)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110830509"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz da Porta da Lagoa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.245805555 40.928888888)"
                 },
                 "item": {
@@ -6352,6 +6368,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Chafariz de Matosinhos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.21827 38.646664)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110823704"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz de Montemor-o-Novo",
                     "xml:lang": "pt"
                 }
             },
@@ -6928,6 +6960,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Chafariz na Pra\u00e7a Afonso Lopes Vieira em S\u00e3o Pedro de Moel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.217498 38.647661)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110829820"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Chafariz na Rua Cinco de Outubro",
                     "xml:lang": "pt"
                 }
             },
@@ -11703,6 +11751,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.218335 38.646355)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110823838"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte Nova",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.431675 39.293363)"
                 },
                 "item": {
@@ -11728,6 +11792,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fonte Nova / Fonte dos Judeus",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.419852 38.781979)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110830478"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte Pequena",
                     "xml:lang": "pt"
                 }
             },
@@ -12887,6 +12967,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.417831 38.778973)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110830480"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte do Carrascal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.206521 40.867175)"
                 },
                 "item": {
@@ -13927,7 +14023,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.213846 38.651039)"
+                    "value": "Point(-8.21827 38.646664)"
                 },
                 "item": {
                     "type": "uri",
@@ -13936,6 +14032,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "L\u00e1pide do chafariz de Montemor-o-Novo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.218769 38.646644)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813744"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "L\u00e1pide na parede fronteira \u00e0 Casa da C\u00e2mara",
                     "xml:lang": "pt"
                 }
             },
