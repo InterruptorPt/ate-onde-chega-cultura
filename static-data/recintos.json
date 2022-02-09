@@ -1372,6 +1372,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.212606 38.646166)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110852822"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Curvo Semedo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.500005 40.138576)"
                 },
                 "item": {
