@@ -4183,6 +4183,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.208524 38.644518)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110864481"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Quinta da Horta do Chafariz do Pocinho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.960967 39.576804)"
                 },
                 "item": {
@@ -16560,6 +16576,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Menires de Lavajo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.885611 37.069889)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109929094"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menires de Milrei",
                     "xml:lang": "pt"
                 }
             },
