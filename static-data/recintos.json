@@ -332,22 +332,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.645579 41.009924)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q2096915"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Piscina Sol\u00e1rio Atl\u00e2ntico",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.396486402 41.39023659)"
                 },
                 "item": {
@@ -4581,6 +4565,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Piscina Municipal de Vieira do Minho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.645261 41.010459)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2096915"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Piscina Sol\u00e1rio Atl\u00e2ntico",
                     "xml:lang": "pt"
                 }
             },
