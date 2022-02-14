@@ -17415,6 +17415,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.931831274 39.038471743)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110903698"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento do Centen\u00e1rio da Avia\u00e7\u00e3o Militar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.270257 41.042698)"
                 },
                 "item": {
