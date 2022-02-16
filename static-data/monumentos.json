@@ -7655,22 +7655,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.229971 41.381924)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814672"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cruzeiro (Felgueiras) situado no largo em frente do cemit\u00e9rio",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.632116 40.69911)"
                 },
                 "item": {
@@ -9840,6 +9824,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro na Rua da Igreja",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.2255 41.38472)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814672"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro situado no largo fronteiro ao cemit\u00e9rio",
                     "xml:lang": "pt"
                 }
             },
