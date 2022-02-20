@@ -75,6 +75,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.937577388 38.760368728)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99519368"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "P\u00f3lo de Anima\u00e7\u00e3o Ambiental do S\u00edtio das Hortas",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.8407 39.831037)"
                 },
                 "item": {
