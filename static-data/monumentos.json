@@ -14343,6 +14343,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.81897 32.72427)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q68124025"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.622033 41.14438)"
                 },
                 "item": {
@@ -17088,6 +17104,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento ao Ex\u00e9rcito Luso-Brit\u00e2nico nas Campanhas da Guerra Peninsular",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.912986 38.630908989)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110971320"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Ferrovi\u00e1rio",
                     "xml:lang": "pt"
                 }
             },

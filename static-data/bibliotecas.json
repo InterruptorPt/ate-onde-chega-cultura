@@ -3754,6 +3754,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.912334936 38.631045779)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110971120"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Pinhal Novo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.631048 39.915386)"
                 },
                 "item": {
