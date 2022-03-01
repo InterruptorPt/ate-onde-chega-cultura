@@ -57,21 +57,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.16554284 38.879520457)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q99341884"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Q99341884"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.588291168 38.842248013)"
                 },
                 "item": {
@@ -11056,6 +11041,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua do Papa Jo\u00e3o XXI",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.16554284 38.879520457)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99341884"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua do Rei Dom Manuel I",
                     "xml:lang": "pt"
                 }
             },
