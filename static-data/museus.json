@@ -1419,6 +1419,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.984707 39.548042)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814098"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio onde viveu Manuel Vieira Natividade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.153976 38.737394)"
                 },
                 "item": {
