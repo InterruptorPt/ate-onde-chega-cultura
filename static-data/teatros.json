@@ -1100,6 +1100,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.641029357 40.737350463)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111146653"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cineteatro da Murtosa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.41582489 38.798252105)"
                 },
                 "item": {
