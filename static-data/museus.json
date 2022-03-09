@@ -1419,7 +1419,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.984707 39.548042)"
+                    "value": "Point(-8.981449127 39.54832077)"
                 },
                 "item": {
                     "type": "uri",
@@ -1748,6 +1748,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Igreja Paroquial de S\u00e3o Pedro de Penaferrim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.417717 38.965502)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9695658"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja da Miseric\u00f3rdia da Ericeira",
                     "xml:lang": "pt"
                 }
             },
