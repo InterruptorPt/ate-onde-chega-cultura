@@ -552,6 +552,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.585831299 41.766909303)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111190463"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Alegoria \u00e0s Feiras Novas e ao Folclore",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.528244 40.148323)"
                 },
                 "item": {
@@ -16161,6 +16177,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Mem\u00f3ria da Expedi\u00e7\u00e3o da Sociedade de Geografia \u00e0 Serra da Estrela, presidida pelo Dr. Sousa Martins, em 1881",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.585227778 41.767740665)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111188996"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mem\u00f3rias do Campo",
                     "xml:lang": "pt"
                 }
             },
