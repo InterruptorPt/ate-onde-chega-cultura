@@ -1499,6 +1499,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.065198358 38.665104126)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111219458"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Espa\u00e7o Mem\u00f3ria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.39626 38.70358)"
                 },
                 "item": {
