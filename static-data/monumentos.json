@@ -17416,6 +17416,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.168462753 38.830856323)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111280244"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Mortos da Grande Guerra em Loures",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.287554 39.115156)"
                 },
                 "item": {
