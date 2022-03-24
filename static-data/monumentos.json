@@ -12888,6 +12888,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.160415 38.881894)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107095343"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte de S\u00e3o Vicente",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.16454 38.880346)"
                 },
                 "item": {
