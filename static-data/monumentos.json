@@ -10312,7 +10312,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.395385 41.514528)"
+                    "value": "Point(-8.39457035 41.514743804)"
                 },
                 "item": {
                     "type": "uri",
@@ -16312,6 +16312,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.475664 38.445507)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10363540"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir da Rocha dos Namorados",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.337846755 37.248645782)"
                 },
                 "item": {
@@ -18728,22 +18744,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.475739 38.445522)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10363540"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Rocha dos Namorados",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.200686 41.725076)"
                 },
                 "item": {
@@ -18816,7 +18816,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Santu\u00e1rio Nacional de Cristo Rei",
+                    "value": "Santu\u00e1rio de Cristo Rei",
                     "xml:lang": "pt"
                 }
             },
