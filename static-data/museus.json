@@ -203,6 +203,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.015803853 38.524073356)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111382812"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bacalh\u00f4a Adega Museu",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.681163 39.233882)"
                 },
                 "item": {
