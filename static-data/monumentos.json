@@ -2504,22 +2504,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.878366947 38.623321533)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q570531"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Anta do Pa\u00e7o da Vinha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.669823 40.694089)"
                 },
                 "item": {
@@ -19296,7 +19280,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "T\u00famulo de Fern\u00e3o Rodrigues Redondo na capela de S\u00e3o Pedro",
+                    "value": "T\u00famulo de Fern\u00e3o Rodrigues Redondo na capela de S\u00e3o Pedro, actualmente anexa \u00e0 Igreja Paroquial de S\u00e3o Nicolau",
                     "xml:lang": "pt"
                 }
             },
