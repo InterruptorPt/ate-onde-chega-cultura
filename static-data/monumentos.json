@@ -2504,6 +2504,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.878366947 38.623321533)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q570531"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Pa\u00e7o da Vinha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.669823 40.694089)"
                 },
                 "item": {
@@ -11313,6 +11329,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fontan\u00e1rio de S\u00e3o Roque",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-25.535430908 37.816192626)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111539326"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fontan\u00e1rio do Largo de S\u00e3o Pedro",
                     "xml:lang": "pt"
                 }
             },
