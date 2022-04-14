@@ -18344,6 +18344,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.12711111 38.71463889)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1168827"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pante\u00e3o dos Patriarcas de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.077778 40.077403)"
                 },
                 "item": {
