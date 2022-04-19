@@ -1912,7 +1912,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.286972222 38.773444444)"
+                    "value": "Point(-9.286953 38.773425)"
                 },
                 "item": {
                     "type": "uri",
@@ -3208,7 +3208,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.390968 38.797502)"
+                    "value": "Point(-9.390994071 38.797512054)"
                 },
                 "item": {
                     "type": "uri",
@@ -3216,7 +3216,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Antigo repuxo manuelino da Vila de Sintra",
+                    "value": "Antigo repuxo da vila de Sintra",
                     "xml:lang": "pt"
                 }
             },

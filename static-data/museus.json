@@ -1883,6 +1883,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.127777777 38.714722222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1776168"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja de S\u00e3o Vicente de Fora",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.25913889 39.09015556)"
                 },
                 "item": {
@@ -2036,22 +2052,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Mosteiro de Jesus, compreendendo o t\u00famulo de Santa Joana",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.127777777 38.714722222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1776168"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Mosteiro de S\u00e3o Vicente de Fora",
                     "xml:lang": "pt"
                 }
             },
