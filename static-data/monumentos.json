@@ -13960,22 +13960,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.455593 39.415285)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q69747239"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja Paroquial de S\u00e3o Pedro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.927512 38.708967)"
                 },
                 "item": {
@@ -17009,6 +16993,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento a D. Pedro IV",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.455593 39.415285)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q69747239"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a D. Pedro V",
                     "xml:lang": "pt"
                 }
             },
