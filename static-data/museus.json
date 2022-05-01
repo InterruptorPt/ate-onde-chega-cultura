@@ -4731,6 +4731,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.105160727 38.632508104)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111785254"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Oficina de Artes Manuel Cargaleiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.130605 38.712039)"
                 },
                 "item": {
