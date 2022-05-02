@@ -1115,6 +1115,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.105340435 38.63375791)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111796626"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Internacional de Medalha Contempor\u00e2nea",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.432311 40.201401)"
                 },
                 "item": {
