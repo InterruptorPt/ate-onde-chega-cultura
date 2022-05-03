@@ -4060,6 +4060,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.102670966 38.638993661)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111805280"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "F\u00f3rum Cultural do Seixal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.89041 38.52244)"
                 },
                 "item": {
