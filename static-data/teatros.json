@@ -892,6 +892,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.780833333 37.725833333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111838439"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Girassol",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6366899 41.1573338)"
                 },
                 "item": {
@@ -1148,6 +1164,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.6425 37.596944444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111838317"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cineteatro de Odemira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.14202778 38.71525)"
                 },
                 "item": {
@@ -1317,6 +1349,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumental Cinema Teatro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.20888889 38.69777778)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10350266"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Planet\u00e1rio Calouste Gulbenkian",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.63866111 41.15063611)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10350275"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Planet\u00e1rio do Porto - Centro Ci\u00eancia Viva",
                     "xml:lang": "pt"
                 }
             },
