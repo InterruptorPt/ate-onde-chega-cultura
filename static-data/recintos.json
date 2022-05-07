@@ -2172,6 +2172,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.92517 32.64367)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111889736"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Clube Ingl\u00eas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.803611 32.722222)"
                 },
                 "item": {
@@ -5397,6 +5413,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Quartel das Artes Dr. Al\u00edpio Sol",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.92515 32.64371)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111889668"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta Magn\u00f3lia",
                     "xml:lang": "pt"
                 }
             },
