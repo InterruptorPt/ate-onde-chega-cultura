@@ -3659,22 +3659,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-16.90852778 32.64936667)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q6033898"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu de Arte Sacra do Funchal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.193504 38.695908)"
                 },
                 "item": {
