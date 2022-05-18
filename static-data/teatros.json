@@ -28,22 +28,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.893 40.361)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q28974259"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Bobadela amphitheatre",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.431 41.548)"
                 },
                 "item": {
@@ -165,6 +149,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Algarcines de Portim\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.893 40.361)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25419057"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anfiteatro romano da Bobadela",
                     "xml:lang": "pt"
                 }
             },
@@ -1701,6 +1701,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Constantino Nery",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.58661111 41.76497222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7691910"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Diogo Bernardes",
                     "xml:lang": "pt"
                 }
             },
