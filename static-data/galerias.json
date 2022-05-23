@@ -556,6 +556,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.179725 38.789188)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112110599"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Exposi\u00e7\u00f5es de Odivelas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.618103981 41.144172668)"
                 },
                 "item": {
