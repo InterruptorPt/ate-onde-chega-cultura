@@ -716,6 +716,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.902027777 32.647444444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5028482"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Campo Almirante Reis",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.60756 41.1634)"
                 },
                 "item": {
@@ -789,22 +805,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Campo de Jogos do Pragal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.902027777 32.647444444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5028482"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Campo do Almirante Reis",
                     "xml:lang": "pt"
                 }
             },
