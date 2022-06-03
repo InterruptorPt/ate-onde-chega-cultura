@@ -2091,6 +2091,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.626916666 37.119222222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112208997"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museol\u00f3gico da Pesca do Atum",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.7702222 37.4321111)"
                 },
                 "item": {
