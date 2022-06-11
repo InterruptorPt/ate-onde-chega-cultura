@@ -11593,6 +11593,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.432833 37.750472)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112320955"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento megal\u00edtico da Amendoeira Nova",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.48277778 38.08694444)"
                 },
                 "item": {

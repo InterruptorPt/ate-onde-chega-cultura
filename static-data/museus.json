@@ -4731,6 +4731,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.230036085 38.764562415)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112324995"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "N\u00facleo Museogr\u00e1fico do Casal da Falagueira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.906944444 32.648055555)"
                 },
                 "item": {
