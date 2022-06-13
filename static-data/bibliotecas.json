@@ -5050,6 +5050,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.139475011 38.718585348)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112400650"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Nova Medical School",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.153547 38.712725)"
                 },
                 "item": {
