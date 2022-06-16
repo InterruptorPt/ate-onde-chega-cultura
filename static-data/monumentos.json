@@ -11625,6 +11625,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.558778 37.694972)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112579370"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento megal\u00edtico de Monte do Pa\u00e7o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.260764 38.772882)"
                 },
                 "item": {
