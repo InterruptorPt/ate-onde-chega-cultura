@@ -4473,6 +4473,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.486083333 37.481638888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112611445"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cerro do Castelo dos Moiros",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.907677 32.648986)"
                 },
                 "item": {
