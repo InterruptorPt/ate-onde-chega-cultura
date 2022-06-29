@@ -3033,6 +3033,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.897549 40.62069)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112766579"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Calv\u00e1rio em Castelo Bom",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.24143 41.085676)"
                 },
                 "item": {
