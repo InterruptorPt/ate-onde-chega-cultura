@@ -2315,6 +2315,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.244805555 37.834138888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112893174"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Etnogr\u00e1fico de Messejana",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.945425 40.62096111)"
                 },
                 "item": {
