@@ -3467,6 +3467,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.4053 38.7097)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q48989813"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da M\u00fasica Portuguesa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.2011986 38.6973754)"
                 },
                 "item": {
