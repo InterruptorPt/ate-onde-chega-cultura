@@ -11497,6 +11497,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.168462753 38.830856323)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113303684"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Mortos da Grande Guerra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.615847222 41.148691666)"
                 },
                 "item": {

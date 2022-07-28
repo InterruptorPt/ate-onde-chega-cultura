@@ -2683,6 +2683,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.8605 40.1506)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1954362"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal Santos Rocha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.80341944 37.31920556)"
                 },
                 "item": {
