@@ -1755,6 +1755,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.209336 38.697178)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q61055943"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeota de D. Jo\u00e3o V",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.235673888 38.756643055)"
                 },
                 "item": {
