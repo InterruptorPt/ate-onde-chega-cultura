@@ -1547,6 +1547,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.209336111 38.697178055)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113468215"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Escaler Grande da Alf\u00e2ndega",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.312588 41.458578)"
                 },
                 "item": {
@@ -1795,7 +1811,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Galeota de Dom Miguel",
+                    "value": "Galeota de Dom Miguel I",
                     "xml:lang": "pt"
                 }
             },
