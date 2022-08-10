@@ -7961,22 +7961,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.15166378 41.731903076)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813424"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e2ncia arqueol\u00f3gica do Chelo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.166044 38.878898)"
                 },
                 "item": {
@@ -12546,6 +12530,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Povoado de Baldoeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.15166378 41.731903076)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813424"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Povoado do Chelo",
                     "xml:lang": "pt"
                 }
             },

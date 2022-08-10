@@ -1547,7 +1547,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
+                    "value": "Point(-27.216866 38.657051)"
                 },
                 "item": {
                     "type": "uri",
@@ -4948,6 +4948,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "N\u00facleo Museol\u00f3gico do IVBAM",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.082694444 37.966861111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113481190"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "N\u00facleo Rural de Ervidel",
                     "xml:lang": "pt"
                 }
             },
