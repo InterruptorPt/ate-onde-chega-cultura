@@ -219,6 +219,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.209336111 38.697178055)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113463464"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bergantim Real",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.681163 39.233882)"
                 },
                 "item": {
@@ -1771,22 +1787,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468010"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota de Dom Jos\u00e9 I",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.209336 38.697178)"
                 },
                 "item": {
@@ -1795,7 +1795,23 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Galeota de Dom Jo\u00e3o V",
+                    "value": "Galeota Grande",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.209336111 38.697178055)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113468010"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeota Pequena",
                     "xml:lang": "pt"
                 }
             },
@@ -1812,38 +1828,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Galeota de Dom Miguel I",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468012"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota de Dona Carlota Joaquina",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113463464"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota de Dona Maria I",
                     "xml:lang": "pt"
                 }
             },
@@ -5236,6 +5220,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Ru\u00ednas de S\u00e3o Miguel de Odrinhas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.209336111 38.697178055)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113468012"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Saveira Dourada",
                     "xml:lang": "pt"
                 }
             },
