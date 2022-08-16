@@ -227,7 +227,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Bergantim Real",
+                    "value": "Bergantim Real (1784)",
                     "xml:lang": "pt"
                 }
             },
@@ -5300,6 +5300,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "S\u00e9 Nova de Coimbra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.209336111 38.697178055)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113527795"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "S\u00edrius (1877)",
                     "xml:lang": "pt"
                 }
             },
