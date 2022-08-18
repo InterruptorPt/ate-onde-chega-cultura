@@ -7433,6 +7433,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.084252157 38.894217474)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56294936"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D\u00f3lmen de Monte Serves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.44175 41.023336)"
                 },
                 "item": {
