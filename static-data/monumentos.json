@@ -11401,6 +11401,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.646093 42.027996)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113557146"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Combatentes da Grande Guerra em Valen\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.499334 40.112764)"
                 },
                 "item": {
