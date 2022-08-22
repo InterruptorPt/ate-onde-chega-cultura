@@ -219,22 +219,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113463464"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Bergantim Real (1784)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.681163 39.233882)"
                 },
                 "item": {
@@ -1563,22 +1547,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-27.216866 38.657051)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468215"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Escaler Grande da Alf\u00e2ndega",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.312588 41.458578)"
                 },
                 "item": {
@@ -1780,70 +1748,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Gabinete de Numism\u00e1tica",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336 38.697178)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q61055943"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota Grande",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468010"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota Pequena",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468017"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota de Dom Miguel I",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468019"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Galeota do Inspector da Alf\u00e2ndega de Lisboa",
                     "xml:lang": "pt"
                 }
             },
@@ -5115,6 +5019,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.6116 41.142)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1107442"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pa\u00e7o Episcopal do Porto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.292999 41.443186)"
                 },
                 "item": {
@@ -5227,22 +5147,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113468012"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Saveira Dourada",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-16.76744 32.71843)"
                 },
                 "item": {
@@ -5300,22 +5204,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "S\u00e9 Nova de Coimbra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.209336111 38.697178055)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113527795"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "S\u00edrius (1877)",
                     "xml:lang": "pt"
                 }
             },
