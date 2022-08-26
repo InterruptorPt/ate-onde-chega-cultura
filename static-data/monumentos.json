@@ -7113,6 +7113,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.11147 40.712175)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113624237"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro dos Centen\u00e1rios de Ventosa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.412697 40.098312)"
                 },
                 "item": {
@@ -10722,6 +10738,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Menir do Tojal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.743565082 41.109504699)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111193285"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir do Vale de Nascer\u00e3es",
                     "xml:lang": "pt"
                 }
             },
