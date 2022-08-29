@@ -220,22 +220,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.544812 41.067158)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q55611087"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Municipal Jorge Sampaio",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.98333 39.55)"
                 },
                 "item": {
@@ -3116,7 +3100,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.544874 41.066863)"
+                    "value": "Point(-8.544812 41.067158)"
                 },
                 "item": {
                     "type": "uri",
