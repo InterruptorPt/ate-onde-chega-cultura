@@ -219,6 +219,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.743283 38.040656)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q14202152"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Badoca Safari Park",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.681163 39.233882)"
                 },
                 "item": {
@@ -1979,6 +1995,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.169002 38.743253)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q220063"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Jardim Zool\u00f3gico de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.139431 38.65352)"
                 },
                 "item": {
@@ -3556,6 +3588,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu da Sociedade Martins Sarmento",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1408 38.7167)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333716"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da Sociedade de Geografia",
                     "xml:lang": "pt"
                 }
             },
@@ -5268,6 +5316,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "World of Discoveries",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.7595 37.1405)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q220114"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Zoo de Lagos",
                     "xml:lang": "pt"
                 }
             },
