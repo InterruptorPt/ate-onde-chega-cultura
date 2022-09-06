@@ -3241,22 +3241,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-6.617669 41.252929)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q61001063"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Castelo dos Mouros de Vilarinho dos Galegos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-6.829001 41.376031)"
                 },
                 "item": {
@@ -4130,6 +4114,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Castro de Vilarandelo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.6173698 41.2527124)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q61001063"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castro de Vilarinho dos Galegos",
                     "xml:lang": "pt"
                 }
             },
