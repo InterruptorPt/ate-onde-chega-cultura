@@ -7865,6 +7865,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-27.060362553 38.731035923)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10277566"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua da Liberdade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382116 39.134865)"
                 },
                 "item": {
