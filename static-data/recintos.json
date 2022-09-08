@@ -4924,6 +4924,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-27.207823991 38.657624599)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q113800022"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pra\u00e7a de Toiros da Ilha Terceira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.989027777 38.655)"
                 },
                 "item": {
