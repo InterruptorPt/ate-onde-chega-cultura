@@ -3675,6 +3675,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-27.216866 38.657051)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333737"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Angra do Hero\u00edsmo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.65945278 41.15913333)"
                 },
                 "item": {
