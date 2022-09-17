@@ -2396,6 +2396,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.111932 38.726699)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q17117711"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Convento de S\u00e3o Francisco de Xabregas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.422045707 41.551620483)"
                 },
                 "item": {
