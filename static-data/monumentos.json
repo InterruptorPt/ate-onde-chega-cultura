@@ -11081,6 +11081,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.3921329 41.6523025)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q103888323"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Ant\u00f3nio Varia\u00e7\u00f5es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.892608153 38.524336762)"
                 },
                 "item": {
