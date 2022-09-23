@@ -1532,6 +1532,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.888477802 37.153041839)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114095369"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro S\u00e3o Br\u00e1s",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.901987 38.571279)"
                 },
                 "item": {
