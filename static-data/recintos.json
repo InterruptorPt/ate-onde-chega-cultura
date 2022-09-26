@@ -3196,6 +3196,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.10965 38.74379)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25419585"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio Engenheiro Carlos Salema",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.160783333 38.761194444)"
                 },
                 "item": {
