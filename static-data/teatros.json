@@ -1996,6 +1996,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.828833898 41.695665103)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114297488"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Municipal S\u00e1 de Miranda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.26853 40.53447)"
                 },
                 "item": {
