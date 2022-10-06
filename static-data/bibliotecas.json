@@ -138,22 +138,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.518711 41.405995)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18500427"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Funda\u00e7\u00e3o Cupertino de Miranda",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.425111111 40.207527777)"
                 },
                 "item": {
@@ -1658,7 +1642,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.436059 41.649398)"
+                    "value": "Point(-8.435914 41.649363)"
                 },
                 "item": {
                     "type": "uri",
