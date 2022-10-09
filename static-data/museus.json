@@ -139,6 +139,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.07613 39.60636)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q94953949"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antiga casa de habita\u00e7\u00e3o de Amadeu Gaud\u00eancio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.892248 38.522656)"
                 },
                 "item": {
