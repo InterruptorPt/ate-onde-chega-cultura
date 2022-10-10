@@ -7113,6 +7113,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.138645 39.514936)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114562012"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro dos Centen\u00e1rios de S\u00e3o Martinho do Porto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.11147 40.712175)"
                 },
                 "item": {
