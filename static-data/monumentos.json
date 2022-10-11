@@ -12473,6 +12473,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.066126 41.360621)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10348191"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pelourinho de Santa Comba da Vilari\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.663505077 40.450511932)"
                 },
                 "item": {
