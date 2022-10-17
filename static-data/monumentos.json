@@ -153,6 +153,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.796765 39.571775)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114703671"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Alminha de Alcaria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.528244 40.148323)"
                 },
                 "item": {
@@ -7241,7 +7257,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.830036 41.710281)"
+                    "value": "Point(-8.8255 41.7164)"
                 },
                 "item": {
                     "type": "uri",
