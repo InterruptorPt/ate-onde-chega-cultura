@@ -2079,11 +2079,11 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70737471"
+                    "value": "http://www.wikidata.org/entity/Q10333765"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "MU.SA - Museu de Artes de Sintra",
+                    "value": "MU.SA - Museu das Artes de Sintra",
                     "xml:lang": "pt"
                 }
             },
