@@ -2683,6 +2683,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.144967 38.713096)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333537"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Ma\u00e7\u00f3nico Portugu\u00eas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.91018 32.64728)"
                 },
                 "item": {
