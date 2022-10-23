@@ -5929,6 +5929,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.929072 39.580368)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114807370"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Lugar de Ch\u00e3os",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.885918 39.68386)"
                 },
                 "item": {
@@ -6034,6 +6050,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro de Nosso Senhor dos Aflitos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.922996882 39.569142156)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114807596"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Olheiros",
                     "xml:lang": "pt"
                 }
             },
@@ -6777,6 +6809,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.932042 39.549809)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114808036"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Carvalhal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.421661 41.808437)"
                 },
                 "item": {
@@ -7273,6 +7321,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.935651 39.562624)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114807735"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em S\u00e3o Vicente de Aljubarrota",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.8255 41.7164)"
                 },
                 "item": {
@@ -7330,6 +7394,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro na Rua da Igreja",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.926503 39.567571)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114808605"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro no Largo da Igreja de S\u00e3o Vicente",
                     "xml:lang": "pt"
                 }
             },
