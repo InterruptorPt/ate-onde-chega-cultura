@@ -12233,6 +12233,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.782777777 39.619722222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114825110"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Padr\u00e3o de Alqueid\u00e3o da Serra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.30099 41.44151)"
                 },
                 "item": {

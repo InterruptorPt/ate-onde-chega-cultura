@@ -12,6 +12,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.909377301 40.66220122)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114830768"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Avenida Teatro",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.695 37.088)"
                 },
                 "item": {
@@ -428,7 +444,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.490919444 39.824325)"
+                    "value": "Point(-7.49007 39.82368)"
                 },
                 "item": {
                     "type": "uri",
@@ -436,7 +452,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Cine-Teatro Avenida de Castelo Branco",
+                    "value": "Cine-Teatro Avenida",
                     "xml:lang": "pt"
                 }
             },
