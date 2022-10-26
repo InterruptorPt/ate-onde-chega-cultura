@@ -1084,6 +1084,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.983212 39.426628)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114858963"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Cultural Gon\u00e7alves Sapinho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382441 38.803388)"
                 },
                 "item": {
