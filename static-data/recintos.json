@@ -3820,27 +3820,11 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.43475 40.20598)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5141518"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Universit\u00e1rio de Coimbra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.434259 40.205933)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66942496"
+                    "value": "http://www.wikidata.org/entity/Q5141518"
                 },
                 "itemLabel": {
                     "type": "literal",

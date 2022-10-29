@@ -11673,6 +11673,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.629072 41.157943)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10332160"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Her\u00f3is da Guerra Peninsular",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.1485207 38.7483316)"
                 },
                 "item": {
@@ -11682,22 +11698,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento aos Her\u00f3is da Guerra Peninsular (Lisboa)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.62912778 41.15794722)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10332160"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Monumento aos Her\u00f3is da Guerra Peninsular (Porto)",
                     "xml:lang": "pt"
                 }
             },
