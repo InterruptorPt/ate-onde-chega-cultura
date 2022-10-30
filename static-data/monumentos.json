@@ -5177,6 +5177,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.971778 39.515504)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114903177"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro Paroquial em \u00c9vora de Alcoba\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.37029 41.562046)"
                 },
                 "item": {
@@ -5689,6 +5705,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.974080135 39.517983129)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114903104"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Caminho em \u00c9vora de Alcoba\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.493269 39.827697)"
                 },
                 "item": {
@@ -6130,6 +6162,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro de Pinheiro da Bemposta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.815381 39.603168)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114916050"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Porto de M\u00f3s",
                     "xml:lang": "pt"
                 }
             },
@@ -7346,6 +7394,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro em S\u00e3o Vicente de Aljubarrota",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.973467284 39.513751679)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114903143"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em \u00c9vora de Alcoba\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.963632 39.531773)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114903159"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em \u00c9vora-de-Alcoba\u00e7a",
                     "xml:lang": "pt"
                 }
             },
