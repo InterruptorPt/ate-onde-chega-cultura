@@ -5721,6 +5721,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.838313401 39.529295601)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114930511"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Casais do Ch\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.493269 39.827697)"
                 },
                 "item": {
