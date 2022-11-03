@@ -6636,6 +6636,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.154071141 38.718011133)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106998688"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro do Bairro Alto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.63918333 41.15077222)"
                 },
                 "item": {
