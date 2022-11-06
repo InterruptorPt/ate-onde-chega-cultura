@@ -875,6 +875,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.146666666 39.916944444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115096202"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu Comendador Manuel Nunes Corr\u00eaa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.5892 40.80631667)"
                 },
                 "item": {
@@ -3252,6 +3268,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Parada Leit\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.143251 39.919408)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115097276"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Pedro Cruz",
                     "xml:lang": "pt"
                 }
             },
