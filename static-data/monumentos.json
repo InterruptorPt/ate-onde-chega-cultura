@@ -7209,6 +7209,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.447271 39.845827)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115104637"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro dos Centen\u00e1rios de Almoster",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.600837 41.122419)"
                 },
                 "item": {
