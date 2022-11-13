@@ -4729,6 +4729,54 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.8745 39.7213)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115187291"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto Megal\u00edtico de Moitas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.8602 39.7223)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115187291"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto Megal\u00edtico de Moitas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.8629 39.719)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115187291"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto Megal\u00edtico de Moitas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.035277777 41.190833333)"
                 },
                 "item": {
@@ -5042,6 +5090,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruz das Vendas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.277273 39.904081)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115184483"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruz de Ferro em Figueir\u00f3 dos Vinhos",
                     "xml:lang": "pt"
                 }
             },
@@ -13602,6 +13666,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "T\u00famulo de Santo Amaro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.4274 41.5503)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115185397"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "T\u00famulo do Arcebispo D. Diogo de Sousa",
                     "xml:lang": "pt"
                 }
             },

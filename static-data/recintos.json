@@ -1052,6 +1052,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.272392 39.904008)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115183176"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Povo em Figueir\u00f3 dos Vinhos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.312696 41.375801)"
                 },
                 "item": {
@@ -2341,6 +2357,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Circuito de Monsanto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.274279 39.903623)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115184410"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Clube Figueiroense",
                     "xml:lang": "pt"
                 }
             },
