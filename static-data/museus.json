@@ -1611,6 +1611,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.43554 39.90988)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115196309"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ed\u00edficio na Rua Pol\u00edbio Gomes dos Santos, n.\u00ba 14",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.471484 37.471455)"
                 },
                 "item": {
