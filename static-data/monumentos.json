@@ -201,6 +201,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.402581 39.864474)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115209451"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Alminhas da Portela de S\u00e3o Louren\u00e7o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.464906 40.106461)"
                 },
                 "item": {
@@ -4729,22 +4745,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.8745 39.7213)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q115187291"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Conjunto Megal\u00edtico de Moitas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.8602 39.7223)"
                 },
                 "item": {
@@ -4762,6 +4762,22 @@
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
                     "value": "Point(-7.8629 39.719)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115187291"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto Megal\u00edtico de Moitas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.8745 39.7213)"
                 },
                 "item": {
                     "type": "uri",
@@ -7666,6 +7682,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Dois obeliscos ladeando a EN 12-1\u00aa, ao km 13,895",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.710946 41.229767)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10370162"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Duas sepulturas abertas na rocha gran\u00edtica",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.711317 41.228757)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10370162"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Duas sepulturas abertas na rocha gran\u00edtica",
                     "xml:lang": "pt"
                 }
             },
@@ -13314,22 +13362,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Sepulturas escavadas na rocha em Malpartida",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.71159 41.229239)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814713"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Sepulturas no lugar de Pampelido / Montedouro (na rocha)",
                     "xml:lang": "pt"
                 }
             },
