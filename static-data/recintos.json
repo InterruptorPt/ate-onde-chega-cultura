@@ -1036,6 +1036,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.158978 39.266445)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115281716"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Povo do Bombarral",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.265163421 41.875259399)"
                 },
                 "item": {
@@ -4812,6 +4828,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.126617431 39.401332855)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115288648"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Parque das Faian\u00e7as",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.1769 40.9489)"
                 },
                 "item": {
@@ -5580,6 +5612,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.134649 39.407599)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10353469"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pra\u00e7a de Touros das Caldas da Rainha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.538055555 39.874666666)"
                 },
                 "item": {
@@ -5717,22 +5765,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pra\u00e7a de Touros em Portalegre",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.134583333 39.407694444)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10353469"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pra\u00e7a de touros das Caldas da Rainha",
                     "xml:lang": "pt"
                 }
             },

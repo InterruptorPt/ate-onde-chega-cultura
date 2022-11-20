@@ -5594,6 +5594,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.133941666 39.395858333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115287906"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Hospital de Santo Isidoro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.115915298 38.057983398)"
                 },
                 "item": {

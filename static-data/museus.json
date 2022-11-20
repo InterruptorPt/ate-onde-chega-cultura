@@ -4747,22 +4747,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.13197 39.4034)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10333904"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu do Hospital e das Caldas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.82786828 41.454344192)"
                 },
                 "item": {
@@ -5156,6 +5140,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pal\u00e1cio Nacional de Mafra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.131727 39.403639)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333904"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pal\u00e1cio Real",
                     "xml:lang": "pt"
                 }
             },

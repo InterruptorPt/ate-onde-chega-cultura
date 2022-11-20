@@ -12441,6 +12441,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.153994 39.266986)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115283087"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Padr\u00e3o Comemorativo da viagem de Gago Coutinho e Sacadura Cabral",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.438888888 39.913316666)"
                 },
                 "item": {
