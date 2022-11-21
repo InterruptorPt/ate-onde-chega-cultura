@@ -5353,6 +5353,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.195412 39.305133)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115302746"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da Columbeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.269514 41.429751)"
                 },
                 "item": {
@@ -7602,6 +7618,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro na Rua da Igreja",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.19735 39.3004)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115305577"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro na Serra do Picoto",
                     "xml:lang": "pt"
                 }
             },
