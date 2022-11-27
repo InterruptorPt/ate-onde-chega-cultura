@@ -4745,6 +4745,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.8602 39.7223)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115187291"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto Megal\u00edtico de Moitas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.8629 39.719)"
                 },
                 "item": {
@@ -4762,22 +4778,6 @@
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
                     "value": "Point(-7.8745 39.7213)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q115187291"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Conjunto Megal\u00edtico de Moitas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.8602 39.7223)"
                 },
                 "item": {
                     "type": "uri",
@@ -5074,6 +5074,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cripta e t\u00famulo do marqu\u00eas de Valen\u00e7a, na igreja de Vila Velha de Our\u00e9m",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.6747764 39.629468)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10261858"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruz Alta",
                     "xml:lang": "pt"
                 }
             },
