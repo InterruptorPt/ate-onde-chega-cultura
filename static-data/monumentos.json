@@ -5369,6 +5369,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.717219875 39.741041848)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115474814"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da Caranguejeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.195412 39.305133)"
                 },
                 "item": {

@@ -5132,6 +5132,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.03321 39.75301)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96280367"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Piscinas Oce\u00e2nicas de S\u00e3o Pedro de Moel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.70778333 41.192875)"
                 },
                 "item": {

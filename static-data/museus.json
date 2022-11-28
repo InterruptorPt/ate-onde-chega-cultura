@@ -411,6 +411,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.03206 39.756377)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q76952442"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa Museu Afonso Lopes Vieira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.913353 40.65854)"
                 },
                 "item": {
