@@ -508,6 +508,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.142586 38.731182)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92301107"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antigo Edif\u00edcio da Escola Ant\u00f3nio Arroio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.156402 38.718284)"
                 },
                 "item": {
@@ -556,6 +572,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.968457 39.873597)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115472936"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Audit\u00f3rio Ant\u00f3nio Campos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.009345 39.05355)"
                 },
                 "item": {
@@ -597,6 +629,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Audit\u00f3rio Municipal Beatriz Costa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.157922515 39.359740174)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111339628"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Audit\u00f3rio Municipal Casa da M\u00fasica",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.912795563 38.630800033)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110972494"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Audit\u00f3rio Municipal de Pinhal Novo",
                     "xml:lang": "pt"
                 }
             },
@@ -2581,342 +2645,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Convento de S\u00e3o Francisco de Xabregas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.422045707 41.551620483)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q102391341"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto da Avenida Central",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.974636 38.705905)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q110748394"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto da Pra\u00e7a da Rep\u00fablica",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.760352 41.379062)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814800"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto da Pra\u00e7a do Almada",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.323688872 39.238305169)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10260584"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Alegrete",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.10362 39.500794)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q114458246"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Alfeizer\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.006353938 38.928338929)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10260585"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Alhandra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.657902 39.198937)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q69540511"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Alter do Ch\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.38223 39.82482)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q76956892"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Alvai\u00e1zere",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-27.218561589 38.656683904)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q104369047"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Angra do Hero\u00edsmo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-25.6891717 37.8375224)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106575098"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Capelas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.933128 39.465342)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70143873"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Gavi\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.687727 39.51322)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q75826906"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Minde",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.902773 38.571145)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q110977703"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Palmela",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.628941 39.916014)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q113844321"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Pombal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.870213 38.938434)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70562812"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Samora Correia",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.41439 39.6061)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q76951150"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto de Tomar",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.308937 41.376314)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q76950829"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto do Jardim da Pra\u00e7a da Rep\u00fablica",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.419116973 41.541557312)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q89291532"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto do Parque da Ponte",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.076072 39.60519)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q114426225"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto do S\u00edtio da Nazar\u00e9",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.599945 41.079953)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q96995467"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto em Canelas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.653226852 40.636344909)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q98706374"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coreto, sito no Parque Municipal",
                     "xml:lang": "pt"
                 }
             },
