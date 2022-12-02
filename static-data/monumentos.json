@@ -11913,6 +11913,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.832628 39.894645)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115537603"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Combatentes da Grande Guerra em Monte Redondo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.64999 37.125947)"
                 },
                 "item": {
