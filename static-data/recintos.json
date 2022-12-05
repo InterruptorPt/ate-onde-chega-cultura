@@ -4140,6 +4140,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.101391666 38.743847222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10286934"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "F\u00e1brica de Armamento de Bra\u00e7o de Prata",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.497623 37.495594)"
                 },
                 "item": {
