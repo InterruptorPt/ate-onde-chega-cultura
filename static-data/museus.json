@@ -3195,7 +3195,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.16146111 38.75545833)"
+                    "value": "Point(-9.15074 38.717872)"
                 },
                 "item": {
                     "type": "uri",
@@ -3203,7 +3203,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Museu Nacional de Hist\u00f3ria Natural",
+                    "value": "Museu Nacional de Hist\u00f3ria Natural e da Ci\u00eancia",
                     "xml:lang": "pt"
                 }
             },
