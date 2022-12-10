@@ -188,6 +188,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.214653 38.420631)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115650376"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa de \u00d3pera do Cabo Espichel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.238215 40.087229)"
                 },
                 "item": {
