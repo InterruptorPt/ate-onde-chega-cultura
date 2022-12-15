@@ -5419,22 +5419,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.366289 38.88709)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10365475"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Ru\u00ednas de S\u00e3o Miguel de Odrinhas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-16.76744 32.71843)"
                 },
                 "item": {
