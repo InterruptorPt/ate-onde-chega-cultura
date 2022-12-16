@@ -2363,6 +2363,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.366303 38.8862143)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115704197"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Arqueol\u00f3gico de S\u00e3o Miguel de Odrinhas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.14 38.71222222)"
                 },
                 "item": {
@@ -4788,6 +4804,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu do Linho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.4249 38.6952)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q48816433"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Mar Rei D. Carlos",
                     "xml:lang": "pt"
                 }
             },
