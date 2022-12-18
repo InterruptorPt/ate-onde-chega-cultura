@@ -4108,6 +4108,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.152975 38.720713)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115733630"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "FAPIR",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.18453 38.69878)"
                 },
                 "item": {
@@ -5436,6 +5452,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.4462 39.2645)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25421259"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pra\u00e7a de Touros de Portalegre",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.389416 39.2344)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25421259"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pra\u00e7a de Touros de Portalegre",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.793005 39.024437)"
                 },
                 "item": {
@@ -5509,22 +5557,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pra\u00e7a de Touros do Cartaxo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.389416 39.2344)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q25421259"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pra\u00e7a de Touros em Portalegre",
                     "xml:lang": "pt"
                 }
             },
