@@ -348,38 +348,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.13611111 38.71527778)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1487139"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "12E (Carris)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.1296 38.71296)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q63034669"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "28E (Carris)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.85 38.73027778)"
                 },
                 "item": {
@@ -4364,38 +4332,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.446828055 38.79953)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q97072335"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Linha do el\u00e9trico de Sintra, na totalidade do seu percurso atualmente subsistente, incluindo as respetivas estruturas de apoio e composi\u00e7\u00f5es",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.644145 37.595784)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q96585475"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Marcos da Barca de Odemira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.58078333 41.160425)"
                 },
                 "item": {
@@ -6629,22 +6565,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro-Cine de Torres Vedras",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.898055555 32.6775)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3289157"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Telef\u00e9rico Funchal-Monte",
                     "xml:lang": "pt"
                 }
             },
