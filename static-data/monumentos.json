@@ -2489,22 +2489,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.678611 39.308448)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106119114"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Anta dos Penedos de S\u00e3o Miguel",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.461572222 39.434888888)"
                 },
                 "item": {
