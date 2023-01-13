@@ -217,6 +217,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.644891738 42.029388427)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116186390"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Alminhas de Nossa Senhora do Carmo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.645688056 42.027038574)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116186391"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Alminhas de Nossa Senhora do Carmo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.464906 40.106461)"
                 },
                 "item": {
@@ -11762,6 +11794,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento a Martins Sarmento",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.645281 42.028282)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116186405"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a S\u00e3o Teot\u00f3nio",
                     "xml:lang": "pt"
                 }
             },
