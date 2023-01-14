@@ -7465,6 +7465,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.645195007 42.030647277)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116187455"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro dos Centen\u00e1rios de Valen\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.11147 40.712175)"
                 },
                 "item": {
