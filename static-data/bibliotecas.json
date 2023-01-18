@@ -5642,6 +5642,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.038 38.288361)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116234019"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pa\u00e7os do Concelho de Vila Nova da Baronia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.420714 38.701284)"
                 },
                 "item": {
