@@ -5466,6 +5466,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.644002914 42.031162261)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116358616"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa das Varandas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.656479 39.201365)"
                 },
                 "item": {
@@ -5539,6 +5555,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cinema Europa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.037941 38.288383)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116234019"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "C\u00e2mara Municipal de Vila Nova de Baronia",
                     "xml:lang": "pt"
                 }
             },
@@ -5635,22 +5667,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pal\u00e1cio Morgado",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.038 38.288361)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q116234019"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pa\u00e7os do Concelho de Vila Nova da Baronia",
                     "xml:lang": "pt"
                 }
             },
