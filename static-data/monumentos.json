@@ -681,7 +681,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.85055556 41.81)"
+                    "value": "Point(-8.850724 41.810017)"
                 },
                 "item": {
                     "type": "uri",
