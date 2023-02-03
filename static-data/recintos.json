@@ -2652,6 +2652,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.6777833 37.105944)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q17390171"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Convento de Nossa Senhora do Loreto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.111932 38.726699)"
                 },
                 "item": {
