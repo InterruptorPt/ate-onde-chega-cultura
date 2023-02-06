@@ -5113,6 +5113,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.85065627 32.63855047)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q823766"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cristo Rei da Ponta do Garajau",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6747764 39.629468)"
                 },
                 "item": {
@@ -13426,6 +13442,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Ru\u00ednas da muralha das Portas de Montemuro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.171388888 38.678611111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q805446"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Santu\u00e1rio de Cristo Rei",
                     "xml:lang": "pt"
                 }
             },
