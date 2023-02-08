@@ -4636,6 +4636,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.62598889 41.14687778)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10346950"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pavilh\u00e3o Rosa Mota",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.183613 38.751259)"
                 },
                 "item": {
@@ -5637,22 +5653,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Solar Condes de Resende",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.62598889 41.14687778)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10346950"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Super Bock Arena - Pavilh\u00e3o Rosa Mota",
                     "xml:lang": "pt"
                 }
             },
