@@ -11897,6 +11897,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.645222222 37.599722222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116731492"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Cante Alentejano",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.14103 38.737942)"
                 },
                 "item": {
