@@ -7625,6 +7625,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.001707363 38.332225758)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116747859"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em Viana do Alentejo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.973467284 39.513751679)"
                 },
                 "item": {
@@ -13881,7 +13897,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.192953 39.2965531)"
+                    "value": "Point(-9.197323 39.300058)"
                 },
                 "item": {
                     "type": "uri",

@@ -1691,6 +1691,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.001545089 38.332364622)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116746008"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Espa\u00e7o Interpretativo do Castelo de Viana do Alentejo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.065198358 38.665104126)"
                 },
                 "item": {
