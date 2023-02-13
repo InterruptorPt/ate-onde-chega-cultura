@@ -2524,6 +2524,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.550423238 38.6460753)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116766834"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coliseu de Redondo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.60551111 41.1469)"
                 },
                 "item": {

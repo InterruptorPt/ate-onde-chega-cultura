@@ -5019,6 +5019,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.546255218 38.646764011)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116766924"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Vinho de Redondo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.615122222 41.140141666)"
                 },
                 "item": {
