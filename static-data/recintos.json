@@ -716,6 +716,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.677982 37.10568)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116780749"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cadeia Comarc\u00e3 de Lagos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.091944 38.640556)"
                 },
                 "item": {
@@ -2668,7 +2684,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.6777833 37.105944)"
+                    "value": "Point(-8.677521 37.105811)"
                 },
                 "item": {
                     "type": "uri",
@@ -5820,7 +5836,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.586671 38.843702)"
+                    "value": "Point(-7.583909 38.84523)"
                 },
                 "item": {
                     "type": "uri",

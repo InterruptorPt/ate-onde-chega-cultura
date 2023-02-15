@@ -1243,6 +1243,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.588416493 38.841952999)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116780041"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Interpretativo do Boneco de Estremoz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.432311 40.201401)"
                 },
                 "item": {

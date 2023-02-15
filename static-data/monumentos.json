@@ -5501,7 +5501,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q102391796"
+                    "value": "http://www.wikidata.org/entity/Q75137812"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -6690,22 +6690,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro de S\u00e3o Juli\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.421527777 41.546972222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q75137812"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cruzeiro de S\u00e3o L\u00e1zaro",
                     "xml:lang": "pt"
                 }
             },
@@ -11730,6 +11714,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento a Eduardo VII de Inglaterra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.425142 41.549868)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q83630379"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Francisco Sanches",
                     "xml:lang": "pt"
                 }
             },
