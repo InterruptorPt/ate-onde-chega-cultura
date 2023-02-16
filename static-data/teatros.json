@@ -300,6 +300,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.416443 38.779385)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116786754"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Florbela Espanca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.500005 40.138576)"
                 },
                 "item": {

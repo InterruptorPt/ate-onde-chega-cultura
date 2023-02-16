@@ -2139,6 +2139,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.418333333 38.779944444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66917087"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja e Convento de Santa Cruz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.165067 38.879641)"
                 },
                 "item": {
