@@ -2139,7 +2139,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.418333333 38.779944444)"
+                    "value": "Point(-7.41834 38.77995)"
                 },
                 "item": {
                     "type": "uri",
@@ -3963,6 +3963,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.415088338 38.780189988)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116796240"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Arqueologia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.65945278 41.15913333)"
                 },
                 "item": {
@@ -4196,6 +4212,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu de Batalha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.41508834 38.780189989)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116793882"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Ca\u00e7a",
                     "xml:lang": "pt"
                 }
             },
