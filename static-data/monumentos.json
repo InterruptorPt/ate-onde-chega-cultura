@@ -5993,22 +5993,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.347527 41.176471)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814732"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cruzeiro de Cete (no adro fronteiro \u00e0 Ermida de Nossa Senhora do Vale)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.783278 41.635456)"
                 },
                 "item": {
@@ -7346,6 +7330,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro do Senhor dos Milagres",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.3493 41.1758)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814732"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do adro fronteiro \u00e0 Ermida de Nossa Senhora do Vale",
                     "xml:lang": "pt"
                 }
             },
