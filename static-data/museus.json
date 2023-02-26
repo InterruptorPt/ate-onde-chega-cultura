@@ -2219,6 +2219,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.66940689 39.654361724)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98459571"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Lagar de Varas do Cabe\u00e7o das Pesqueiras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382001 38.803283)"
                 },
                 "item": {
