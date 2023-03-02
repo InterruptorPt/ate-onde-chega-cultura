@@ -7161,6 +7161,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.391821 40.135312)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942178"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Santo Cristo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.426861 40.208523)"
                 },
                 "item": {
