@@ -506,7 +506,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.681163 39.233882)"
+                    "value": "Point(-8.681327 39.233972)"
                 },
                 "item": {
                     "type": "uri",
@@ -4115,22 +4115,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Santana",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.681327 39.233972)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100999075"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Santar\u00e9m",
                     "xml:lang": "pt"
                 }
             },
