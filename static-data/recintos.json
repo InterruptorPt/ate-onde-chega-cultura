@@ -4188,6 +4188,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.617863 41.532641)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813169"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Feira de Barcelos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.42273611 41.54098889)"
                 },
                 "item": {
