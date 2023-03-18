@@ -1945,6 +1945,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.8601408 39.72227478)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117195442"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Cabe\u00e7o da Anta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.289032 40.944719)"
                 },
                 "item": {
@@ -1986,6 +2002,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Anta do Crato",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.874465942 39.721374511)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117195438"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do C\u00e3o do Ribeiro",
                     "xml:lang": "pt"
                 }
             },
@@ -2370,6 +2402,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Anta do Vale de Sancho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.86290121 39.718948364)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117195439"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Vale do Alvito",
                     "xml:lang": "pt"
                 }
             },
