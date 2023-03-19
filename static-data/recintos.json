@@ -2748,22 +2748,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.077237 38.664266)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100578090"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "C\u00e2mara Municipal do Barreiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.129397576 38.716501736)"
                 },
                 "item": {
@@ -4332,22 +4316,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.289082 41.439331)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q76474504"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja do Convento das Capuchinhas ou da Madre de Deus",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.722751 41.275429)"
                 },
                 "item": {
@@ -4581,22 +4549,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Novo Ciclo - Centro de Recursos Culturais e de Desenvolvimento do Concelho de Tondela",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.133853 38.71081)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73766647"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio Monte Real",
                     "xml:lang": "pt"
                 }
             },
