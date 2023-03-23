@@ -3051,6 +3051,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.333009276 38.937791073)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117256372"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal Prof. Ra\u00fal de Almeida",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.8605 40.1506)"
                 },
                 "item": {
