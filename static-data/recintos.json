@@ -76,22 +76,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.37472 38.7881)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q16154563"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Campo Conde Sucena",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.376666666 40.383611111)"
                 },
                 "item": {
@@ -805,6 +789,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Campo Almirante Reis",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.37472 38.7881)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q16154563"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Campo Conde Sucena",
                     "xml:lang": "pt"
                 }
             },
