@@ -8681,6 +8681,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.171090793 38.742939229)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117431535"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Homenagem a Adriano Coelho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.17113639 38.743087763)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117430684"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Homenagem a F\u00e9lix Naharro Pires",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.199537 39.464235)"
                 },
                 "item": {
