@@ -6540,6 +6540,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.141805555 38.716694444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378952"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro da Rua dos Condes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.14256389 38.71188611)"
                 },
                 "item": {
