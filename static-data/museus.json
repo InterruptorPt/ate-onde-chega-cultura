@@ -219,6 +219,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.179067384 38.704069515)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117707984"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "B-MAD, Berardo \u2013 Museu Arte Deco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.015803853 38.524073356)"
                 },
                 "item": {
