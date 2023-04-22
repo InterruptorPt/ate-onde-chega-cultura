@@ -828,6 +828,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.617863 41.532641)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813169"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Campo da Feira de Barcelos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.936198 32.670966)"
                 },
                 "item": {
@@ -4165,22 +4181,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Feira Internacional de Lisboa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.617863 41.532641)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813169"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Feira de Barcelos",
                     "xml:lang": "pt"
                 }
             },

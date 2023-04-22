@@ -1497,22 +1497,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.87605556 37.353975)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q16490871"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Anta das Pedras Altas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.2186 38.8067)"
                 },
                 "item": {
@@ -4594,6 +4578,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cerro da Rocha Branca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.87605556 37.353975)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q16490871"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cerro das Pedras Altas",
                     "xml:lang": "pt"
                 }
             },
@@ -8601,6 +8601,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.152240254 38.751838107)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117815229"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "E\u00e7a de Queir\u00f3s",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.15221075 38.751804639)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117815129"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fern\u00e3o Lopes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.166044 38.878898)"
                 },
                 "item": {
@@ -8642,6 +8674,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fraga dos Corvos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.152261712 38.751867392)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117815269"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Gil Vicente",
                     "xml:lang": "pt"
                 }
             },
@@ -8898,6 +8946,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Lapa de Meruge",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.152261712 38.751879942)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117815335"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Lu\u00eds de Cam\u00f5es",
                     "xml:lang": "pt"
                 }
             },
