@@ -2683,6 +2683,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.392565942 38.796043356)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q117885034"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Ferreira de Castro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.470430555 41.745166666)"
                 },
                 "item": {
