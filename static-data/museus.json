@@ -2203,22 +2203,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.165067 38.879641)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q30302865"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja e Hospital da Santa Casa da Miseric\u00f3rdia de Elvas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.169002 38.743253)"
                 },
                 "item": {
