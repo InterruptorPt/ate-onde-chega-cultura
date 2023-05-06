@@ -3995,22 +3995,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.012194444 37.7775)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106772184"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu da Ruralidade",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.296447 41.442782)"
                 },
                 "item": {
@@ -5083,22 +5067,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.893678 37.184493)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10333907"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu do Mar e da Terra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.9888 38.9553)"
                 },
                 "item": {
@@ -5523,7 +5491,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Pal\u00e1cio de S\u00e3o Louren\u00e7o",
+                    "value": "Pal\u00e1cio de S\u00e3o Lourem\u00e7o",
                     "xml:lang": "pt"
                 }
             },
