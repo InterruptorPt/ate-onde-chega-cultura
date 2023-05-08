@@ -620,6 +620,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.260927079 39.090646353)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118206896"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "F\u00e1brica das Hist\u00f3rias \u2013 Casa Jaime Umbelino",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.102670966 38.638993661)"
                 },
                 "item": {
