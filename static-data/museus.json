@@ -5419,6 +5419,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.031032 38.656253)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118215623"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Palacete do Morgado da Casa da Cova",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.130605 38.712039)"
                 },
                 "item": {
