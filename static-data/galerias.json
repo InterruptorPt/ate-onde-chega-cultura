@@ -743,6 +743,22 @@
                     "value": "Igreja do Compromisso Mar\u00edtimo de Lagos",
                     "xml:lang": "pt"
                 }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.259798155 39.093114553)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118256299"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pa\u00e7os - Galeria Municipal de Torres Vedras",
+                    "xml:lang": "pt"
+                }
             }
         ]
     }

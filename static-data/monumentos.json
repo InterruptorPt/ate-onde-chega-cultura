@@ -11881,6 +11881,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.177919103 38.723989578)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118255768"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Duarte Pacheco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.155048354 38.728523)"
                 },
                 "item": {
