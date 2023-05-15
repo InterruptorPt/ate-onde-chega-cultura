@@ -1323,6 +1323,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.152455261 38.753493172)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118360409"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Arte Manuel de Brito",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.1540155 38.7354647)"
                 },
                 "item": {
