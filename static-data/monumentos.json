@@ -8473,6 +8473,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.592314067 38.841421181)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118465137"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua da Rainha Santa Isabel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382116 39.134865)"
                 },
                 "item": {
