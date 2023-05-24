@@ -1435,6 +1435,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.264496085 39.099414434)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118613029"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Interpreta\u00e7\u00e3o das Linhas de Torres Vedras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.468818 40.100488)"
                 },
                 "item": {
