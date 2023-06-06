@@ -27,6 +27,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.8893 39.0561)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q108292509"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Interpretativo da Ordem de Avis",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.513020277 38.371001418)"
                 },
                 "item": {
@@ -36,6 +52,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museo Municipal Pedro Nunes",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.523587 40.272797)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q23818817"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Etnogr\u00e1fico da Vila de An\u00e7\u00e3",
                     "xml:lang": "en"
                 }
             },
