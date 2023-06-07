@@ -1659,22 +1659,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.170574 38.702899)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814373"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio Pedro \u00c1lvares Cabral , antigos Armaz\u00e9ns Frigor\u00edficos do Bacalhau, actual Museu do Oriente",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.593209 39.641179)"
                 },
                 "item": {
