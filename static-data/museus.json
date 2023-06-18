@@ -843,22 +843,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.648383 41.495956)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q13582014"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa do Condado",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.88788 38.524722)"
                 },
                 "item": {
@@ -3204,6 +3188,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Municipal Leonel Trindade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.648383 41.495956)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q13582014"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal Padre Jos\u00e9 Rafael Rodrigues",
                     "xml:lang": "pt"
                 }
             },
