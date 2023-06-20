@@ -1387,7 +1387,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.82883333 41.69019444)"
+                    "value": "Point(-8.828846 41.690222)"
                 },
                 "item": {
                     "type": "uri",
@@ -6251,22 +6251,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.828833898 41.695665103)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q114297488"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Municipal S\u00e1 de Miranda",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.26853 40.53447)"
                 },
                 "item": {
@@ -6484,6 +6468,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro S\u00e1 da Bandeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.828705 41.695779)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114297488"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro S\u00e1 de Miranda",
                     "xml:lang": "pt"
                 }
             },
