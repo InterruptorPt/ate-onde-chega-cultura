@@ -10904,6 +10904,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.47471 41.54578)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q108052813"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marcos Hist\u00f3ricos da Freguesia de Mire de Tib\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.692228 41.187052)"
                 },
                 "item": {

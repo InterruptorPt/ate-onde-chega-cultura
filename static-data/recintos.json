@@ -1467,6 +1467,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.143775 38.751276)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106401454"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Municipal de Artes Pl\u00e1sticas dos Coruch\u00e9us",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.150297 39.41146)"
                 },
                 "item": {
