@@ -763,11 +763,11 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.885146141 38.523666381)"
+                    "value": "Point(-8.885146 38.523666)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74761199"
+                    "value": "http://www.wikidata.org/entity/Q9698256"
                 },
                 "itemLabel": {
                     "type": "literal",
