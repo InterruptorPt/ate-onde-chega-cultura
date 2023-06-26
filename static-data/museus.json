@@ -235,6 +235,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.06259 40.775749)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814018"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antigos pa\u00e7os do concelho (edif\u00edcio onde se encontra instalado o museu)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6105 41.143)"
                 },
                 "item": {
@@ -5867,6 +5883,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.11242 41.020061)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q119953371"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta de Ervamoira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6157 41.14655278)"
                 },
                 "item": {
@@ -6020,22 +6052,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Zoo de Lagos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.062765 40.775878)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814018"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "antigos Pa\u00e7os do Concelho, actuais instala\u00e7\u00f5es do Museu Municipal de Pinhel",
                     "xml:lang": "pt"
                 }
             }

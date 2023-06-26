@@ -13046,6 +13046,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.427867 40.211737)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942551"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte Nova",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.899008 38.524136)"
                 },
                 "item": {
@@ -13119,22 +13135,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fonte Nova (Portalegre)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.427867 40.211737)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66942551"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Fonte Nova / Fonte dos Judeus",
                     "xml:lang": "pt"
                 }
             },
@@ -13919,6 +13919,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Fonte das Pi\u00e7arras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.701526 40.41949)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q119953398"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte das Quatro Bicas",
                     "xml:lang": "pt"
                 }
             },
@@ -18854,7 +18870,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.23111111 38.28361111)"
+                    "value": "Point(-8.231481 38.28372)"
                 },
                 "item": {
                     "type": "uri",
