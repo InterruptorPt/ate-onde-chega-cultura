@@ -58,22 +58,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-16.9354088 32.6663268)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q43988832"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Arquivo Regional e Biblioteca P\u00fablica da Madeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-16.909955 32.651047)"
                 },
                 "item": {
@@ -5571,6 +5555,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "C\u00e2mara Municipal de Vila Nova de Baronia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.9354088 32.6663268)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q43988832"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Dire\u00e7\u00e3o Regional do Arquivo e Biblioteca da Madeira",
                     "xml:lang": "pt"
                 }
             },

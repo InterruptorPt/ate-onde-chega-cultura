@@ -1899,22 +1899,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.480585 39.358853)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9761511"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro da Miseric\u00f3rdia",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.07182 39.602118)"
                 },
                 "item": {
@@ -1924,6 +1908,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro da Nazar\u00e9",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.48054 39.35883)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9761511"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro da Santa Casa da Miseric\u00f3rdia da Chamusca",
                     "xml:lang": "pt"
                 }
             },
@@ -5435,7 +5435,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.478555555 39.362416666)"
+                    "value": "Point(-8.47845 39.362309)"
                 },
                 "item": {
                     "type": "uri",
