@@ -587,6 +587,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.74037778 41.35317778)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9698114"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa Museu Jos\u00e9 R\u00e9gio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.429779 39.288734)"
                 },
                 "item": {
@@ -1595,6 +1611,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.597492 37.94306)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120455647"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Convento do Mosteirinho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.493183333 39.825316666)"
                 },
                 "item": {
@@ -2420,6 +2452,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Madeira Story Centre",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.595519 37.943634)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120453918"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado de Serpa",
                     "xml:lang": "pt"
                 }
             },
