@@ -12104,6 +12104,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.857998 38.012545)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120556809"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento alusivo \u00e0 morte do Lidador",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.303342 38.690958)"
                 },
                 "item": {

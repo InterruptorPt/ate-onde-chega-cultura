@@ -380,6 +380,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.863637 38.01399)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378875"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Pax Julia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.93313 39.749323)"
                 },
                 "item": {
@@ -1413,22 +1429,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Municipal Baltazar Dias",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.86331944 38.01376667)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10378875"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Municipal Pax Julia",
                     "xml:lang": "pt"
                 }
             },
