@@ -7640,6 +7640,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.949853 39.627437)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120694299"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em Alpedriz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.405984 40.163484)"
                 },
                 "item": {
@@ -7649,6 +7665,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro em Castelo Viegas / Antiga Cruz de Celas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.958278 39.599826)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120694306"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em C\u00f3s",
                     "xml:lang": "pt"
                 }
             },
@@ -7809,6 +7841,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro g\u00f3tico",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.038021 39.535858)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120693182"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro na EM 242-6",
                     "xml:lang": "pt"
                 }
             },
@@ -20032,6 +20080,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Presen\u00e7a do Soldado Portugu\u00eas em \u00c1frica",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.949903 39.627173)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120694867"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Rel\u00f3gio de Sol de Alpedriz",
                     "xml:lang": "pt"
                 }
             },
