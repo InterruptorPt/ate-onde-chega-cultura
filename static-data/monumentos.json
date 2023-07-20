@@ -1640,22 +1640,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.505395 40.670768)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1135626"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Anta de Corti\u00e7\u00f4",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.470257 39.444088)"
                 },
                 "item": {
@@ -2625,6 +2609,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Anta n.\u00ba 2 das Defesinhas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.505424 40.670711)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1135626"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta ou orca de Corti\u00e7\u00f4",
                     "xml:lang": "pt"
                 }
             },

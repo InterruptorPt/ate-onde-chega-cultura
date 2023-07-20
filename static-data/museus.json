@@ -171,7 +171,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.62165 41.143152777)"
+                    "value": "Point(-8.621622 41.143079)"
                 },
                 "item": {
                     "type": "uri",
@@ -324,6 +324,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Badoca Safari Park",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.081747 37.6977)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813121"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bas\u00edlica Real de Castro Verde",
                     "xml:lang": "pt"
                 }
             },
@@ -2180,22 +2196,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Hospital Militar de Valen\u00e7a",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.081913 37.69781)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813121"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja Matriz de Castro Verde",
                     "xml:lang": "pt"
                 }
             },
