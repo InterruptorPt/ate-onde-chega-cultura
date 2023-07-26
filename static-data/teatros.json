@@ -76,22 +76,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.41476 39.60237)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q60383353"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro Para\u00edso",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.495 40.1)"
                 },
                 "item": {
@@ -373,6 +357,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro Messias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.414815 39.602362)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q60383353"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Para\u00edso",
                     "xml:lang": "pt"
                 }
             },

@@ -7528,6 +7528,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.240297 40.026088)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10261929"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro dos Centen\u00e1rios de Proen\u00e7a-a-Velha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.793464 41.519882)"
                 },
                 "item": {
