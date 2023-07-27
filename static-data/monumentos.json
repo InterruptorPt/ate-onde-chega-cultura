@@ -7736,6 +7736,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.595253 39.64083)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120936883"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro em Mulher Morta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.495622 41.495582)"
                 },
                 "item": {
