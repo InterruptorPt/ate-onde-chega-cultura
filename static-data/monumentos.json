@@ -6376,6 +6376,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.579777 39.650812)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120970029"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Our\u00e9m",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.46643 41.572112)"
                 },
                 "item": {
@@ -17703,7 +17719,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.785328 40.673222)"
+                    "value": "Point(-7.794974 40.659074)"
                 },
                 "item": {
                     "type": "uri",
