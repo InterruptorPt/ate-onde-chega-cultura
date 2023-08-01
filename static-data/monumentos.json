@@ -5960,6 +5960,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.178289 39.320483)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121073960"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Caminho em S\u00e3o Mamede",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.974080135 39.517983129)"
                 },
                 "item": {
