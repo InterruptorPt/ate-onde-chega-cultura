@@ -7224,6 +7224,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.022007 39.315714)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121087124"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Landal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.894729 38.525505)"
                 },
                 "item": {
@@ -8360,22 +8376,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.464983 39.803652)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813559"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Esta\u00e7\u00e3o Arquel\u00f3gica do Monte de S\u00e3o Martinho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.152400016 38.686035156)"
                 },
                 "item": {
@@ -8401,6 +8401,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Esta\u00e7\u00e3o Arqueol\u00f3gica de Santa Marta das Corti\u00e7as",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.464078 39.803646)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813559"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Esta\u00e7\u00e3o Arqueol\u00f3gica do Monte de S\u00e3o Martinho",
                     "xml:lang": "pt"
                 }
             },

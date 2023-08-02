@@ -251,6 +251,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-27.218233107 38.652780236)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116694933"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marina of Angra do Hero\u00edsmo",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-28.625500202 38.533510136)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q116695571"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marina of Horta",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.651111111 40.176111111)"
                 },
                 "item": {
@@ -724,6 +756,54 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cadeia Comarc\u00e3 de Lagos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.545084 41.18954849)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q69500797"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cais Fluvial do Pinh\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.584407 41.157379)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66077616"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cais da Foz do T\u00e1vora",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.61079 41.16179)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q65926334"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cais do Ferr\u00e3o",
                     "xml:lang": "pt"
                 }
             },
@@ -2891,6 +2971,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.212 38.6931)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10267760"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Doca do Bom Sucesso",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.118055555 37.101944444)"
                 },
                 "item": {
@@ -4500,6 +4596,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Liceu Pedro Nunes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.418 38.693)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q39676063"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marina de Cascais",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.706520469 41.18643887)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10326419"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marina de Leix\u00f5es",
                     "xml:lang": "pt"
                 }
             },
