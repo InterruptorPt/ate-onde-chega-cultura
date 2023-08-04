@@ -11048,6 +11048,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.082813 39.348053)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99168150"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marcos da Ponte da Sancheira Grande",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.692228 41.187052)"
                 },
                 "item": {
@@ -20160,6 +20176,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Presen\u00e7a do Soldado Portugu\u00eas em \u00c1frica",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.071223 39.341109)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121140457"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta do Rolim e Rel\u00f3gio de Sol",
                     "xml:lang": "pt"
                 }
             },
