@@ -13064,6 +13064,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.413328 39.600347)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q76953488"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Padr\u00e3o Filipino",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.438888888 39.913316666)"
                 },
                 "item": {
