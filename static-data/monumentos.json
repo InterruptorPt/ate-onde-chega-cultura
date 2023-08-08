@@ -9144,6 +9144,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.0986911 38.9091653)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121276373"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "L\u00e1pide do Termo da Cidade de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.21827 38.646664)"
                 },
                 "item": {
