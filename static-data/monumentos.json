@@ -5368,6 +5368,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.2311 39.328417)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121477056"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro Paroquial de Olho Marinho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.302676 41.411009)"
                 },
                 "item": {
@@ -5441,6 +5457,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro da Aldeia da Ponte",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.196412 39.343734)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121471357"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da Amoreira",
                     "xml:lang": "pt"
                 }
             },
