@@ -603,6 +603,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.40249 39.607207)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121699937"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Audit\u00f3rio Fernando Lopes Gra\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.898213218 38.522159789)"
                 },
                 "item": {
