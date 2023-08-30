@@ -12088,6 +12088,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.415062904 39.603603363)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122048926"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a D. Gualdim Pais",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.258503 38.750995)"
                 },
                 "item": {
@@ -12456,6 +12472,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.415946006 39.601455688)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122049973"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Infante D. Henrique",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.26086389 38.77846389)"
                 },
                 "item": {
@@ -12465,6 +12497,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento aos Bombeiros Volunt\u00e1rios",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.413516998 39.599449157)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122050799"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Combatentes da Grande Guerra",
                     "xml:lang": "pt"
                 }
             },

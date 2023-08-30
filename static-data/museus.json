@@ -2443,22 +2443,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.395001 38.802202)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q97072335"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Linha do el\u00e9trico de Sintra, na totalidade do seu percurso atualmente subsistente, incluindo as respetivas estruturas de apoio e composi\u00e7\u00f5es",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.382001 38.803283)"
                 },
                 "item": {
@@ -3492,6 +3476,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Municipal de Palmela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.413738 39.604772)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122051147"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Tomar",
                     "xml:lang": "pt"
                 }
             },
