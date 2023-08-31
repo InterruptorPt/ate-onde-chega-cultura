@@ -1995,6 +1995,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.42979722 40.19749722)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10278715"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Explorat\u00f3rio - Centro Ci\u00eancia Viva de Coimbra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.42102778 38.69041667)"
                 },
                 "item": {
