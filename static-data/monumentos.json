@@ -4680,7 +4680,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.341151237 41.511463165)"
+                    "value": "Point(-8.341151 41.511465)"
                 },
                 "item": {
                     "type": "uri",
@@ -9304,22 +9304,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.867027 41.792883)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q116856259"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Mamoa de Eireira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.43159444 41.50336111)"
                 },
                 "item": {
@@ -9521,22 +9505,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Mamoas da Veiga",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.486831 40.93898)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q74316997"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Mamoela de Vinh\u00f3",
                     "xml:lang": "pt"
                 }
             },
@@ -20320,22 +20288,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Presen\u00e7a do Soldado Portugu\u00eas em \u00c1frica",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.094341 38.90314)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q96836574"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Quinta da Romeira de Baixo",
                     "xml:lang": "pt"
                 }
             },
