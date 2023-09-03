@@ -4875,6 +4875,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.186438125 38.71970807)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10345500"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Parque Recreativo do Alvito",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.126617431 39.401332855)"
                 },
                 "item": {
@@ -5092,6 +5108,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Picadeiro do Antigo Col\u00e9gio dos Nobres",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.411162376 39.607460021)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122188133"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Piscina Municipal Vasco Jacob",
                     "xml:lang": "pt"
                 }
             },
@@ -5780,6 +5812,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pra\u00e7a de Touros de Santar\u00e9m",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.403686 39.609023)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122188505"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pra\u00e7a de Touros de Tomar",
                     "xml:lang": "pt"
                 }
             },
