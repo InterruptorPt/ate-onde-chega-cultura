@@ -42,6 +42,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.6017528 41.1460772)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121266074"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Municipal Libraries of Porto",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.672761 37.102272)"
                 },
                 "item": {
@@ -5379,6 +5395,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca-Museu Municipal de Paredes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.126959118 38.713676887)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q121266063"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bibliotecas das Defesa",
                     "xml:lang": "pt"
                 }
             },
