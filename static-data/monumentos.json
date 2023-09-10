@@ -11560,6 +11560,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.663389 37.147722)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122364130"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir de Odi\u00e1xere",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.393556 40.972598)"
                 },
                 "item": {
