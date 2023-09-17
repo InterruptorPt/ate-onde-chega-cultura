@@ -3419,6 +3419,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.438888888 37.188943888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109954439"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Arqueologia de Silves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.807889 38.981454)"
                 },
                 "item": {
