@@ -3216,7 +3216,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Capela de Santo Cristo de Carvalho Lobo e cruzeiro",
+                    "value": "Capela de Santo Cristo em Melga\u00e7o e Cruzeiro denominado Santo Cristo de Carvalho de Lobo nela existente",
                     "xml:lang": "pt"
                 }
             },
@@ -15688,7 +15688,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.538038 38.957785)"
+                    "value": "Point(-8.526744 38.958465)"
                 },
                 "item": {
                     "type": "uri",
@@ -18615,7 +18615,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.390269 38.797051)"
+                    "value": "Point(-9.390233 38.797111)"
                 },
                 "item": {
                     "type": "uri",
