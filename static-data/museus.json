@@ -5115,6 +5115,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.647286375 39.518443422)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122729261"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Bordado e do Barro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.38183889 38.79087778)"
                 },
                 "item": {
