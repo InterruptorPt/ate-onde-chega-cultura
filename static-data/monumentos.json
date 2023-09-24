@@ -168,6 +168,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.590359882 38.841470101)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99352033"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta do Sol",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.796765 39.571775)"
                 },
                 "item": {
@@ -2888,6 +2904,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.90578 38.573351)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813732"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antigo Col\u00e9gio do Esp\u00edrito Santo (Portal renascen\u00e7a)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.304712 38.694744)"
                 },
                 "item": {
@@ -2929,6 +2961,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Arcas tumulares rom\u00e2nicas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.134166666 38.709166666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25430497"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Arco Escuro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.42879 40.20907)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99522708"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Arco Pequeno de Almedina",
                     "xml:lang": "pt"
                 }
             },
@@ -2993,6 +3057,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Arco de S\u00e3o Bento",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.93305556 37.01333333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9627838"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Arco do Repouso",
                     "xml:lang": "pt"
                 }
             },
@@ -9032,6 +9112,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.317814 38.917784)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814402"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja Nova de Mafra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.927512 38.708967)"
                 },
                 "item": {
@@ -13032,6 +13128,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.909875 37.028939)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813825"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Nora, tanque e portal anexos, na quinta da fam\u00edlia B\u00edvar C\u00famano",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.543826 38.440401)"
                 },
                 "item": {
@@ -13553,6 +13665,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pante\u00e3o dos Patriarcas de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.135806 38.712301)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814239"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pa\u00e7os de S\u00e3o Crist\u00f3v\u00e3o (Portal lateral)",
                     "xml:lang": "pt"
                 }
             },
@@ -20087,6 +20215,390 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.425234 40.208879)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28086426"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta Mo\u00e7\u00e1rabe",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.9143 38.5755)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q39713795"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta da Alagoa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1336068 38.7115763)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25430499"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta da Alf\u00f4fa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.424047 38.782101)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99245434"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta da Tapada, em S\u00e3o Bento, Vila Vi\u00e7osa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.91 38.57666667)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10351735"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta de Aviz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.428771 40.208845)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7603888"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta e Torre de Almedina",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.9092 38.5729)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9627851"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta romana (Arco de D. Isabel)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.659573 41.729197)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815185"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portada proveniente do Pal\u00e1cio do Freixo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.425123 40.209095)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q39713757"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portais da extinta igreja e convento de Santa Ana",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.076565 38.663285)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99178938"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal Manuelino da Ermida de S\u00e3o Sebasti\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.524318 40.276292)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942017"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal Setecentista",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.127611 38.711599)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q37782173"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal da Capela de Nossa Senhora dos Rem\u00e9dios",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.328999 41.62489)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813156"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal da Casa da Torre de Vilar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.886989593 38.525939941)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10351756"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal da Gafaria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.567966 42.04469)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815214"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal da Quinta do Crasto, ou Ponte do Manco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.261069 41.049357)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105855237"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal da Serrada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.419625 41.891388)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100396618"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal de Gondoriz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.425483 40.209306)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942315"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal do Col\u00e9gio de S\u00e3o Tom\u00e1s",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.695924 38.015013)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98285994"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal em cantaria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.289836 38.919929)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q63201669"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal manuelino da antiga Capela do Esp\u00edrito Santo de Alcain\u00e7a Grande",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.012 39.0531)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115546981"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal manuelino do Convento de S\u00e3o Francisco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.493655 39.828262)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813566"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal principal e Porta de Roma da antiga Quinta do Pa\u00e7o Episcopal de Castelo Branco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.446842 38.798949)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96939744"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal quinhentista na Rua da Abreja, 34",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.932386 37.017147)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813848"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Portal renascentista",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-25.66846111 37.73950278)"
                 },
                 "item": {
@@ -20096,6 +20608,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Portas da Cidade de Ponta Delgada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.91577 32.6518)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99521287"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Port\u00e3o da rua do Castelo, n.\u00ba 4",
                     "xml:lang": "pt"
                 }
             },
@@ -20320,6 +20848,70 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Presen\u00e7a do Soldado Portugu\u00eas em \u00c1frica",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.2905 38.9198)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814401"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "P\u00f3rtico da igreja de S\u00e3o Miguel de Alca\u00edn\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.96918 38.732998)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815031"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "P\u00f3rtico do antigo Convento de S\u00e3o Francisco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.685967 40.171194)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66943478"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "P\u00f3rtico dos Pinas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.089245 41.072156)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107353314"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta de Ferven\u00e7a",
                     "xml:lang": "pt"
                 }
             },

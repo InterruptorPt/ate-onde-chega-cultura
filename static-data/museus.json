@@ -1563,6 +1563,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.493281803 39.825282441)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122778655"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Interpreta\u00e7\u00e3o do Bordado de Castelo Branco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-28.826102 38.596721)"
                 },
                 "item": {
@@ -1652,22 +1668,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Convento do Mosteirinho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.493183333 39.825316666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q116933366"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "C\u00e2mara Municipal de Castelo Branco",
                     "xml:lang": "pt"
                 }
             },
