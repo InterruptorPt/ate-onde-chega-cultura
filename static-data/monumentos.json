@@ -328,6 +328,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.574026107 41.917007446)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122808605"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Alminhas junto \u00e0 Ponte de Mantel\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.512823 40.092384)"
                 },
                 "item": {
