@@ -6456,6 +6456,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.643358333 40.646525)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q76956934"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Nossa Senhora da Alegria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.650157 40.639698)"
                 },
                 "item": {
