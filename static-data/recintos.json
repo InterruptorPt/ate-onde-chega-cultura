@@ -1675,6 +1675,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.899923324 39.137153625)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110900687"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Aveiras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.534389 37.1378962)"
                 },
                 "item": {
@@ -2564,22 +2580,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cinema Tivoli",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.899923324 39.137153625)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q110900687"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cinema de Aveiras de Cima",
                     "xml:lang": "pt"
                 }
             },
