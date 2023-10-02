@@ -6360,6 +6360,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.756648 41.805963)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122902228"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da S\u00e9",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.34737 41.54115)"
                 },
                 "item": {
@@ -8609,6 +8625,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro no Largo da Igreja de S\u00e3o Vicente",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.199138 41.866097)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122896847"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro no Largo do Destro",
                     "xml:lang": "pt"
                 }
             },
