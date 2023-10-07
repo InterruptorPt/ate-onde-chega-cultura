@@ -1291,6 +1291,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.291914914 41.43955063)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122958399"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Ci\u00eancia Viva de Guimar\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.673375 37.10398611)"
                 },
                 "item": {
@@ -5891,7 +5907,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Pal\u00e1cio de S\u00e3o Lourem\u00e7o",
+                    "value": "Pal\u00e1cio de S\u00e3o Louren\u00e7o",
                     "xml:lang": "pt"
                 }
             },
