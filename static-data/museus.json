@@ -235,22 +235,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.06259 40.775749)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814018"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Antigos pa\u00e7os do concelho (edif\u00edcio onde se encontra instalado o museu)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.6105 41.143)"
                 },
                 "item": {
