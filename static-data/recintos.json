@@ -1083,6 +1083,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.529052591 41.583185716)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123101862"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Cultura de Vimioso",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.667564 40.600519)"
                 },
                 "item": {
