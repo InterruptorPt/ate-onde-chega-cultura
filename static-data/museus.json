@@ -235,6 +235,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.06259 40.775749)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814018"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antigos pa\u00e7os do concelho (edif\u00edcio onde se encontra instalado o museu)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6105 41.143)"
                 },
                 "item": {
@@ -820,6 +836,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa de Camilo Castelo Branco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.628144 40.859747)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9698297"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa de J\u00falio Dinis",
                     "xml:lang": "pt"
                 }
             },
@@ -3092,22 +3124,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Judaico do Porto",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.62190276 40.85926676)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9698297"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu J\u00falio Dinis - Uma Casa Ovarense",
                     "xml:lang": "pt"
                 }
             },
