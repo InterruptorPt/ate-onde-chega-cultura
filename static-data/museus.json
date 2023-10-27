@@ -6123,6 +6123,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.508676052 40.27753067)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123167722"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Real F\u00e1brica de Panos da Covilh\u00e3",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6157 41.14655278)"
                 },
                 "item": {

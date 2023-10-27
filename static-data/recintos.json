@@ -1067,6 +1067,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.326596756 41.204261952)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123197048"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Cultura de Paredes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.893338008 38.524981944)"
                 },
                 "item": {
