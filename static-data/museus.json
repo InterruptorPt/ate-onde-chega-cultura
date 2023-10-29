@@ -3467,6 +3467,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.977183 38.129279)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333642"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Arqueologia e Etnografia de Barrancos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.807889 38.981454)"
                 },
                 "item": {
@@ -4020,22 +4036,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Terras de Regalados",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.977183 38.129279)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10333642"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu arqueol\u00f3gico e etnogr\u00e1fico de Barrancos",
                     "xml:lang": "pt"
                 }
             },
