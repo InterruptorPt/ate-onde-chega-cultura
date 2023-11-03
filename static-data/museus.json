@@ -1723,6 +1723,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.541478 40.923971)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9872672"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Convento dos L\u00f3ios (Feira)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.493183333 39.825316666)"
                 },
                 "item": {
@@ -2884,6 +2900,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Cole\u00e7\u00e3o Berardo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.541735797 40.924093203)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123281368"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Convento dos L\u00f3ios",
                     "xml:lang": "pt"
                 }
             },

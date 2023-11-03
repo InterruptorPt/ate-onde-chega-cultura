@@ -7768,6 +7768,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.142136 40.772258)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123286104"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Calv\u00e1rio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.42920278 41.54895556)"
                 },
                 "item": {
