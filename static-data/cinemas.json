@@ -604,6 +604,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.613067 41.166126)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106401455"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Vale Formoso e Grupo de Moradias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.64417839 42.031684875)"
                 },
                 "item": {
@@ -1157,22 +1173,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cineteatro Capit\u00f3lio",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.61289 41.166363)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106401455"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cineteatro Vale Formoso e Grupo de Moradias",
                     "xml:lang": "pt"
                 }
             },
