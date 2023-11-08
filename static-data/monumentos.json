@@ -2936,6 +2936,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.803190747 40.455701269)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123359838"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ao Pescador",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.304712 38.694744)"
                 },
                 "item": {
@@ -14056,7 +14072,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.479576 38.763902)"
+                    "value": "Point(-7.4720211 38.7640733)"
                 },
                 "item": {
                     "type": "uri",
