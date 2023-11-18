@@ -1899,6 +1899,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.664713 37.635729)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123470330"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio e Igreja da Santa Casa da Miseric\u00f3rdia de M\u00e9rtola",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.981449127 39.54832077)"
                 },
                 "item": {
