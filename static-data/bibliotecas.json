@@ -4574,22 +4574,6 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9656612"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Vila Franca de Xira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.987831 38.952456)"
-                },
-                "item": {
-                    "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q100999087"
                 },
                 "itemLabel": {
@@ -5619,6 +5603,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Edif\u00edcio da Biblioteca P\u00fablica de Braga",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.987831 38.952456)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9656612"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "F\u00e1brica das Palavras",
                     "xml:lang": "pt"
                 }
             },
