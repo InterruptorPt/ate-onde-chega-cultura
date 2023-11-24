@@ -1451,6 +1451,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.756009761 41.806070284)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123517303"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Arte Contempor\u00e2nea Gra\u00e7a Morais",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.152455261 38.753493172)"
                 },
                 "item": {
