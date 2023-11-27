@@ -2984,22 +2984,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.892829 41.15765)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815275"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Arcas tumulares rom\u00e2nicas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.134166666 38.709166666)"
                 },
                 "item": {
@@ -8840,7 +8824,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.723739 38.112914)"
+                    "value": "Point(-8.724267 38.112984)"
                 },
                 "item": {
                     "type": "uri",
@@ -9688,22 +9672,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.624753 40.943053)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10300104"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja Matriz de Santa Marinha de Cortega\u00e7a",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.317814 38.917784)"
                 },
                 "item": {
@@ -9761,6 +9729,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Igreja de Santa Maria Madalena",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.624799 40.943093)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10300104"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja de Santa Marinha, matriz de Cortega\u00e7a, e Jazigos do \"Cemit\u00e9rio Velho\"",
                     "xml:lang": "pt"
                 }
             },
@@ -14072,7 +14056,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.4720211 38.7640733)"
+                    "value": "Point(-7.472007 38.764067)"
                 },
                 "item": {
                     "type": "uri",
@@ -16449,22 +16433,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pelourinho de Coruche",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.942741 40.382257)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66944201"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pelourinho de Couto",
                     "xml:lang": "pt"
                 }
             },
@@ -20567,6 +20535,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.948686 40.38434)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66944201"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pelourinho do Couto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.645486 39.285203)"
                 },
                 "item": {
@@ -20928,6 +20912,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Porta e Torre de Almedina",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.022069 37.137111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813862"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta e cruzeiro da Miseric\u00f3rdia de Loul\u00e9",
                     "xml:lang": "pt"
                 }
             },
@@ -21767,7 +21767,23 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.2223801 40.4244861)"
+                    "value": "Point(-7.892792 41.157647)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815275"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Sete arcas tumulares rom\u00e2nicas existentes no adro da igreja matriz da sede do concelho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.222761 40.424126)"
                 },
                 "item": {
                     "type": "uri",
