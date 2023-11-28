@@ -5610,6 +5610,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.494009 40.900245)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123561585"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Escola Prim\u00e1ria de Sernancelhe",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.987831 38.952456)"
                 },
                 "item": {
