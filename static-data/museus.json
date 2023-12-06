@@ -4219,6 +4219,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.4237 40.2102)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q303106"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da Ci\u00eancia da Universidade de Coimbra",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.32525 41.520444444)"
                 },
                 "item": {
