@@ -3243,6 +3243,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.472141247 41.344201857)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q20059114"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Internacional de Escultura Contempor\u00e2nea",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.350298611 40.3585875)"
                 },
                 "item": {
