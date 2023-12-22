@@ -3451,6 +3451,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.471778888 41.344723888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123951804"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal Abade Pedrosa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.078661 41.269578)"
                 },
                 "item": {
