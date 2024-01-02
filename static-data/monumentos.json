@@ -13176,6 +13176,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.290027777 41.440666666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124069052"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Nicolino",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.26086389 38.77846389)"
                 },
                 "item": {
