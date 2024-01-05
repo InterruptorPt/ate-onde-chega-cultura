@@ -4971,6 +4971,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.00671 39.05738)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124131154"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Dami\u00e3o de G\u00f3is e das V\u00edtimas da Inquisi\u00e7\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.904166666 32.6475)"
                 },
                 "item": {
