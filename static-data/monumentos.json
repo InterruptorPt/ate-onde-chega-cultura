@@ -16312,7 +16312,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.325473 38.889139)"
+                    "value": "Point(-9.32933 38.888817)"
                 },
                 "item": {
                     "type": "uri",
@@ -16320,7 +16320,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Pelourinho de Cheleiros (fragmentos dispersos)",
+                    "value": "Pelourinho de Cheleiros",
                     "xml:lang": "pt"
                 }
             },
@@ -16792,7 +16792,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.136336 41.083205)"
+                    "value": "Point(-7.136363 41.083222)"
                 },
                 "item": {
                     "type": "uri",
@@ -19719,7 +19719,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.232773 41.046203)"
+                    "value": "Point(-7.233849 41.047214)"
                 },
                 "item": {
                     "type": "uri",

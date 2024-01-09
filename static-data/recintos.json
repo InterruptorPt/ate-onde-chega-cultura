@@ -1979,22 +1979,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.828846 41.690222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18483738"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural de Viana do Castelo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.749454 39.844569)"
                 },
                 "item": {
@@ -3428,6 +3412,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Coliseu de Redondo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.828846 41.690222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q18483738"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coliseu de Viana do Castelo",
                     "xml:lang": "pt"
                 }
             },
