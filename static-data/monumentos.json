@@ -12008,6 +12008,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.203845 38.697586)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124216100"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mem\u00f3ria do Ch\u00e3o Salgado",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.585227778 41.767740665)"
                 },
                 "item": {
