@@ -9432,22 +9432,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.791123 41.57365)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1654338"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1tua-menir de S\u00e3o Bartolomeu do Mar",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.206361 38.697669)"
                 },
                 "item": {
@@ -12312,6 +12296,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.791104 41.573603)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1654338"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir de S\u00e3o Bartolomeu do Mar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.76698056 41.60088333)"
                 },
                 "item": {
@@ -14305,6 +14305,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pante\u00e3o dos Patriarcas de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.90225 32.64804)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99545537"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Passo Processional da Rua de Santa Maria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.806344 39.742993)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109453302"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Passos da Via Sacra em Leiria",
                     "xml:lang": "pt"
                 }
             },
