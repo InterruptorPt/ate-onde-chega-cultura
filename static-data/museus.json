@@ -2779,6 +2779,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.906944444 32.648055555)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10338552"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu A Cidade do A\u00e7\u00facar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.7702222 37.4321111)"
                 },
                 "item": {
@@ -5972,22 +5988,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "N\u00facleo Museogr\u00e1fico do Casal da Falagueira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.906944444 32.648055555)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10338552"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "N\u00facleo Museol\u00f3gico da Cidade do A\u00e7\u00facar",
                     "xml:lang": "pt"
                 }
             },
