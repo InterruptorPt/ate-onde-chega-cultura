@@ -13768,6 +13768,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.457464 41.432707)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q102215189"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Necr\u00f3pole de Vermoim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.909875 37.028939)"
                 },
                 "item": {
