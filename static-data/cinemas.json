@@ -780,22 +780,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.660407 37.639859)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q73770684"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cine-Teatro de M\u00e9rtola",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.650888 39.516523)"
                 },
                 "item": {
@@ -1221,6 +1205,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cineteatro de Mangualde",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.660407 37.639859)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73770684"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cineteatro de M\u00e9rtola",
                     "xml:lang": "pt"
                 }
             },
