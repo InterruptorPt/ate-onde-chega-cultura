@@ -13768,7 +13768,55 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.457464 41.432707)"
+                    "value": "Point(-8.456843 41.434479)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q102215189"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Necr\u00f3pole de Vermoim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.456829 41.434056)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q102215189"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Necr\u00f3pole de Vermoim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.457492 41.432649)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q102215189"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Necr\u00f3pole de Vermoim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.458111 41.432179)"
                 },
                 "item": {
                     "type": "uri",
