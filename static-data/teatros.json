@@ -1836,22 +1836,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.877006 40.166067)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66942740"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Trindade",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.16933 38.745012)"
                 },
                 "item": {
@@ -1916,11 +1900,27 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.14256389 38.71188611)"
+                    "value": "Point(-9.142647 38.711891)"
                 },
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q2398829"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro da Trindade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.877708 40.166048)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942740"
                 },
                 "itemLabel": {
                     "type": "literal",
