@@ -427,22 +427,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.094015 38.768554)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1463929"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Altice Arena",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.893 40.361)"
                 },
                 "item": {
@@ -5796,6 +5780,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Liceu Pedro Nunes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.094015 38.768554)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1463929"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "MEO Arena",
                     "xml:lang": "pt"
                 }
             },
