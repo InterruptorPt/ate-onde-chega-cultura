@@ -9752,6 +9752,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.549594 40.243747)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942277"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja de S\u00e3o Marcos, incluindo a Capela dos Reis Magos, o ret\u00e1bulo do altar-mor, os t\u00famulos dos Silvas e a sacristia, e o claustro, a casa do cap\u00edtulo e as adegas do antigo Convento de S\u00e3o Marcos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.200114 38.948451)"
                 },
                 "item": {
@@ -13729,22 +13745,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumentos da Serra da Brenha, que incluem o D\u00f3lmen das Carni\u00e7osas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.549665 40.243844)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66942277"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Mosteiro de S\u00e3o Marcos de Coimbra",
                     "xml:lang": "pt"
                 }
             },
