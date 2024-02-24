@@ -13352,6 +13352,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.435911 41.650169)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124648615"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Combatentes da Grande Guerra em Vila Verde",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.499334 40.112764)"
                 },
                 "item": {
