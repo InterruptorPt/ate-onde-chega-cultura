@@ -8232,6 +8232,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.14429 39.72225)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124658803"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro dos Centen\u00e1rios de Fundada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.284705555 41.446483333)"
                 },
                 "item": {
@@ -16744,7 +16760,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.494427 41.814493)"
+                    "value": "Point(-7.492479 41.816092)"
                 },
                 "item": {
                     "type": "uri",
