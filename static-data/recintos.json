@@ -6315,6 +6315,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.677352777 39.632011944)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28678520"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Cera de F\u00e1tima",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.91031 32.648915)"
                 },
                 "item": {
