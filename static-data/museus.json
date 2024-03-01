@@ -1163,6 +1163,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.676294641 39.234675803)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92206112"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu Passos Canavarro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.611402 41.128374)"
                 },
                 "item": {
@@ -5972,6 +5988,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu \u2013 A Esta\u00e7\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.146706 38.686867)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3334564"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "NRP Barracuda",
                     "xml:lang": "pt"
                 }
             },

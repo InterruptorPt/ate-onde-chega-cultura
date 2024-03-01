@@ -1755,6 +1755,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.676294641 39.234675803)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92206112"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu Passos Canavarro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.611402 41.128374)"
                 },
                 "item": {
