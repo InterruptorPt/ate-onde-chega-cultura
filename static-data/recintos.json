@@ -251,6 +251,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.283194444 42.105416666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98433977"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fonte Nova Melga\u00e7o",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-27.218233107 38.652780236)"
                 },
                 "item": {
@@ -5963,6 +5979,182 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.976274 38.706226)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110745708"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Central Municipal de Montijo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.861886 40.148945)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1310903"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal Engenheiro Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.67316111 37.10411944)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10328766"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal da Avenida de Lagos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.200261 39.461211)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122765781"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Abrantes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.977243159 39.551246504)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111064555"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Alcoba\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.007179524 39.05100924)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q102256602"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Alenquer",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.659377 39.198113)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q69542675"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Alter do Ch\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.764184951 32.717895507)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q68215222"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Machico",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.65725 37.149583)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124362776"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Odi\u00e1xere",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.911816556 38.631189758)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q110972471"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Pinhal Novo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.98378 38.964075)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q75602200"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Vila Franca de Xira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.415615 41.546284)"
                 },
                 "item": {
@@ -5972,6 +6164,102 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Mercado Municipal do Carand\u00e1",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.477204 41.342802)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q94410075"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal e Recinto da Feira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.265232 38.776266)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q76388072"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Paroquial de Belas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.764128 32.717878)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66816045"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Velho de Machico",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.022411 37.138235)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92799881"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado de Loul\u00e9",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.595519 37.943634)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120453918"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado de Serpa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.905825014 32.64741821)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112123452"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado de S\u00e3o Pedro",
                     "xml:lang": "pt"
                 }
             },
@@ -8656,6 +8944,22 @@
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q2398809"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Taborda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.679291 39.235146)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124725902"
                 },
                 "itemLabel": {
                     "type": "literal",
