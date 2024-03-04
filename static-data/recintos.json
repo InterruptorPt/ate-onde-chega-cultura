@@ -2651,6 +2651,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.489091 39.403253)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124731785"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro da Goleg\u00e3",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.26566 40.53846)"
                 },
                 "item": {
@@ -4292,6 +4308,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Edif\u00edcio onde viveu Manuel Vieira Natividade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.528345 39.34862)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124728985"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio, Igreja e Hospital da Santa Casa da Miseric\u00f3rdia da Azinhaga",
                     "xml:lang": "pt"
                 }
             },
