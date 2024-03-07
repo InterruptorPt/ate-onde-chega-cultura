@@ -1052,6 +1052,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.0104 39.0555)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814205"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja da Miseric\u00f3rdia de Alenquer",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.145665 38.733333)"
                 },
                 "item": {
@@ -1413,6 +1429,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Garcia de Resende",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.621835 41.529542)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378848"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Gil Vicente",
                     "xml:lang": "pt"
                 }
             },

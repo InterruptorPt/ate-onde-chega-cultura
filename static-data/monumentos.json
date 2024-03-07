@@ -3384,6 +3384,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.184905 38.760434)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124757338"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Capela-mor e sepultura da Infanta D. Maria, filha do rei D. Manuel I, na Igreja da Luz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.960967 39.576804)"
                 },
                 "item": {
@@ -22247,7 +22263,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.683862 39.234922)"
+                    "value": "Point(-8.683919 39.234833)"
                 },
                 "item": {
                     "type": "uri",
@@ -22255,7 +22271,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "T\u00famulo de Jo\u00e3o Afonso",
+                    "value": "T\u00famulo de Jo\u00e3o Afonso, fundador do antigo hospital de Santar\u00e9m, na Igreja Paroquial de S\u00e3o Nicolau",
                     "xml:lang": "pt"
                 }
             },
