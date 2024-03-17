@@ -9768,6 +9768,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.669475 37.099175)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111917848"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja de S. B\u00e1rbara e Arco de S. Gon\u00e7alo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.125 38.715)"
                 },
                 "item": {
