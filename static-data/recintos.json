@@ -923,22 +923,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.643611111 42.430833333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1029533"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Caminho Portugu\u00eas de Santiago",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-17.21744 32.752377)"
                 },
                 "item": {
