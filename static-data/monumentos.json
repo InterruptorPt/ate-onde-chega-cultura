@@ -2936,22 +2936,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.90578 38.573351)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813732"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Antigo Col\u00e9gio do Esp\u00edrito Santo (Portal renascen\u00e7a)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.803190747 40.455701269)"
                 },
                 "item": {

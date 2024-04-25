@@ -4014,11 +4014,11 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100999071"
+                    "value": "http://www.wikidata.org/entity/Q100999070"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Santa  Cruz da Graciosa",
+                    "value": "Biblioteca Municipal de Santa Cruz",
                     "xml:lang": "pt"
                 }
             },
@@ -4030,11 +4030,11 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100999070"
+                    "value": "http://www.wikidata.org/entity/Q100999071"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Biblioteca Municipal de Santa Cruz",
+                    "value": "Biblioteca Municipal de Santa Cruz da Graciosa",
                     "xml:lang": "pt"
                 }
             },
