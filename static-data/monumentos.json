@@ -8776,6 +8776,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.137148 40.226365)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66941841"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Dois t\u00famulos existentes na parede e no pavimento da capela-mor da igreja de Pombeiro, sendo um de Mateus da Cunha e outro de \u00ab...v\u00e3o da Cunha, prior de Martinho de S\u00e3o Guinh\u00eada\u00bb",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.710946 41.229767)"
                 },
                 "item": {
@@ -22400,22 +22416,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "T\u00famulos de D. Pedro I e de In\u00eas de Castro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.144864 40.217636)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66941841"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "T\u00famulos na Igreja de Pombeiro",
                     "xml:lang": "pt"
                 }
             },

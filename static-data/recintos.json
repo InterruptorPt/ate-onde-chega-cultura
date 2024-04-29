@@ -1867,6 +1867,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.118917 38.058083)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q125668593"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Cultural Manuel da Fonseca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382441 38.803388)"
                 },
                 "item": {
