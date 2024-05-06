@@ -5146,6 +5146,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.90705556 38.57241667)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q13974012"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca P\u00fablica de \u00c9vora",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.125531 38.727362)"
                 },
                 "item": {
