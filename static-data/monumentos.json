@@ -14552,7 +14552,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.553319931 37.144866943)"
+                    "value": "Point(-8.55332 37.144868)"
                 },
                 "item": {
                     "type": "uri",
@@ -14560,7 +14560,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Pedra Mourinha",
+                    "value": "Pedra Moirinha",
                     "xml:lang": "pt"
                 }
             },
