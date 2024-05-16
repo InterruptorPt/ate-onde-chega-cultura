@@ -2218,6 +2218,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.231959581 38.699854364)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q125939756"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Alg\u00e9s",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.473493 41.275896)"
                 },
                 "item": {
@@ -5162,7 +5178,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.125531 38.727362)"
+                    "value": "Point(-28.62668 38.53627)"
                 },
                 "item": {
                     "type": "uri",
@@ -5251,6 +5267,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca da Escola Secund\u00e1ria S\u00e1 de Miranda II",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.12566 38.7274)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q125938366"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca da Penha de Fran\u00e7a",
                     "xml:lang": "pt"
                 }
             },
