@@ -2075,6 +2075,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.297555555 41.442833333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q85124666"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Internacional das Artes Jos\u00e9 de Guimar\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.812921431 41.095457351)"
                 },
                 "item": {
