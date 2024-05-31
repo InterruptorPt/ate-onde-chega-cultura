@@ -683,6 +683,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.017139459 38.894060459)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9698117"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa Museu Manuel Ribeiro de Pavia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.80402222 37.31805556)"
                 },
                 "item": {

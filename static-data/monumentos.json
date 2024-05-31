@@ -6312,6 +6312,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.858024 41.813191)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126195734"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da Piedade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.419127464 41.541885375)"
                 },
                 "item": {
@@ -8081,6 +8097,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cruzeiro do Senhor das \u00c2nsias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.850641 41.814982)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126195547"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Senhor do Amparo",
                     "xml:lang": "pt"
                 }
             },
