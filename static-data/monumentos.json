@@ -9784,6 +9784,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.743964 41.354389)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814829"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja da Miseric\u00f3rdia de Vila do Conde, incluindo o edif\u00edcio anexo e o cruzeiro que lhe fica fronteiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.927512 38.708967)"
                 },
                 "item": {
