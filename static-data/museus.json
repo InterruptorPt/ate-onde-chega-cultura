@@ -27,6 +27,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.15264 38.71235)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126717588"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Parlamento \u2013 Centro Interpretativo",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.8893 39.0561)"
                 },
                 "item": {
