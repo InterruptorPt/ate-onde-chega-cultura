@@ -412,6 +412,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.786358 39.159126)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126870783"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Municipal do Cartaxo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.414815 39.602362)"
                 },
                 "item": {

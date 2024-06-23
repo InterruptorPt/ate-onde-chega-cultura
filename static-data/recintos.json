@@ -1563,6 +1563,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.52615 38.95931)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126881086"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Povo de Coruche",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.37998 41.442104)"
                 },
                 "item": {
@@ -2500,6 +2516,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro Municipal de Our\u00e9m",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.786358 39.159126)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126870783"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Municipal do Cartaxo",
                     "xml:lang": "pt"
                 }
             },
@@ -4004,6 +4036,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Coreto de Tomar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.787661 39.160201)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126870796"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coreto do Cartaxo",
                     "xml:lang": "pt"
                 }
             },
@@ -6411,22 +6459,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.68825 39.228805555)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10332119"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Monumental Celestino Gra\u00e7a",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.145665 38.733333)"
                 },
                 "item": {
@@ -7627,22 +7659,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.627277777 39.20125)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q25419523"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pra\u00e7a de Toiros de Almeirim",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.655916666 39.194861111)"
                 },
                 "item": {
@@ -7716,22 +7732,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pra\u00e7a de Toiros de Montemor",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.403583333 39.608888888)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q25439329"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pra\u00e7a de Toiros de Tomar",
                     "xml:lang": "pt"
                 }
             },
@@ -7951,7 +7951,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q124800855"
+                    "value": "http://www.wikidata.org/entity/Q25419523"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -8063,7 +8063,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q92206110"
+                    "value": "http://www.wikidata.org/entity/Q10332119"
                 },
                 "itemLabel": {
                     "type": "literal",
@@ -8095,7 +8095,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q122188505"
+                    "value": "http://www.wikidata.org/entity/Q25439329"
                 },
                 "itemLabel": {
                     "type": "literal",
