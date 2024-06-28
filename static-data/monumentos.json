@@ -9520,7 +9520,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Est\u00e1tua equestre de D. Jos\u00e9 I",
+                    "value": "Est\u00e1tua equestre de Dom Jos\u00e9 I",
                     "xml:lang": "pt"
                 }
             },
@@ -12856,7 +12856,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.3113 40.6643)"
+                    "value": "Point(-8.311816 40.664073)"
                 },
                 "item": {
                     "type": "uri",
