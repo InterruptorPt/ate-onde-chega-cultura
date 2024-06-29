@@ -4427,6 +4427,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.793498 39.028583)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126929317"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio na Rua Dr. Greg\u00f3rio Fernandes, n.\u00ba 23 a 25",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.981449127 39.54832077)"
                 },
                 "item": {
