@@ -7707,22 +7707,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.521361111 38.958583333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q25419629"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pra\u00e7a de Toiros de Coruche",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.589194444 38.847)"
                 },
                 "item": {
@@ -7983,7 +7967,7 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q123615532"
+                    "value": "http://www.wikidata.org/entity/Q25419629"
                 },
                 "itemLabel": {
                     "type": "literal",
