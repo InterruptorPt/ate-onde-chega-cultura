@@ -1579,6 +1579,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.836539 39.147138)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126947227"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Povo de Pont\u00e9vel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.37998 41.442104)"
                 },
                 "item": {
@@ -3003,6 +3019,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.535722 37.136278)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126947198"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro de Portim\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.87786 40.16466)"
                 },
                 "item": {
@@ -4004,6 +4036,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Coreto de Pombal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.838442 39.15073)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126947502"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coreto de Pont\u00e9vel",
                     "xml:lang": "pt"
                 }
             },

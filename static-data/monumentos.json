@@ -14168,6 +14168,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.839891 39.148192)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126947955"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Padr\u00e3o Comemorativo do Foral de Pont\u00e9vel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.413328 39.600347)"
                 },
                 "item": {
@@ -21200,6 +21216,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Porta de Aviz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.130277777 38.712222222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25444334"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta do Sol",
                     "xml:lang": "pt"
                 }
             },
