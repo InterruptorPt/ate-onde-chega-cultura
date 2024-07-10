@@ -4411,6 +4411,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.68769987 39.512972896)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q127302118"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Aguarela Roque Gameiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.292277777 41.442638888)"
                 },
                 "item": {
