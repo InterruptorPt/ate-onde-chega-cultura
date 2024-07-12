@@ -2667,6 +2667,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.666955 39.459218)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q127386414"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro S\u00e3o Pedro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6128583 41.1665365)"
                 },
                 "item": {
@@ -8404,6 +8420,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Solar Condes de Resende",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.148307 38.705757)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2384556"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "TMN ao Vivo",
                     "xml:lang": "pt"
                 }
             },

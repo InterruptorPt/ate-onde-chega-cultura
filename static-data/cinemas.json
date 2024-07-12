@@ -620,6 +620,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.666955 39.459218)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q127386414"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro S\u00e3o Pedro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6128583 41.1665365)"
                 },
                 "item": {
