@@ -1228,22 +1228,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.144969 38.720491)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66814334"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cinema Tivoli",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.672861111 37.100666666)"
                 },
                 "item": {
@@ -1253,22 +1237,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cinema de Lagos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.1453849 38.7190046)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10378812"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cineteatro Capit\u00f3lio",
                     "xml:lang": "pt"
                 }
             },
@@ -1548,6 +1516,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1453849 38.7190046)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378812"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Capit\u00f3lio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.89031 38.52253)"
                 },
                 "item": {
@@ -1605,6 +1589,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Rivoli",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.144969 38.720491)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814334"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Tivoli",
                     "xml:lang": "pt"
                 }
             },
