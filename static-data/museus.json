@@ -2363,6 +2363,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.137039 38.709189)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1954392"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "MUDE - Museu do Design",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.9025 32.647777777)"
                 },
                 "item": {
@@ -5364,22 +5380,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu do C\u00f4a",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.137039 38.709189)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1954392"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu do Design e da Moda",
                     "xml:lang": "pt"
                 }
             },
