@@ -6603,6 +6603,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.14 38.71222222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1146790"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Arqueol\u00f3gico do Carmo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.208377777 38.695522222)"
                 },
                 "item": {
