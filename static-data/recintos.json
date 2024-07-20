@@ -6331,6 +6331,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.427698 41.554296)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104236982"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Braga",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.764184951 32.717895507)"
                 },
                 "item": {
@@ -6500,6 +6516,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Mercado de S\u00e3o Pedro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.62915556 41.15583889)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10328807"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado do Bom Sucesso",
                     "xml:lang": "pt"
                 }
             },
