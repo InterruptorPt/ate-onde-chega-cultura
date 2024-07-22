@@ -12632,6 +12632,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.433874805 39.542346339)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96633629"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir dos Santos M\u00e1rtires",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.522014 38.390418)"
                 },
                 "item": {
