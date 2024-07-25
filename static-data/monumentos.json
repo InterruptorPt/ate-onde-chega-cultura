@@ -5448,6 +5448,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.8745 39.7213)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q115187291"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto Megal\u00edtico de Moitas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.8602 39.7223)"
                 },
                 "item": {
@@ -5465,22 +5481,6 @@
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
                     "value": "Point(-7.8629 39.719)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q115187291"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Conjunto Megal\u00edtico de Moitas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.8745 39.7213)"
                 },
                 "item": {
                     "type": "uri",
