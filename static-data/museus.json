@@ -875,6 +875,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.146449 38.732552)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5047773"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu Dr. Anast\u00e1cio Gon\u00e7alves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.5892 40.80631667)"
                 },
                 "item": {
