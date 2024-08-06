@@ -3416,6 +3416,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.223583 38.139389)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q128590724"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo Velho de Safara",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.033113 38.538066)"
                 },
                 "item": {
@@ -21152,6 +21168,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Ponte da Lavandeira e cruzeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.321009 39.481697)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814921"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ponte de Santo Antoninho e respectivo padr\u00e3o",
                     "xml:lang": "pt"
                 }
             },
