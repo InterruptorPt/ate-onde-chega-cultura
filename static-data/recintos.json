@@ -6891,6 +6891,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.061111111 37.512222222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333677"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da Escrita do Sudoeste",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.081777777 37.696555555)"
                 },
                 "item": {
