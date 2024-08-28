@@ -57,6 +57,21 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1486675 38.7162325)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q129946431"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q129946431"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.553213888 37.171477777)"
                 },
                 "item": {
@@ -14017,6 +14032,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Necr\u00f3pole de Vermoim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.128806 37.481583)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q129917013"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Necr\u00f3pole do Monte Branco",
                     "xml:lang": "pt"
                 }
             },

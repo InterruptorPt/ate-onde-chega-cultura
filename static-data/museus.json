@@ -2491,6 +2491,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.11576667 38.05766667)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q65174936"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Igreja da Miseric\u00f3rdia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.417717 38.965502)"
                 },
                 "item": {
