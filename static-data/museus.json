@@ -1867,6 +1867,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.057892 37.513802)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813094"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Convento e Capela de S\u00e3o Francisco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.493183333 39.825316666)"
                 },
                 "item": {
