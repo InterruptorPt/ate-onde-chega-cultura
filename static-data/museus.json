@@ -3771,6 +3771,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.060444 37.513)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130063288"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Almod\u00f4var",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.252111 37.087061)"
                 },
                 "item": {
