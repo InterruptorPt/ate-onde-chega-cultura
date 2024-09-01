@@ -7147,6 +7147,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.200645803 38.750510971)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130211672"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pal\u00e1cio Baldaya",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.077606 38.98402)"
                 },
                 "item": {
@@ -7652,6 +7668,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Piscinas Naturais do Porto Moniz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.467088801 38.823713502)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130211826"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Piscinas Oce\u00e2nicas da Praia das Ma\u00e7\u00e3s",
                     "xml:lang": "pt"
                 }
             },
