@@ -5691,6 +5691,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.928331 32.645561)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1272724"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio do Mar\u00edtimo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.207778 38.702778)"
                 },
                 "item": {
@@ -5732,22 +5748,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio dos Arcos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-16.928331 32.645561)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1272724"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio dos Barreiros",
                     "xml:lang": "pt"
                 }
             },
