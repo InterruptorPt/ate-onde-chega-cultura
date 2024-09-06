@@ -4427,6 +4427,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.145555555 37.490222222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130236387"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu arqueol\u00f3gico e etnogr\u00e1fico Manuel Vicente Guerreiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.740277777 32.735833333)"
                 },
                 "item": {
