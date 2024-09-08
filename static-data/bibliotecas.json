@@ -5242,6 +5242,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.149601049 38.713160576)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q48866131"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca da Academia das Ci\u00eancias de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.418159 41.556869)"
                 },
                 "item": {
