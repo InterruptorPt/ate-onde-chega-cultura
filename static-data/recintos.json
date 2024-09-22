@@ -6379,6 +6379,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.684616 40.172331)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66943761"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Montemor-o-Velho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.65725 37.149583)"
                 },
                 "item": {
