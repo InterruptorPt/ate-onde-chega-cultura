@@ -2731,6 +2731,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.135576 38.707552)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1827867"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Lisboa Story Centre \u2013 Mem\u00f3rias da Cidade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382001 38.803283)"
                 },
                 "item": {

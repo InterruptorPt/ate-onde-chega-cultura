@@ -139,6 +139,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.135137 38.722336)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1092445"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Roxy",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.131194 38.7096003)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1103277"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Clube de Fado",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.37472 38.7881)"
                 },
                 "item": {
@@ -340,6 +372,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pavilh\u00e3o Multiusos de Coimbra",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.11314167 38.76350278)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2123270"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta do Contador Mor",
                     "xml:lang": "en"
                 }
             },
@@ -7675,6 +7723,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.11251667 38.76896944)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2096924"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Piscina dos Olivais",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.059552 39.012639)"
                 },
                 "item": {
@@ -8651,22 +8715,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.29177 41.44194)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q130025055"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Afonso Henriques",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.055095 40.217375)"
                 },
                 "item": {
@@ -8916,6 +8964,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Diogo Bernardes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.29177 41.44194)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123263327"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Dom Afonso Henriques",
                     "xml:lang": "pt"
                 }
             },

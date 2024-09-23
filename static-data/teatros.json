@@ -1820,22 +1820,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.29177 41.44194)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q130025055"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Afonso Henriques",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.055095 40.217375)"
                 },
                 "item": {
@@ -2085,6 +2069,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Diogo Bernardes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.29177 41.44194)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q123263327"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Dom Afonso Henriques",
                     "xml:lang": "pt"
                 }
             },
