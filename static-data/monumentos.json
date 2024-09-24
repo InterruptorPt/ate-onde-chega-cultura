@@ -12103,6 +12103,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.3921329 41.6523025)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q103888323"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Memorial a Ant\u00f3nio Varia\u00e7\u00f5es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.155013654 38.711488173)"
                 },
                 "item": {
@@ -12944,22 +12960,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento a Alfredo Roque Gameiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.3921329 41.6523025)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q103888323"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Monumento a Ant\u00f3nio Varia\u00e7\u00f5es",
                     "xml:lang": "pt"
                 }
             },
