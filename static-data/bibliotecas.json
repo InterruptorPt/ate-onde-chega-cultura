@@ -2826,6 +2826,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.494627 40.1176901)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66943132"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal de Condeixa-a-Nova",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.5266 38.95854)"
                 },
                 "item": {
