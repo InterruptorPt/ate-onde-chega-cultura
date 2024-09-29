@@ -2023,6 +2023,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.441693 41.023696)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130377041"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Carvalhal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.289032 40.944719)"
                 },
                 "item": {
@@ -21334,6 +21350,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1314693 38.7125458)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25430509"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta de D. Fradique",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.1329 38.7082)"
                 },
                 "item": {
@@ -21350,6 +21382,54 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1295689 38.7102525)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25430506"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta de S\u00e3o Pedro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1296037 38.709586)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25430504"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta do Chafariz de El-Rei",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1345088 38.7101584)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q28022003"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta do Ferro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.13092 38.70926)"
                 },
                 "item": {
@@ -21359,6 +21439,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Porta do Mar a S\u00e3o Jo\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1326761 38.7143013)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25430511"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta do Moniz",
                     "xml:lang": "pt"
                 }
             },
