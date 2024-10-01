@@ -9035,6 +9035,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.682464 40.174304)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66943501"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Ester de Carvalho (antigo Teatro Infante D. Manuel)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.9131 38.5727)"
                 },
                 "item": {
