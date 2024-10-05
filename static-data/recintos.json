@@ -1899,6 +1899,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.863784 40.149762)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2666197"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino Oceano",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.417748 38.963165)"
                 },
                 "item": {
@@ -1908,6 +1924,86 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casino da Ericeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.916194444 32.644194444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q6586935"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino da Madeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.070693996 39.601663155)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114499346"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino da Nazar\u00e9",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.363562583 37.101520538)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98835418"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino de Arma\u00e7\u00e3o de Pera",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.903413 38.493286)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107429726"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino de Tr\u00f3ia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.3975 38.706944444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1047597"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino do Estoril",
                     "xml:lang": "pt"
                 }
             },
@@ -3716,6 +3812,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Coliseu dos Recreios",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.74849224 41.352954864)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98310055"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Col\u00e9gio de S\u00e3o Jos\u00e9 (Antigo Casino de Vila do Conde)",
                     "xml:lang": "pt"
                 }
             },
@@ -8532,6 +8644,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Quinta Magn\u00f3lia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-16.916101643 32.643922918)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q111903385"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quinta Vigia",
                     "xml:lang": "pt"
                 }
             },

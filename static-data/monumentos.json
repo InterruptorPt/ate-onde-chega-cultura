@@ -3383,6 +3383,86 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.939899921 37.75194931)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5049795"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo Velho de Cobres",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.013393 37.706957)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107110005"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo das Juntas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.011388888 37.691222222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106975413"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo de Caminha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.022666666 37.684277777)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107018612"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo de Vale de M\u00e9rtola",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.020361 37.663333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107042789"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo dos Namorados",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.87605556 37.353975)"
                 },
                 "item": {
@@ -3392,6 +3472,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cerro das Pedras Altas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.577333333 37.282944444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q86738034"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cerro do Castelo da Nave",
                     "xml:lang": "pt"
                 }
             },
@@ -7447,6 +7543,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.108125 38.15410833)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q65162499"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Fortim romano de Casa Branca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.152261712 38.751867392)"
                 },
                 "item": {
@@ -10592,6 +10704,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Menires do Cerro do Camacho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.012611111 37.677138888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107009605"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monte da Chamin\u00e9",
                     "xml:lang": "pt"
                 }
             },
