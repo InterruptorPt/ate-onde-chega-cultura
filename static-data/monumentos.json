@@ -20358,6 +20358,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.607261 41.277044)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814690"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Via romana de Braga ao Porto (8 marcos mili\u00e1rios, S\u00e9rie Capela)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.548543 40.307378)"
                 },
                 "item": {
