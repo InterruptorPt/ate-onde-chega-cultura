@@ -12487,6 +12487,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.671228 41.14995)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q42755476"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Passos da Freguesia de S\u00e3o Jo\u00e3o da Foz do Douro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.806344 39.742993)"
                 },
                 "item": {
