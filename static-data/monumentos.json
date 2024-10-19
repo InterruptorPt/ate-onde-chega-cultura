@@ -10295,6 +10295,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.1694 37.571472)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130549306"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Menir de Aldeia dos Fernandes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.86448574 37.071784973)"
                 },
                 "item": {
