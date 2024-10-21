@@ -4683,6 +4683,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.616792 41.142458)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124261390"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio na Rua do Belomonte, n.\u00ba 57",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.981449127 39.54832077)"
                 },
                 "item": {
@@ -9828,22 +9844,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro de Cabe\u00e7\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.616792 41.142458)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q124261390"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro de Marionetas do Porto",
                     "xml:lang": "pt"
                 }
             },
