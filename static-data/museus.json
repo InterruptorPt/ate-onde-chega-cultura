@@ -6043,6 +6043,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.673422 41.164752)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q114421818"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Papel Moeda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.694694444 40.417777777)"
                 },
                 "item": {
