@@ -1771,6 +1771,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.582808 41.767889)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130735139"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Interpreta\u00e7\u00e3o e Promo\u00e7\u00e3o do Vinho Verde",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.741886 41.357253)"
                 },
                 "item": {
@@ -4436,6 +4452,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Rural Ponte de Lima",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.794832183 39.170198829)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130739018"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Rural e do Vinho do Cartaxo",
                     "xml:lang": "pt"
                 }
             },
