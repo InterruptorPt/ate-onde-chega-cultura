@@ -331,6 +331,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-27.056993 38.731305)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130742797"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Marina of Praia da Vit\u00f3ria",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.651111111 40.176111111)"
                 },
                 "item": {

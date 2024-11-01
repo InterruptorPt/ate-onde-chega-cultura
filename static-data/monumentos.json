@@ -167,6 +167,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-27.053838 38.73373)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130744522"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monument of the Immaculate Heart of Mary",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.89896 32.68451)"
                 },
                 "item": {
