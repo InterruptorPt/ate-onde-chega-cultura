@@ -19046,11 +19046,11 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.566192 41.783608)"
+                    "value": "Point(-8.562744 41.792266)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815171"
+                    "value": "http://www.wikidata.org/entity/Q10348287"
                 },
                 "itemLabel": {
                     "type": "literal",
