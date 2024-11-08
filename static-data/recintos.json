@@ -10134,6 +10134,22 @@
                     "value": "Vel\u00f3dromo Nacional de Sangalhos",
                     "xml:lang": "pt"
                 }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-25.147088 37.84555)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q131019705"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Zona Balnear da Foz da Ribeira",
+                    "xml:lang": "pt"
+                }
             }
         ]
     }

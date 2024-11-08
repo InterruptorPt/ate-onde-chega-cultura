@@ -1851,6 +1851,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.58707 41.764975)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q71202510"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Conjunto constitu\u00eddo pela Igreja de Santo Ant\u00f3nio de Frades Capuchos e pela Igreja da Ordem Terceira de S\u00e3o Francisco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.597492 37.94306)"
                 },
                 "item": {
