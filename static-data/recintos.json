@@ -3771,6 +3771,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.184998 38.874488)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9815286"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coliseu de Elvas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.550423238 38.6460753)"
                 },
                 "item": {
@@ -8420,22 +8436,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pra\u00e7a de Touros de Coruche",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.184998 38.874488)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q9815286"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pra\u00e7a de Touros de Elvas",
                     "xml:lang": "pt"
                 }
             },
