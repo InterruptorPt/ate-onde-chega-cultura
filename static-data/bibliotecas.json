@@ -5146,6 +5146,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.162460051 38.716724826)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q112670955"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Particular Fernando Pessoa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.153547 38.712725)"
                 },
                 "item": {
