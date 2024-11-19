@@ -1852,23 +1852,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.055095 40.217375)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q60375083"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Teatro Alves Coelho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.055326 40.218408)"
+                    "value": "Point(-8.055265 40.217295)"
                 },
                 "item": {
                     "type": "uri",
@@ -2229,6 +2213,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Jord\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.803893 39.746831)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130386698"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Jos\u00e9 L\u00facio da Silva",
                     "xml:lang": "pt"
                 }
             },
