@@ -10007,6 +10007,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1397362 38.7348777)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q131283420"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Memorial a Alexei Navalny em Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.3921329 41.6523025)"
                 },
                 "item": {
@@ -20447,22 +20463,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Via romana de Braga ao Porto (8 marcos mili\u00e1rios, S\u00e9rie Capela)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.139111111 38.734638888)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q131283420"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "memorial a Alexei Navalny em Lisboa",
                     "xml:lang": "pt"
                 }
             },
