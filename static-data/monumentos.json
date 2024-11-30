@@ -6199,6 +6199,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.432923 41.796202)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q131356942"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Senhor da Paz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.417672157 41.557735443)"
                 },
                 "item": {
