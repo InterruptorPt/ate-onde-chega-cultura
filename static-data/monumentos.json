@@ -903,7 +903,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.33268 38.97343)"
+                    "value": "Point(-7.3332 38.97305)"
                 },
                 "item": {
                     "type": "uri",
@@ -2199,7 +2199,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.446428 38.962602)"
+                    "value": "Point(-7.444652 38.962851)"
                 },
                 "item": {
                     "type": "uri",
@@ -7472,6 +7472,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua do Infante D. Henrique",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.150018 38.725289)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q70103462"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua do Marqu\u00eas de Pombal",
                     "xml:lang": "pt"
                 }
             },
