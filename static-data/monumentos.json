@@ -3303,22 +3303,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-16.33222 33.06174)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66996214"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Capela de Santa Catarina",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.258182 42.110299)"
                 },
                 "item": {
@@ -3360,22 +3344,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Capela de S\u00e3o Louren\u00e7o e Padr\u00e3o de D. Jo\u00e3o I",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.081972222 37.693388888)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106543060"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Capela do Cemit\u00e9rio de Castro Verde",
                     "xml:lang": "pt"
                 }
             },
