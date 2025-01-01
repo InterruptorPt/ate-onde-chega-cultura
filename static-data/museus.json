@@ -6902,6 +6902,22 @@
                     "value": "Zoo de Lagos",
                     "xml:lang": "pt"
                 }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.54694444 40.995)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9097813"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Zoo de Lourosa",
+                    "xml:lang": "pt"
+                }
             }
         ]
     }
