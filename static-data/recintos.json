@@ -219,22 +219,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.146 41.193)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5401963"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Avelino Ferreira Torres",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.0752 38.66315833)"
                 },
                 "item": {
@@ -4971,22 +4955,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.564367 41.332833)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q3446875"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Clube Desportivo Trofense",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.354761 41.378089)"
                 },
                 "item": {
@@ -5531,6 +5499,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.146 41.193)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q5401963"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio Municipal do Marco de Canaveses",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.653333 40.633889)"
                 },
                 "item": {
@@ -5828,6 +5812,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio do Centro Desportivo da Madeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.564367 41.332833)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q3446875"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio do Clube Desportivo Trofense",
                     "xml:lang": "pt"
                 }
             },
