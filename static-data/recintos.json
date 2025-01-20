@@ -219,22 +219,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.0752 38.66315833)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q5402017"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio Dr. Manuel de Mello",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.98333 39.55)"
                 },
                 "item": {
@@ -5012,6 +4996,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio D. Afonso Henriques",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.0752 38.663158333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10276876"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio Dom Manuel de Mello",
                     "xml:lang": "pt"
                 }
             },
