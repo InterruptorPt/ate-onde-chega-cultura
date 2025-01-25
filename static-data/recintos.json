@@ -6811,6 +6811,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.158146774 38.742786003)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q131879069"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado do Bairro Santos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.62915556 41.15583889)"
                 },
                 "item": {
