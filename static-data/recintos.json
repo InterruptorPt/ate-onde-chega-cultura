@@ -5979,6 +5979,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.740186 41.362756)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q550041"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1dio do Rio Ave FC",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.772575 41.38783611)"
                 },
                 "item": {
@@ -5988,22 +6004,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1dio do Varzim Sport Club",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.740186 41.362756)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q550041"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Est\u00e1dio dos Arcos",
                     "xml:lang": "pt"
                 }
             },
