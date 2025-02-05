@@ -843,22 +843,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.677982 37.10568)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q116780749"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cadeia Comarc\u00e3 de Lagos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.615831 41.144626)"
                 },
                 "item": {
@@ -1291,54 +1275,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.163758 38.88026)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70075280"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa da Cultura de Elvas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.376339 39.394166)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70225660"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa da Cultura de Marv\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.326596756 41.204261952)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q123197048"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa da Cultura de Paredes",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.893338008 38.524981944)"
                 },
                 "item": {
@@ -1348,22 +1284,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa da Cultura de Set\u00fabal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.529052591 41.583185716)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q123101862"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa da Cultura de Vimioso",
                     "xml:lang": "pt"
                 }
             },
@@ -1387,22 +1307,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.670983333 37.100011111)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q110515078"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa da Janela Manuelina",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.630711111 41.158886111)"
                 },
                 "item": {
@@ -1412,22 +1316,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa da M\u00fasica",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-6.275237 41.49613)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q45495594"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casa da M\u00fasica Mirandesa",
                     "xml:lang": "pt"
                 }
             },
@@ -1899,22 +1787,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.417748 38.963165)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q111148447"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Casino da Ericeira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-16.916194444 32.644194444)"
                 },
                 "item": {
@@ -2011,22 +1883,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.983212 39.426628)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q114858963"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural Gon\u00e7alves Sapinho",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.118917 38.058083)"
                 },
                 "item": {
@@ -2059,22 +1915,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.7412 41.60653)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q17390145"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural Rodrigues de Faria",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.009690373 37.081977156)"
                 },
                 "item": {
@@ -2091,54 +1931,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.294981 41.437255)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q17390146"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural Vila Flor",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.170221328 38.787254333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q17390142"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural da Malaposta",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.256701402 38.931816185)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q118176135"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural da Malveira",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.207778 38.695556)"
                 },
                 "item": {
@@ -2148,22 +1940,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Centro Cultural de Bel\u00e9m",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.671833333 37.099861111)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106543185"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Cultural de Lagos",
                     "xml:lang": "pt"
                 }
             },
@@ -2267,22 +2043,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.143775 38.751276)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106401454"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro Municipal de Artes Pl\u00e1sticas dos Coruch\u00e9us",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.61593 41.14473)"
                 },
                 "item": {
@@ -2315,22 +2075,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-6.756009761 41.806070284)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q123517303"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro de Arte Contempor\u00e2nea Gra\u00e7a Morais",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.1540155 38.7354647)"
                 },
                 "item": {
@@ -2340,22 +2084,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Centro de Arte Moderna Gulbenkian",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.86833333 37.95666667)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18484303"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Centro de Artes de Sines",
                     "xml:lang": "pt"
                 }
             },
@@ -3787,22 +3515,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.828846 41.690222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18483738"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Coliseu de Viana do Castelo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.60551111 41.1469)"
                 },
                 "item": {
@@ -3924,38 +3636,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Complexo Desportivo do Sport Clube de Freamunde",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.677521 37.105811)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q17390171"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Convento de Nossa Senhora do Loreto",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.666575 37.634992)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q124617848"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Convento de S\u00e3o Francisco",
                     "xml:lang": "pt"
                 }
             },
@@ -4443,22 +4123,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.141625 38.7414)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q18464843"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Culturgest \u2013 Funda\u00e7\u00e3o Caixa Geral de Dep\u00f3sitos",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.129397576 38.716501736)"
                 },
                 "item": {
@@ -4596,22 +4260,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Edif\u00edcio da Assembleia Figueirense",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.081777777 37.696583333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106543896"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio da Empresa Irm\u00e3os e Prazeres",
                     "xml:lang": "pt"
                 }
             },
@@ -6043,22 +5691,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.152975 38.720713)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q115733630"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "FAPIR",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.18453 38.69878)"
                 },
                 "item": {
@@ -6100,54 +5732,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Forum Coimbra",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.101391666 38.743847222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10286934"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "F\u00e1brica de Armamento de Bra\u00e7o de Prata",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.497623 37.495594)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q111957663"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "F\u00e1brica de Moagem Sab\u00f3ia",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.972235679 38.74615097)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q97097409"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "F\u00f3rum Cultural de Alcochete",
                     "xml:lang": "pt"
                 }
             },
@@ -6244,22 +5828,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Galeria Municipal do Castelo de Pirescouxe",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.348719 38.714224)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q20055935"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Grupo Recreativo e Dram\u00e1tico 1\u00ba de Maio",
                     "xml:lang": "pt"
                 }
             },
@@ -6475,22 +6043,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.58078333 41.160425)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10327261"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Matadouro Industrial do Porto",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.976274 38.706226)"
                 },
                 "item": {
@@ -6699,22 +6251,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.415615 41.546284)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q104244430"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Mercado Municipal do Carand\u00e1",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.477204 41.342802)"
                 },
                 "item": {
@@ -6884,22 +6420,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumental Pra\u00e7a de Touros da P\u00f3voa de Varzim",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.129661 38.712746)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q110539653"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Mosteiro de S\u00e3o Salvador",
                     "xml:lang": "pt"
                 }
             },
@@ -7419,22 +6939,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.083498001 40.521617889)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q98837579"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Novo Ciclo - Centro de Recursos Culturais e de Desenvolvimento do Concelho de Tondela",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.09375 38.763526)"
                 },
                 "item": {
@@ -7467,54 +6971,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.200645803 38.750510971)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q130211672"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio Baldaya",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.077606 38.98402)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q110124402"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio Morgado",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.614883333 41.142716666)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q54475034"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio das Artes",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.067745 38.667416)"
                 },
                 "item": {
@@ -7524,22 +6980,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pal\u00e1cio de Alfredo da Silva",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.311286 38.692132)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q104029235"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pal\u00e1cio do Egipto",
                     "xml:lang": "pt"
                 }
             },
@@ -7796,22 +7236,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pavilh\u00e3o de Portugal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.828039 41.693754)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10347032"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pa\u00e7os Municipais de Viana do Castelo",
                     "xml:lang": "pt"
                 }
             },
@@ -8100,22 +7524,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pista de Rallycross de Ma\u00e7\u00e3o",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.297305555 41.4431)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q70103885"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Plataforma das Artes e da Criatividade",
                     "xml:lang": "pt"
                 }
             },
@@ -8747,22 +8155,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-16.92515 32.64371)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q111889668"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Quinta Magn\u00f3lia",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-16.916101643 32.643922918)"
                 },
                 "item": {
@@ -8900,22 +8292,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Solar Condes de Resende",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.023266792 37.14149475)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q115187058"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Solar Gama Lobo",
                     "xml:lang": "pt"
                 }
             },
