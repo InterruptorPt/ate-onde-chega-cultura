@@ -5115,6 +5115,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.993549164 39.557140318)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q132145198"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Arte Pr\u00e9-Hist\u00f3rica e do Sagrado no Vale do Tejo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.164475 38.881299)"
                 },
                 "item": {
