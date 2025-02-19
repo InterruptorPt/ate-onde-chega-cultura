@@ -411,6 +411,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.13861111 38.72305556)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7232664"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Academia Militar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.85 38.73027778)"
                 },
                 "item": {
@@ -4404,6 +4420,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Edif\u00edcio-sede da Caixa Geral de Dep\u00f3sitos, CGD, na Avenida Jo\u00e3o XXI",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14717 38.66271)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7232670"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Escola Naval",
                     "xml:lang": "pt"
                 }
             },
