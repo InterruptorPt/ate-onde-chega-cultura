@@ -6151,6 +6151,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.3528011 38.7998788)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q132673204"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Seisal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.161569 41.192342)"
                 },
                 "item": {
@@ -17574,7 +17590,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.19746 40.156773)"
+                    "value": "Point(-8.197009 40.158327)"
                 },
                 "item": {
                     "type": "uri",
