@@ -6171,6 +6171,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.164494 37.878233)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q132830064"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Aljustrel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.659377 39.198113)"
                 },
                 "item": {

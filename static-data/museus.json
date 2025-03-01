@@ -3163,6 +3163,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.519347293 41.407907287)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q30938560"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Bernardino Machado",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.91385 32.64409)"
                 },
                 "item": {
