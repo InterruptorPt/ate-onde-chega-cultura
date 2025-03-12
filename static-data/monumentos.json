@@ -7335,6 +7335,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.421233 38.782581)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133261457"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua Equestre de Dom Jo\u00e3o IV",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.782646656 37.722706298)"
                 },
                 "item": {
@@ -7463,6 +7479,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-16.9097432 32.6478633)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133261503"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de Jo\u00e3o Gon\u00e7alves Zarco",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.154300179 38.707196743)"
                 },
                 "item": {
@@ -7472,6 +7504,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua de Ramalho Ortig\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14398 38.75308)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105085595"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de Santo Ant\u00f3nio",
                     "xml:lang": "pt"
                 }
             },
@@ -19919,22 +19967,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Rel\u00f3gio de Sol de Alpedriz",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.14398 38.75308)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q105085595"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Santo Ant\u00f3nio",
                     "xml:lang": "pt"
                 }
             },
