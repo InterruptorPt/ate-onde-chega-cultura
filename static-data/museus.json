@@ -5083,6 +5083,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.183390047 38.700414513)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133462677"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Arte Contempor\u00e2nea Armando Martins",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.4657242 41.740918225)"
                 },
                 "item": {
