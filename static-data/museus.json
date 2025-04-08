@@ -1355,6 +1355,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.13333 38.71389)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q636780"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Castelo de S\u00e3o Jorge",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.8074 39.747444444)"
                 },
                 "item": {
@@ -4907,6 +4923,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.471388888 41.739722222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333714"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da Regi\u00e3o Flaviense",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.012194444 37.7775)"
                 },
                 "item": {
@@ -6516,6 +6548,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Oficina de Artes Manuel Cargaleiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.20569 38.693676)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1133712"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Padr\u00e3o dos Descobrimentos",
                     "xml:lang": "pt"
                 }
             },
