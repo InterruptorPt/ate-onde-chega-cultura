@@ -6967,6 +6967,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.224638 39.467244)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66814886"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Dois nichos padr\u00f5es da primeira passagem de Nuno \u00c1lvares, em S\u00e3o Jo\u00e3o de Abran\u00e7alha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.049733 38.882309)"
                 },
                 "item": {
@@ -12103,6 +12119,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.612163 41.140939)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q54475118"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Nicho do Senhor da Boa Fortuna",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.541640281 39.872268676)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98427588"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Nicho seiscentista (pertencente \u00e0 antiga Capela dos Duques de Aveiro)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.909875 37.028939)"
                 },
                 "item": {
@@ -12192,6 +12240,70 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Obeliscos da Quinta da Prelada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.594837 37.940866)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120453901"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Orat\u00f3rio da Rua de S\u00e3o Roque",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.599587 37.943839)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120453420"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Orat\u00f3rio das Portas de Beja",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.29282 41.442012)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q88667348"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Orat\u00f3rio de Nosso Senhor dos Desamparados",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.613138 41.142481)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q54475201"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Orat\u00f3rio de Santa Ana",
                     "xml:lang": "pt"
                 }
             },

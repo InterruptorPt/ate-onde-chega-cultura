@@ -1386,7 +1386,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.77969 41.531108)"
+                    "value": "Point(-8.779684 41.531125)"
                 },
                 "item": {
                     "type": "uri",
@@ -1459,22 +1459,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal Manuel da Fonseca",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.779684 41.531125)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100999019"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal Manuel de Boaventura",
                     "xml:lang": "pt"
                 }
             },
