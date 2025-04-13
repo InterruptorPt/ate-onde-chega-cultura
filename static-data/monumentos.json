@@ -4519,6 +4519,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.478353 40.610771)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133862596"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro da Trofa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.34737 41.54115)"
                 },
                 "item": {
@@ -18342,7 +18358,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.474178 40.609655)"
+                    "value": "Point(-8.479690551 40.610893249)"
                 },
                 "item": {
                     "type": "uri",
