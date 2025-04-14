@@ -18022,7 +18022,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.354038 41.019808)"
+                    "value": "Point(-7.35407114 41.019771575)"
                 },
                 "item": {
                     "type": "uri",
@@ -19407,6 +19407,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Ponte de Santo Antoninho e respectivo padr\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.704222 40.658339)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133867157"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ponte de Trancozelos e Nicho",
                     "xml:lang": "pt"
                 }
             },
