@@ -4007,6 +4007,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.838333333 41.435555555)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133880989"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruz do Jugal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.632116 40.69911)"
                 },
                 "item": {
@@ -11488,6 +11504,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento ao Nicolino",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.2968695 38.7686433)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133877954"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Professor Prim\u00e1rio",
                     "xml:lang": "pt"
                 }
             },
@@ -20287,6 +20319,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Tholos do Barro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.951865 37.085508)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7826980"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Torre de Aspa",
                     "xml:lang": "pt"
                 }
             },
