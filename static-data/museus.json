@@ -5851,7 +5851,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.38183889 38.79087778)"
+                    "value": "Point(-9.389932 38.796436)"
                 },
                 "item": {
                     "type": "uri",
@@ -6484,6 +6484,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "NRP Barracuda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.389932 38.796436)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q21401826"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "NewsMuseum",
                     "xml:lang": "pt"
                 }
             },
