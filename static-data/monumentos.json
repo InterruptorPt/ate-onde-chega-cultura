@@ -7559,6 +7559,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.673344 39.63192)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q63033647"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua de Nossa Senhora de F\u00e1tima",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.154300179 38.707196743)"
                 },
                 "item": {
