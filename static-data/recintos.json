@@ -7035,11 +7035,11 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.066666666 39.6)"
+                    "value": "Point(-9.070330668 39.598962002)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q497179"
+                    "value": "http://www.wikidata.org/entity/Q134099062"
                 },
                 "itemLabel": {
                     "type": "literal",
