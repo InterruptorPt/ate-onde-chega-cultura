@@ -87,6 +87,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.390282878 38.787437316)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q54820672"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Arco triunfal",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.989583333 41.540305555)"
                 },
                 "item": {
@@ -8603,11 +8619,11 @@
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q98961202"
+                    "value": "http://www.wikidata.org/entity/Q76389283"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Marco do Termo de Lisboa, contendo a inscultura de uma nau, junto \u00e0 EN 249",
+                    "value": "Marco do Termo de Lisboa",
                     "xml:lang": "pt"
                 }
             },
@@ -12592,22 +12608,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Padr\u00e3o de Elvas",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.274628 38.75669)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q76389283"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Padr\u00e3o de Massam\u00e1",
                     "xml:lang": "pt"
                 }
             },
