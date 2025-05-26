@@ -987,7 +987,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.62675 41.14498)"
+                    "value": "Point(-8.627277 41.144996)"
                 },
                 "item": {
                     "type": "uri",
@@ -1572,6 +1572,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Centro Interpretativo do Mosteiro de Santa Clara-a-Velha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.0950337 38.766727)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134572011"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Interpretativo do Parque das Na\u00e7\u00f5es",
                     "xml:lang": "pt"
                 }
             },
