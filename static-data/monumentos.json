@@ -147,6 +147,21 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.302222222 39.556388888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134607580"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q134607580"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.553213888 37.171477777)"
                 },
                 "item": {
@@ -12865,6 +12880,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.936596 38.671875)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813708"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monte da Abegoaria, incluindo a capela de Nossa Senhora da Piedade, sacristia e zona de habita\u00e7\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.012611111 37.677138888)"
                 },
                 "item": {
@@ -12874,6 +12905,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monte da Chamin\u00e9",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.967686 41.794359)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66813543"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monte de Santa Comba",
                     "xml:lang": "pt"
                 }
             },
