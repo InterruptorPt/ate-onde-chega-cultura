@@ -2043,6 +2043,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.368292193 41.399103769)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134621776"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ecomuseu Terra Mater",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.170787 38.702903)"
                 },
                 "item": {
