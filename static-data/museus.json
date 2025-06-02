@@ -4427,6 +4427,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.68687 40.398549)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134653788"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Natural da Eletricidade de Seia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.421791 41.551911)"
                 },
                 "item": {
