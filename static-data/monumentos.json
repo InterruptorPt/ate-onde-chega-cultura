@@ -352,22 +352,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.20568 38.69408)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q124636093"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Rosa dos Ventos",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.796765 39.571775)"
                 },
                 "item": {
@@ -4656,6 +4640,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.159245 38.715101)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134704460"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Coreto do Jardim da Estrela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.308937 41.376314)"
                 },
                 "item": {
@@ -8505,6 +8505,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Est\u00e1tua Equestre de Dom Jo\u00e3o IV",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1422204 38.7104998)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130283945"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua a Ant\u00f3nio Ribeiro Chiado",
                     "xml:lang": "pt"
                 }
             },
@@ -13977,6 +13993,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento megal\u00edtico do Pego Longo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.2139384 38.6922118)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q130240436"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento \u00e0 Primeira Travessia A\u00e9rea do Atl\u00e2ntico Sul",
                     "xml:lang": "pt"
                 }
             },
@@ -22248,6 +22280,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Rel\u00f3gio de Sol de Alpedriz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.20568 38.69408)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124636093"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Rosa dos Ventos",
                     "xml:lang": "pt"
                 }
             },

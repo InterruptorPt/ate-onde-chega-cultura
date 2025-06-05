@@ -4411,7 +4411,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.199722 38.697778)"
+                    "value": "Point(-9.198172 38.696685)"
                 },
                 "item": {
                     "type": "uri",
@@ -6772,6 +6772,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Parque dos Poetas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.212502 38.694259)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134704067"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pavilh\u00e3o Juli\u00e3o Sarmento",
                     "xml:lang": "pt"
                 }
             },
