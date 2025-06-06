@@ -13680,6 +13680,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.0988122 38.7435156)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134714221"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento aos Construtores da Cidade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.629072 41.157943)"
                 },
                 "item": {
