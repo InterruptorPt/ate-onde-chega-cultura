@@ -6859,6 +6859,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.864389 37.95475)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134717604"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pa\u00e7os do Concelho de Sines",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.292999 41.443186)"
                 },
                 "item": {
