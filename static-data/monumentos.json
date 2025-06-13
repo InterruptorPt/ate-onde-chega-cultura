@@ -162,6 +162,21 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.004444444 40.510833333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134879940"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q134879940"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.553213888 37.171477777)"
                 },
                 "item": {
