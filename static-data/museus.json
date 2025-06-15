@@ -2011,6 +2011,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.864451 37.95484)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73879523"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "C\u00e2mara Municipal de Sines",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.864389 37.95475)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q73879523"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "C\u00e2mara Municipal de Sines",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.404295 41.147634)"
                 },
                 "item": {
@@ -6884,22 +6916,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pa\u00e7o Episcopal do Porto",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.864389 37.95475)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q134717604"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pa\u00e7os do Concelho de Sines",
                     "xml:lang": "pt"
                 }
             },

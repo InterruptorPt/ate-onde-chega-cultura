@@ -558,22 +558,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.984279 40.699151)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815660"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Anta 1 da Lameira do Fojo",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.190396 38.771308)"
                 },
                 "item": {
@@ -1367,6 +1351,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Anta da Herdade do Zambujal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.984279 40.699151)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815660"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta da Lameira do Fojo 1",
                     "xml:lang": "pt"
                 }
             },
