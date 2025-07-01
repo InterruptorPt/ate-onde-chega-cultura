@@ -3899,6 +3899,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.199576372 38.6989959)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135153186"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "LU.CA - Teatro Lu\u00eds de Cam\u00f5es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.382001 38.803283)"
                 },
                 "item": {
@@ -5899,6 +5915,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.19241 38.76072)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10378806"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Armando Cortez",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.65415342 40.64014436)"
                 },
                 "item": {
@@ -6724,6 +6756,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Viriato",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.849731 39.639538)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7691973"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro da Cornuc\u00f3pia",
                     "xml:lang": "pt"
                 }
             },

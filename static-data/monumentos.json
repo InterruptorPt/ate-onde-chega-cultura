@@ -13422,6 +13422,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.183725651 38.76064584)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135155786"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao Col\u00e9gio Militar",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.14103 38.737942)"
                 },
                 "item": {
