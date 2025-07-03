@@ -1196,22 +1196,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.199576372 38.6989959)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q135153186"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "LU.CA - Teatro Lu\u00eds de Cam\u00f5es",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.145665 38.733333)"
                 },
                 "item": {
@@ -2293,6 +2277,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Lethes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.199576372 38.6989959)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135153186"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Lu\u00eds de Cam\u00f5es",
                     "xml:lang": "pt"
                 }
             },
