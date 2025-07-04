@@ -491,6 +491,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.874377 37.952711)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10300465"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Capela de Nossa Senhora das Salvas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.071823 39.013839)"
                 },
                 "item": {
