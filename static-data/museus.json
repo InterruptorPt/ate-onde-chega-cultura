@@ -5659,6 +5659,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.910714973 40.658702591)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135209496"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Hist\u00f3ria da Cidade de Viseu",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.978888888 32.649166666)"
                 },
                 "item": {
