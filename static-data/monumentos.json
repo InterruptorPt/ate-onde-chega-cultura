@@ -72,21 +72,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.259722222 40.859722222)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q134373642"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Q134373642"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.189722222 41.198333333)"
                 },
                 "item": {
@@ -21517,22 +21502,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.609444 41.139722)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1322447"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Ponte Lu\u00eds I",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.395432 40.646891)"
                 },
                 "item": {
@@ -21542,6 +21511,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Ponte da Lavandeira e cruzeiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.609444 41.139722)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1322447"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ponte de D. Lu\u00eds",
                     "xml:lang": "pt"
                 }
             },
