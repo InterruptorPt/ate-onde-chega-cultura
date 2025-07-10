@@ -5498,6 +5498,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.904997681 38.579042304)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135257556"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca da Universidade de \u00c9vora",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.15417 38.73667)"
                 },
                 "item": {
