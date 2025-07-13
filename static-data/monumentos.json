@@ -367,6 +367,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.825529 39.659149)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135278011"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Tomb of King John I of Portugal and Philippa of Lancaster",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.796765 39.571775)"
                 },
                 "item": {
@@ -4932,6 +4948,22 @@
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q10261858"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruz Alta",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.39111111 38.78055556)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106689681"
                 },
                 "itemLabel": {
                     "type": "literal",
