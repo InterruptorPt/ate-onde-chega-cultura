@@ -1371,6 +1371,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.45156389 37.17868611)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1047605"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casino de Monte Gordo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.903413 38.493286)"
                 },
                 "item": {
@@ -6011,7 +6027,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1453849 38.7190046)"
+                    "value": "Point(-9.146663 38.718812)"
                 },
                 "item": {
                     "type": "uri",
