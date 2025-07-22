@@ -1371,7 +1371,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.45156389 37.17868611)"
+                    "value": "Point(-7.451523 37.178474)"
                 },
                 "item": {
                     "type": "uri",
@@ -4187,6 +4187,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.380152 39.360432)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135319490"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mercado Municipal de Peniche",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.911816556 38.631189758)"
                 },
                 "item": {
@@ -6027,7 +6043,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.146663 38.718812)"
+                    "value": "Point(-9.146668 38.718852)"
                 },
                 "item": {
                     "type": "uri",
