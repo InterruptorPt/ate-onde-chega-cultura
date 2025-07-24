@@ -1579,6 +1579,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.663634295 40.450512979)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135444666"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Interpretativo da Ovelha Serra da Estrela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.588416493 38.841952999)"
                 },
                 "item": {
