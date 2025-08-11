@@ -147,6 +147,51 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-6.963888888 40.876666666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135684343"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q135684343"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.316388888 40.828888888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135684544"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q135684544"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.136388888 41.083333333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q135686589"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q135686589"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.553213888 37.171477777)"
                 },
                 "item": {
@@ -21519,6 +21564,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.609444 41.139722)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1322447"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ponte Luiz I",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.395432 40.646891)"
                 },
                 "item": {
@@ -21528,22 +21589,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Ponte da Lavandeira e cruzeiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.609444 41.139722)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1322447"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Ponte de D. Lu\u00eds",
                     "xml:lang": "pt"
                 }
             },
