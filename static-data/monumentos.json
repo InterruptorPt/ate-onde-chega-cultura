@@ -8877,6 +8877,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.143146 38.7133605)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99482246"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Est\u00e1tua do Padre Ant\u00f3nio Vieira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.13648 38.707539)"
                 },
                 "item": {
