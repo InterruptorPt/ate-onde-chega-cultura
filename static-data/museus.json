@@ -971,7 +971,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.691266 41.192862)"
+                    "value": "Point(-8.691219 41.192873)"
                 },
                 "item": {
                     "type": "uri",
@@ -1140,6 +1140,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa na Rua de S\u00e3o Bento, n.\u00ba 191 a 193",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14376 38.7131753)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q132182031"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa \u00c1sia - Colec\u00e7\u00e3o Francisco Capelo",
                     "xml:lang": "pt"
                 }
             },
