@@ -7099,6 +7099,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.197064184 38.697020412)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136039814"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Quake - Centro do Terramoto de Lisboa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.201146 39.46422)"
                 },
                 "item": {
