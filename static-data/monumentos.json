@@ -733,6 +733,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.924589932 38.31023929)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96907106"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta 2 da Herdade da Brita",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.470175 38.364521)"
                 },
                 "item": {
