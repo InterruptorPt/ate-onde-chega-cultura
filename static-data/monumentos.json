@@ -21534,6 +21534,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.9156357 38.5697558)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q74474585"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "P\u00f3rtico do antigo Convento de S\u00e3o Domingos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.96918 38.732998)"
                 },
                 "item": {
