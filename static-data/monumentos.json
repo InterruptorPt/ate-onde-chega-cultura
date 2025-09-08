@@ -20910,22 +20910,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.9143 38.5755)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q39713795"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Porta da Alagoa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.1336068 38.7115763)"
                 },
                 "item": {
@@ -20951,6 +20935,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Porta da Judiaria",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.9143 38.5755)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q39713795"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta da Lagoa",
                     "xml:lang": "pt"
                 }
             },
@@ -20990,7 +20990,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.91 38.57666667)"
+                    "value": "Point(-7.9103405 38.576704)"
                 },
                 "item": {
                     "type": "uri",
@@ -21111,6 +21111,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Porta do Moniz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.9129964 38.5675474)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136148809"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Porta do Raimundo",
                     "xml:lang": "pt"
                 }
             },
@@ -21534,7 +21550,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.9156357 38.5697558)"
+                    "value": "Point(-7.915662 38.569784)"
                 },
                 "item": {
                     "type": "uri",
