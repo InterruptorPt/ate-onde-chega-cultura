@@ -91,6 +91,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.522279116 37.300318745)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136186686"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cave of the Heart Retreats",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.648819444 37.124911111)"
                 },
                 "item": {
@@ -5588,6 +5604,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro do Campo Alegre",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.078513 38.663481)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815047"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro-Cine Barreirense",
                     "xml:lang": "pt"
                 }
             },

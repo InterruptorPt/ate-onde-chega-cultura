@@ -1435,6 +1435,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.324403849 38.717797121)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q133698142"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casal Saloio de Outeiro de Polima",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.8074 39.747444444)"
                 },
                 "item": {

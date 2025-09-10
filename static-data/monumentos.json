@@ -12655,6 +12655,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.3981185 41.3913726)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q89601968"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a \u00abNarciso Ferreira\u00bb",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.857998 38.012545)"
                 },
                 "item": {
