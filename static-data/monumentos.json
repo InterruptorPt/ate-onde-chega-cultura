@@ -3663,6 +3663,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.588363404 41.762460029)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815175"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa e Quinta de Baldrufa, constituido pela casa, portal, fonte, \u00e1rea de cultivo, pinhal e cruzeiro de entrada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.939899921 37.75194931)"
                 },
                 "item": {
@@ -12655,7 +12671,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.3981185 41.3913726)"
+                    "value": "Point(-8.39808 41.391392)"
                 },
                 "item": {
                     "type": "uri",
@@ -15807,7 +15823,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.061231 41.479005)"
+                    "value": "Point(-7.998694 41.510741)"
                 },
                 "item": {
                     "type": "uri",
@@ -21751,6 +21767,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Santu\u00e1rio de Cristo Rei",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.345012 37.254858)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122831945"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Sepultura de Vale Fuzeiros / Forneca 1",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.349931 37.252723)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122831944"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Sepultura de Vale Fuzeiros / Forneca 2",
                     "xml:lang": "pt"
                 }
             },

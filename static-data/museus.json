@@ -875,6 +875,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.093381795 40.351183141)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136221041"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Mem\u00f3ria Judaica da Raia Sabugalense",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.492898 39.82721)"
                 },
                 "item": {
