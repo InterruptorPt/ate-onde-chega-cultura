@@ -5338,22 +5338,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.125531 38.727362)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100998999"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca P\u00fablica e Arquivo Regional Lu\u00eds da Silva Ribeiro",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-25.671103446 37.743455222)"
                 },
                 "item": {
@@ -5363,6 +5347,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca P\u00fablica e Arquivo Regional de Ponta Delgada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.125531 38.727362)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9656788"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca P\u00fablica e Arquivo de Angra do Hero\u00edsmo",
                     "xml:lang": "pt"
                 }
             },
