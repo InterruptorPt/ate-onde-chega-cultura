@@ -21934,6 +21934,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.656778 37.131222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136262441"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "S\u00edtio arqueol\u00f3gico da Quinta da Queimada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.301136016 37.578029632)"
                 },
                 "item": {
