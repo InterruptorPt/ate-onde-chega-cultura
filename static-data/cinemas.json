@@ -1084,6 +1084,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.1425659 38.7100456)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136304847"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Chiado Terrasse",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.155249 38.707171)"
                 },
                 "item": {
