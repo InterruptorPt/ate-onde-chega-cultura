@@ -331,6 +331,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.653091774 41.187001678)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q124191660"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Antigo Cinema da Senhora da Hora",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.142586 38.731182)"
                 },
                 "item": {
@@ -3003,6 +3019,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-28.62443189 38.541048623)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815689"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do ''Teatro Failense''",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.790837 41.162098)"
                 },
                 "item": {
@@ -4980,6 +5012,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Teatro Jos\u00e9 L\u00facio da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1359224 38.7193239)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q61000534"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Teatro Laura Alves",
                     "xml:lang": "pt"
                 }
             },

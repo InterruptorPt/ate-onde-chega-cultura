@@ -283,6 +283,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.238178 38.699191)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q8187791"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Aqu\u00e1rio Vasco da Gama",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-17.165361111 32.867277777)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100268999"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Aqu\u00e1rio da Madeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6105 41.143)"
                 },
                 "item": {
@@ -836,6 +868,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa Tait",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.532980108 40.519270146)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136325278"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa Verg\u00edlio Ferreira - Para Sempre",
                     "xml:lang": "pt"
                 }
             },
@@ -2555,6 +2603,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.653351 41.047827)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1369770"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Esta\u00e7\u00e3o Litoral da Aguda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.784304 41.532346)"
                 },
                 "item": {
@@ -2564,6 +2628,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Esta\u00e7\u00e3o de Socorros a N\u00e1ufragos de Esposende",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.686611111 41.163722222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10276314"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Esta\u00e7\u00e3o de Zoologia Mar\u00edtima Dr. Augusto Nobre",
                     "xml:lang": "pt"
                 }
             },
@@ -6715,6 +6795,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.965472222 39.547694444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q25422838"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Vinho de Alcoba\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.546255218 38.646764011)"
                 },
                 "item": {
@@ -6932,6 +7028,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "N\u00facleo Rural de Ervidel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.09375 38.763526)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q652806"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ocean\u00e1rio de Lisboa",
                     "xml:lang": "pt"
                 }
             },
@@ -7332,6 +7444,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Reservat\u00f3rio da M\u00e3e d'\u00c1gua das Amoreiras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.687225 41.168115)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1439061"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Sea Life Center",
                     "xml:lang": "pt"
                 }
             },

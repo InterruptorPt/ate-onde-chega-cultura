@@ -154,6 +154,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.507269055 40.277842986)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136324270"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Central da Universidade da Beira Interior",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.155692 38.710734)"
                 },
                 "item": {
