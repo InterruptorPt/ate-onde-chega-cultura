@@ -12,36 +12,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.148655 38.723312)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1188009"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Q1188009"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.14846611 38.72314835)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1188020"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Q1188020"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.626736111 41.152491666)"
                 },
                 "item": {
@@ -335,6 +305,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.148655 38.723312)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1188009"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Oliveira Martins memorial",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.590359882 38.841470101)"
                 },
                 "item": {
@@ -344,6 +330,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Porta do Sol",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.14846611 38.72314835)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1188020"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Rosa Ara\u00fajo monument",
                     "xml:lang": "en"
                 }
             },
@@ -12696,6 +12698,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumento alusivo \u00e0 morte do Lidador",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.154473184 38.730397964)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107342782"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento ao 25 Abril",
                     "xml:lang": "pt"
                 }
             },
