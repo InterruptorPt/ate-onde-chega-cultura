@@ -91,22 +91,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.522279116 37.300318745)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q136186686"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Cave of the Heart Retreats",
-                    "xml:lang": "en"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.648819444 37.124911111)"
                 },
                 "item": {
@@ -3748,6 +3732,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Monumental Pra\u00e7a de Touros da P\u00f3voa de Varzim",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.53894722 41.135425)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q980615"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Multiusos de Gondomar",
                     "xml:lang": "pt"
                 }
             },
