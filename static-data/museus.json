@@ -4139,6 +4139,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.892815807 40.360812867)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q65161297"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal Dr. Ant\u00f3nio Sim\u00f5es Saraiva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.259106 39.090271)"
                 },
                 "item": {
@@ -4379,6 +4395,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.78093889 41.53067222)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333568"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Esposende",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.758211135 41.380550384)"
                 },
                 "item": {
@@ -4436,6 +4468,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu Municipal de Palmela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.28267333 41.20668417)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10333571"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Penafiel",
                     "xml:lang": "pt"
                 }
             },
