@@ -273,6 +273,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.909496426 38.570817168)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q125365953"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Homenagem de \u00c9vora \u00e0s v\u00edtimas da inquisi\u00e7\u00e3o Portuguesa",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-27.053838 38.73373)"
                 },
                 "item": {
