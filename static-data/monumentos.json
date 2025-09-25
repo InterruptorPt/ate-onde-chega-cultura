@@ -305,6 +305,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.672622 37.103834)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136369233"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monument to Navigators Lacobrigenses",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.89896 32.68451)"
                 },
                 "item": {
@@ -378,6 +394,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Rosa dos Ventos",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.670764 37.100522)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136372942"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Statue of Henry the Navigator in Lagos",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.668444 37.098054)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136369369"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Statue of Saint Gon\u00e7alo in Lagos",
                     "xml:lang": "en"
                 }
             },
