@@ -1963,6 +1963,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.705181009 40.422080526)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136378883"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Interpreta\u00e7\u00e3o da Rep\u00fablica Afonso Costa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.711086 40.419012)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56351217"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Interpreta\u00e7\u00e3o da Serra da Estrela",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.120369444 38.901711111)"
                 },
                 "item": {
