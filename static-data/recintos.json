@@ -3771,6 +3771,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.306666666 41.435277777)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q7155855"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Multiusos de Guimar\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.494897 40.899993)"
                 },
                 "item": {
