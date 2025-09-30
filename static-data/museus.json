@@ -2411,6 +2411,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.428896 40.208655)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942211"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do Chiado",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.841077 37.025962)"
                 },
                 "item": {
@@ -7524,6 +7540,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Reservat\u00f3rio da M\u00e3e d'\u00c1gua das Amoreiras",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.832941502 40.111964488)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96760070"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Salina do Corredor da Cobra, incluindo o Armaz\u00e9m de Sal e o N\u00facleo Museol\u00f3gico do Sal",
                     "xml:lang": "pt"
                 }
             },
