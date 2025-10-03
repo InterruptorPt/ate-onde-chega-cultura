@@ -1180,6 +1180,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.134308 38.736356)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q37813185"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Imp\u00e9rio",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6366899 41.1573338)"
                 },
                 "item": {
@@ -1557,6 +1573,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Royal Cine",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.423225 40.21167)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136430445"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Salas de Cinema das Galerias Avenida",
                     "xml:lang": "pt"
                 }
             },
