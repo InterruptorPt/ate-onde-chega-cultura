@@ -411,6 +411,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.13058 39.28992)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q34909252"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bacalh\u00f4a Buddha Eden",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.743283 38.040656)"
                 },
                 "item": {
@@ -6356,6 +6372,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu do Azeite",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.3765451 38.7956828)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136436938"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Bonsai",
                     "xml:lang": "pt"
                 }
             },
