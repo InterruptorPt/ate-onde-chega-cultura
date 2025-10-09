@@ -3963,6 +3963,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.158249225 38.715860063)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136460298"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Jo\u00e3o de Deus",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.350298611 40.3585875)"
                 },
                 "item": {
@@ -7435,7 +7451,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.158284 38.715839)"
+                    "value": "Point(-9.159493397 38.713100573)"
                 },
                 "item": {
                     "type": "uri",
