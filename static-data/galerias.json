@@ -140,6 +140,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.974021 38.7056231)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101072479"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Galeria Municipal de Montijo",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.8885966 37.1529573)"
                 },
                 "item": {
@@ -581,22 +597,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cooperativa \u00c1rvore",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.97403 38.705587)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q98961778"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Edif\u00edcio da Assembleia Municipal e Galeria Municipal",
                     "xml:lang": "pt"
                 }
             },
