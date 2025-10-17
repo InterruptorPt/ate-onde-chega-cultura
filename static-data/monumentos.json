@@ -6544,6 +6544,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.6676531 40.4524693)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106225777"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de Santa Marinha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.182083 38.701876)"
                 },
                 "item": {
@@ -19268,22 +19284,6 @@
                 "item": {
                     "type": "uri",
                     "value": "http://www.wikidata.org/entity/Q66814046"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pelourinho de Santa Marinha",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-7.663505077 40.450511932)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q106225777"
                 },
                 "itemLabel": {
                     "type": "literal",
