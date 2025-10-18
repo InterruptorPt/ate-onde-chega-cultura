@@ -2171,6 +2171,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.906300937 38.572347429)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136526371"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cole\u00e7\u00e3o de Carruagens",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.426573 41.548492)"
                 },
                 "item": {
