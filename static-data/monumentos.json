@@ -6864,6 +6864,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.805637 37.924745)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q134961648"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro de S\u00e3o Torpes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.387025 41.557229)"
                 },
                 "item": {
@@ -9961,22 +9977,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Marco de L\u00e9gua (restos em dep\u00f3sito na C\u00e2mara Municipal de Vila Franca de Xira)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.805611 37.92472)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q134961648"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Marco de S\u00e3o Torpes",
                     "xml:lang": "pt"
                 }
             },
