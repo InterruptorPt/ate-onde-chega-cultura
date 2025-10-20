@@ -8544,6 +8544,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.532138888 37.537194444)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136535739"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ermida de Nossa Senhora das Neves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.611111 41.147811)"
                 },
                 "item": {
