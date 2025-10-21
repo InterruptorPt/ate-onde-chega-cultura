@@ -8256,6 +8256,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.198039 40.797024)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136543748"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Dolm\u00e9n ou Mamoa 1 do Juncal",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.710946 41.229767)"
                 },
                 "item": {
@@ -9609,6 +9625,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "L\u00e1pide na parede fronteira \u00e0 Casa da C\u00e2mara",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.115093 40.651731)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136543866"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Mamoa 1 do Vale d\u00b4Anta",
                     "xml:lang": "pt"
                 }
             },
@@ -13936,6 +13968,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.664197 40.845445)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136544004"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Orca de Forles",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.904218 40.51302)"
                 },
                 "item": {
@@ -13945,6 +13993,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Orca de Pramelas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.004693 40.460441)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136544022"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Orca de Santo Tisco",
                     "xml:lang": "pt"
                 }
             },
@@ -14553,6 +14617,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pedra de audi\u00eancia (e carvalho)",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.826991 40.785397)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136544055"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pedralta 1",
                     "xml:lang": "pt"
                 }
             },
@@ -21016,6 +21096,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Penedo de Vegide com duas sepulturas escavadas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.808919 40.901599)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136544073"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Picoto do Vasco",
                     "xml:lang": "pt"
                 }
             },

@@ -5835,6 +5835,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.933081338 39.465134993)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136542324"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Arte e Atrelagem de Gavi\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.193504 38.695908)"
                 },
                 "item": {
@@ -6267,6 +6283,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.866594475 37.955496646)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136542202"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Sines",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.1432 38.7134)"
                 },
                 "item": {
@@ -6291,7 +6323,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Museu de Vila do Bispo",
+                    "value": "Museu de Vila do Bispo - Celeiro da Hist\u00f3ria",
                     "xml:lang": "pt"
                 }
             },
