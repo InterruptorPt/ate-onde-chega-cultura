@@ -1728,7 +1728,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.30111 38.990078)"
+                    "value": "Point(-7.301096 38.990061)"
                 },
                 "item": {
                     "type": "uri",
@@ -2288,7 +2288,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.310654 38.980256)"
+                    "value": "Point(-7.310605 38.980298)"
                 },
                 "item": {
                     "type": "uri",
@@ -2496,7 +2496,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.300193 38.98664)"
+                    "value": "Point(-7.300237 38.986597)"
                 },
                 "item": {
                     "type": "uri",
@@ -2640,7 +2640,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.299622 38.982186)"
+                    "value": "Point(-7.299638 38.982159)"
                 },
                 "item": {
                     "type": "uri",
@@ -2720,7 +2720,7 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.273067 38.974554)"
+                    "value": "Point(-7.27156 38.975051)"
                 },
                 "item": {
                     "type": "uri",
