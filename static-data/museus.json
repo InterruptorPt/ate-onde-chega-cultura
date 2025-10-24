@@ -7707,6 +7707,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.132406 38.710595)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q11780"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ru\u00ednas do Teatro Romano",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.832941502 40.111964488)"
                 },
                 "item": {
