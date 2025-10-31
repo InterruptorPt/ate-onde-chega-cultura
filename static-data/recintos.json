@@ -2187,6 +2187,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.138054 38.743667)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10287099"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Roma",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.423555555 41.549666666)"
                 },
                 "item": {
@@ -3236,22 +3252,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "F\u00f3rum Cultural do Seixal",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.13805 38.74367)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10287099"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "F\u00f3rum Lisboa",
                     "xml:lang": "pt"
                 }
             },

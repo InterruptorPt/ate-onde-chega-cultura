@@ -12,21 +12,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.16232419 38.882614824)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q99341092"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Q99341092"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-7.8893 39.0561)"
                 },
                 "item": {
@@ -2868,6 +2853,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "F\u00e1brica do Ingl\u00eas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.16232419 38.882614824)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q99341092"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "F\u00e1brica-Museu da Ameixa de Elvas",
                     "xml:lang": "pt"
                 }
             },
