@@ -171,6 +171,54 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.143646008 38.711575153)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136697650"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Kamasutra Bar",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.135351057 38.709499448)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136697462"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Lisbon LGBTI+ Community Centre",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.144470923 38.71118774)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136697781"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Maria Caxuxa",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.11314167 38.76350278)"
                 },
                 "item": {
@@ -180,6 +228,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Quinta do Contador Mor",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.144606184 38.711491652)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136697667"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Side Bar",
                     "xml:lang": "en"
                 }
             },
