@@ -432,6 +432,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.146734255 38.707089739)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136724667"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Statue of Bernardo de S\u00e1 Nogueira de Figueiredo, Marqu\u00eas de S\u00e1 da Bandeira",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.670764 37.100522)"
                 },
                 "item": {
