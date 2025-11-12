@@ -5164,6 +5164,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.591069794 40.346862133)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136763225"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da Arte e do Colecionismo de Cantanhede",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.740277777 32.735833333)"
                 },
                 "item": {
@@ -6357,6 +6373,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu de S\u00e3o Roque",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.001670938 38.332949153)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136760230"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Viana do Alentejo",
                     "xml:lang": "pt"
                 }
             },
