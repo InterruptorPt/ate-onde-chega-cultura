@@ -587,6 +587,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.62636831 41.15945899)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q16496719"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Bar Labirintho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.13539 38.71893)"
                 },
                 "item": {
@@ -3051,6 +3067,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.610934126 41.140870525)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136767422"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cova Funda",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.129397576 38.716501736)"
                 },
                 "item": {
@@ -3076,6 +3108,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Desterro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.64222901 41.16046973)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136767316"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Discoteca Coqueiro",
                     "xml:lang": "pt"
                 }
             },
@@ -3275,6 +3323,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.616802373 41.155854566)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136767399"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Forr\u00f3bod\u00f3",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.42273611 41.54098889)"
                 },
                 "item": {
@@ -3380,6 +3444,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "LU.CA \u2013 Teatro Luis de Cam\u00f5es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.618253 41.1421267)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10321278"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Lu\u00eds Armastrondo",
                     "xml:lang": "pt"
                 }
             },
@@ -3908,6 +3988,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Parque Aqu\u00e1tico de Amarante",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.655232782 41.160043475)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136767321"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pavilh\u00e3o Infante Sagres",
                     "xml:lang": "pt"
                 }
             },
@@ -4708,6 +4804,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "TMN ao Vivo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.6505553 41.1636552)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136767353"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Taberna 2000",
                     "xml:lang": "pt"
                 }
             },
