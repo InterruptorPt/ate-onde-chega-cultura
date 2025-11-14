@@ -5452,6 +5452,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.212542932 41.203945655)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136774031"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu da Mem\u00f3ria Rural",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.614511 41.143693)"
                 },
                 "item": {
