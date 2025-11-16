@@ -4572,6 +4572,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.9338932 37.0129511)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136792787"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Faro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.161472222 38.878944444)"
                 },
                 "item": {
@@ -7349,6 +7365,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "N\u00facleo Rural de Ervidel",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.664944444 37.635777777)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136799930"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "N\u00facleo de Arte Isl\u00e2mica do Museu de M\u00e9rtola",
                     "xml:lang": "pt"
                 }
             },
