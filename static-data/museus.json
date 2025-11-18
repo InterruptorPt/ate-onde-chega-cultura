@@ -7084,6 +7084,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.198762392 38.707676796)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136820227"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Tesouro Real",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.828611111 41.692888888)"
                 },
                 "item": {
