@@ -4668,6 +4668,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.148603644 39.675795543)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136825049"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Municipal de Vila de Rei",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.1574 39.3618)"
                 },
                 "item": {
@@ -6276,7 +6292,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Museu de Lanif\u00edcios",
+                    "value": "Museu de Lanif\u00edcios da Universidade da Beira Interior",
                     "xml:lang": "pt"
                 }
             },
