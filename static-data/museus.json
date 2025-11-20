@@ -908,6 +908,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.909709 40.660812)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815655"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Cal\u00e7ada",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.163758 38.88026)"
                 },
                 "item": {
@@ -7044,7 +7060,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Museu do Quartzo",
+                    "value": "Museu do Quartzo - Centro de Interpreta\u00e7\u00e3o Prof. Galopim de Carvalho",
                     "xml:lang": "pt"
                 }
             },
