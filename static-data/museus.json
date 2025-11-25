@@ -2252,6 +2252,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.147873 38.714806)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q17117436"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Convento dos Cardais",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.61239722 41.14197222)"
                 },
                 "item": {
@@ -7717,6 +7733,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pa\u00e7os municipais de Guimar\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-6.9418126 41.0263412)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136956035"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Plataforma de Ci\u00eancia Aberta",
                     "xml:lang": "pt"
                 }
             },
