@@ -2620,6 +2620,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.725222 37.78972)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136996353"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Ermida de S\u00e3o Salvador do Mosteiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.312588 41.458578)"
                 },
                 "item": {
