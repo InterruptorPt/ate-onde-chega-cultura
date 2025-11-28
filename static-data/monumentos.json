@@ -18415,22 +18415,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.131417 40.381533)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66815560"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Pelourinho de Ovoa",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.467985 39.562968)"
                 },
                 "item": {
@@ -20824,6 +20808,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pelourinho de \u00d3bidos",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.131417 40.381533)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66815560"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pelourinho de \u00d3voa",
                     "xml:lang": "pt"
                 }
             },
