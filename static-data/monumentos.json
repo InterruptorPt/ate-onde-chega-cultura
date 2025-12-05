@@ -12783,6 +12783,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.261458333 39.087888888)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q109290084"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Monumento a Joaquim Agostinho",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.294291666 41.443125)"
                 },
                 "item": {
