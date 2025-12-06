@@ -1708,6 +1708,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.421178759 41.844444345)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137216976"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro Ci\u00eancia Viva dos Arcos - Oficinas de Criatividade Himalaya",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.009690373 37.081977156)"
                 },
                 "item": {
@@ -7781,6 +7797,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pa\u00e7os municipais de Guimar\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.63866111 41.15063611)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10350275"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Planet\u00e1rio do Porto - Centro Ci\u00eancia Viva",
                     "xml:lang": "pt"
                 }
             },
