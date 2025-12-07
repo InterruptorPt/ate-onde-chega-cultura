@@ -2188,6 +2188,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.404464892 37.650784525)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137218931"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Valoriza\u00e7\u00e3o da Viola Campani\u00e7a e do Cante de Improviso",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.909416666 37.081833333)"
                 },
                 "item": {
