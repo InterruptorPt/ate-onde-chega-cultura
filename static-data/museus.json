@@ -908,6 +908,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.686774675 41.177877587)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137549901"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Arquitectura",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.909709 40.660812)"
                 },
                 "item": {
@@ -6948,7 +6964,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Museu do Design e da Moda",
+                    "value": "Museu do Design",
                     "xml:lang": "pt"
                 }
             },
