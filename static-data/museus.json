@@ -1420,6 +1420,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.862383722 40.358595192)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137613572"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu Funda\u00e7\u00e3o Dona Maria Em\u00edlia Vasconcelos Cabral",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.105919 38.79316)"
                 },
                 "item": {
