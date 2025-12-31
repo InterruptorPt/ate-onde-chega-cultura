@@ -122,6 +122,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.095467734 38.766916669)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137638399"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Ant\u00f3nio Mega Ferreira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.146062 38.710814)"
                 },
                 "item": {
@@ -163,6 +179,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Central da Universidade da Beira Interior",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.104256942 38.772438526)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137639650"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca David Mour\u00e3o-Ferreira",
                     "xml:lang": "pt"
                 }
             },

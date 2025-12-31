@@ -2012,6 +2012,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.09617776 39.043491277)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137638302"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Centro de Ci\u00eancia Viva do Caf\u00e9",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.263948 39.085602)"
                 },
                 "item": {
@@ -7845,6 +7861,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pa\u00e7os municipais de Guimar\u00e3es",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.393656057 41.564872996)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137638225"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Planet\u00e1rio - Casa da Ci\u00eancia de Braga - Centro Ci\u00eancia Viva",
                     "xml:lang": "pt"
                 }
             },
