@@ -2508,6 +2508,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.974261594 38.84949562)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137698979"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "EVOA \u2013 Espa\u00e7o de Visita\u00e7\u00e3o e Observa\u00e7\u00e3o de Aves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-6.368292193 41.399103769)"
                 },
                 "item": {
