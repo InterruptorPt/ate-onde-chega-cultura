@@ -4364,6 +4364,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.50970854 41.162685198)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137781193"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu Mineiro de S\u00e3o Pedro da Cova",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.490222222 40.098361111)"
                 },
                 "item": {
@@ -6869,6 +6885,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu do Brinquedo da Madeira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.495723963 40.90397238)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137781170"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu do Cal\u00e7ado",
                     "xml:lang": "pt"
                 }
             },
