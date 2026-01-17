@@ -8431,7 +8431,55 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-7.464199 40.750943)"
+                    "value": "Point(-7.467969 40.750853)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137796736"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D\u00f3lmen de Carapito",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.468368 40.749049)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137796736"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D\u00f3lmen de Carapito",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.449102 40.78348)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137796749"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "D\u00f3lmen de Carapito",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.466947 40.746789)"
                 },
                 "item": {
                     "type": "uri",

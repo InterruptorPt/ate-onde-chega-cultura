@@ -1228,6 +1228,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.484193613 39.354242753)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92297019"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Dr. Pina Machado",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.006271 38.925937)"
                 },
                 "item": {
@@ -1397,6 +1413,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa-Museu Egas Moniz",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.427193163 40.207001006)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137795047"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa-Museu El\u00edsio de Moura",
                     "xml:lang": "pt"
                 }
             },
