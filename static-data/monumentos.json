@@ -5023,11 +5023,11 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.120984 38.931468)"
+                    "value": "Point(-8.12099 38.92988)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q66813772"
+                    "value": "http://www.wikidata.org/entity/Q20190453"
                 },
                 "itemLabel": {
                     "type": "literal",
