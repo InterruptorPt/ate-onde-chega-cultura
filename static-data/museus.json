@@ -7628,6 +7628,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.638261111 37.517511111)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137815402"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "N\u00facleo Museol\u00f3gico de Alcaria dos Javazes",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.903055555 32.650833333)"
                 },
                 "item": {
