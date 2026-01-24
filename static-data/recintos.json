@@ -3403,6 +3403,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.154314275 38.737306353)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137857297"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Grande Audit\u00f3rio Gulbenkian",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.614915 41.141989)"
                 },
                 "item": {
@@ -5251,7 +5267,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Teatro Gymnasio",
+                    "value": "Teatro Gin\u00e1sio",
                     "xml:lang": "pt"
                 }
             },
