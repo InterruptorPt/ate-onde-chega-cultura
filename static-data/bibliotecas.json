@@ -538,6 +538,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.872093 39.06784)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q100999002"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca Municipal Ant\u00f3nio Mota",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.611606 40.981081)"
                 },
                 "item": {
@@ -2579,22 +2595,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca Municipal de Azambuja",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-8.872093 39.06784)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q100999002"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Biblioteca Municipal de Bai\u00e3o",
                     "xml:lang": "pt"
                 }
             },
@@ -5667,6 +5667,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Biblioteca do Pal\u00e1cio da Bolsa",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.144193306 38.751021132)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q137392626"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Biblioteca dos Coruch\u00e9us",
                     "xml:lang": "pt"
                 }
             },
