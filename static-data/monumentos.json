@@ -11791,6 +11791,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.567147559 38.183302038)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q10328547"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Memorial ao 25 de Abril",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.745027777 41.347472222)"
                 },
                 "item": {
