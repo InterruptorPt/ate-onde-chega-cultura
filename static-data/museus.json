@@ -1163,6 +1163,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.656371 41.159495)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q2940773"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa de Serralves",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.575945854 39.656806945)"
                 },
                 "item": {
@@ -1204,6 +1220,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Casa do Cais Novo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.6552518 41.1589949)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q138333467"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Cinema Manoel de Oliveira",
                     "xml:lang": "pt"
                 }
             },
@@ -6027,22 +6059,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-8.65945278 41.15913333)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1954380"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Museu de Arte Contempor\u00e2nea (Funda\u00e7\u00e3o de Serralves)",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-9.209166666 38.695555555)"
                 },
                 "item": {
@@ -6100,6 +6116,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Museu de Arte Contempor\u00e2nea de Elvas",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.65945278 41.15913333)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q1954380"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Museu de Arte Contempor\u00e2nea de Serralves",
                     "xml:lang": "pt"
                 }
             },
