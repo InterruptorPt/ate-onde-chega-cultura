@@ -1227,6 +1227,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.668823183 41.153707454)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q131561831"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa do Cinema Manoel de Oliveira",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.6552518 41.1589949)"
                 },
                 "item": {

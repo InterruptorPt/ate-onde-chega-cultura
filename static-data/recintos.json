@@ -571,22 +571,6 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-9.1497664 38.7346077)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q37813148"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Avis Cinema",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
                     "value": "Point(-8.62636831 41.15945899)"
                 },
                 "item": {
@@ -2084,6 +2068,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cinema Alvalade",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.1497664 38.7346077)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q37813148"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema Avis",
                     "xml:lang": "pt"
                 }
             },
